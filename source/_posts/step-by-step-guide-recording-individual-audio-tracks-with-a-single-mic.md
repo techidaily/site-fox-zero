@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Individual Audio Tracks with a Single Mic"
-date: 2024-09-18 14:24:47
-updated: 2024-09-20 10:56:51
+date: 2024-09-13T21:50:02.386Z
+updated: 2024-09-19T21:24:28.193Z
 tags:
   - product
 categories:
@@ -60,6 +60,13 @@ Action Tutorials
 
 ![Mirillis Action! - Mic Settings popup](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings_popup.jpg "Mic settings popup") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tutorial for Action! 2.x versions: 
 
  This tutorial part is dedicated for Action! 2.x version users only. 
@@ -67,6 +74,13 @@ Action Tutorials
  Open Action! Hotkeys Settings and set **Record Audio** hotkey to the same as **Record Video** 
 
 ![Mirillis Action! - Hotkeys Settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_hotkeys.jpg "Hotkeys settings") 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Open Action! Audio Recording tab 
 
@@ -88,6 +102,13 @@ Action Tutorials
 
 ![Video and Audio recordings are in progress...](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_recording.jpg "Video and Audio recordings are in progress...") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press a hotkey again to stop both Video and Audio recordings. Check recordings manager in **Video Recording** tab and **Audio Recording** tab for your new recordings. 
 
  Please note that by using red start/stop recording button you can stop Audio or Video recording separately. 
@@ -102,8 +123,6 @@ Share this tutorial
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

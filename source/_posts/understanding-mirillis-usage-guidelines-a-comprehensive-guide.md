@@ -1,7 +1,7 @@
 ---
 title: "Understanding Mirillis' Usage Guidelines: A Comprehensive Guide"
-date: 2024-09-18 22:32:12
-updated: 2024-09-20 11:28:26
+date: 2024-09-12T20:16:15.486Z
+updated: 2024-09-20T05:17:09.922Z
 tags:
   - product
 categories:
@@ -41,6 +41,13 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
 4.3 Your account password is stored in encrypted form and we do not have any access or knowlegde about your password. We cannot remind you your password, the only option if you lost the password is to reset a password to a new one. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Privacy Policy
 
 5.1 Please read this information carefully before creating Mirillis account. Creating Mirillis account signifies acceptance of the terms of Mirillis Privacy Policy.
@@ -53,19 +60,22 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
  5.5 Your e-mail address information may be used by Mirillis Ltd. for contact purposes on important matters. We do not sell any information about our customers or website users to any third parties.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### General information
 
  6.1 This terms may be changed from time to time.
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
