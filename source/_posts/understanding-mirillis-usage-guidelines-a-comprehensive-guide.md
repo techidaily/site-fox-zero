@@ -1,7 +1,7 @@
 ---
 title: "Understanding Mirillis' Usage Guidelines: A Comprehensive Guide"
-date: 2024-09-24T21:06:51.324Z
-updated: 2024-09-25T21:49:47.148Z
+date: 2024-09-25T07:29:27.178Z
+updated: 2024-09-30T02:41:31.102Z
 tags:
   - product
 categories:
@@ -24,10 +24,10 @@ Terms - this terms and conditions of sale
 Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP: 973-097-55-52, REGON: 080432823, Captial: 30000pln, KRS: 0000356397 - Sąd Rejonowy w Zielonej Górze, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General conditions
@@ -41,10 +41,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 1.4 You acknowledge that you have read specified Mirillis product End User License Agreement and you accept terms and conditions of this agreement. If you do not agree with the terms of this End User License Agreement you must remove specified Mirillis product files from your storage devices, cease to use the product, discontinue purchase and discountinue creating Mirillis account.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -56,10 +56,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 4.3 Your account password is stored in encrypted form and we do not have any access or knowlegde about your password. We cannot remind you your password, the only option if you lost the password is to reset a password to a new one. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy Policy
@@ -75,10 +75,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
  5.5 Your e-mail address information may be used by Mirillis Ltd. for contact purposes on important matters. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General information
@@ -100,19 +100,24 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-discovering-the-past-best-history-youtubers/"><u>[New] 2024 Approved Discovering the Past Best History YouTubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-share-facebook-videos-with-whatsapp/"><u>[Updated] 2024 Approved A Comprehensive Guide to Share Facebook Videos with WhatsApp</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-enhancing-lighting-and-shadows-in-obs-video-for-2024/"><u>[Updated] Enhancing Lighting and Shadows in OBS Video for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-uniting-friends-across-operating-systems-with-skype-groups-for-2024/"><u>[Updated] Uniting Friends Across Operating Systems with Skype Groups for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/essential-tips-to-address-and-correct-recurring-gameplay-interruptions-in-palworld/"><u>Essential Tips to Address & Correct Recurring Gameplay Interruptions in Palworld</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-nextjs-and-tailwind-css-template-for-stunning-marketing-landing-pages-by-creativetim/"><u>Free Next.js and Tailwind CSS Template for Stunning Marketing Landing Pages by CreativeTim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-end-rubik-design-elite-fullscreen-bootstrapped-web-templating-by-creatively-timed/"><u>High-End Rubik Design: Elite Fullscreen Bootstrapped Web Templating by Creatively Timed</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a59-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A59 5G FRP</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/over-20-stunning-material-ui-react-templates-by-creative-tim/"><u>Over 20 Stunning Material-UI React Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pro-level-dashboard-creation-mastering-vue-and-laravel-frameworks-with-json-api-integration-by-creative-tim/"><u>PRO Level Dashboard Creation: Mastering Vue and Laravel Frameworks with JSON API Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/promax-material-kit-for-flutter-projects-exclusive-high-quality-design-suite-from-creative-tim/"><u>ProMax Material Kit for Flutter Projects – Exclusive, High-Quality Design Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/react-and-material-ui-integration-with-argon-pro-dashboard-by-creative-tim-elevate-your-ux-management/"><u>React and Material-UI Integration with Argon PRO Dashboard by Creative Tim - Elevate Your UX Management!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mobile-app-roundup-best-mp4-to-mp3-converters/"><u>Updated In 2024, Mobile App Roundup Best MP4 to MP3 Converters</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-easy-steps-to-download-videos-from-220ro-for-pc-and-mac-users/"><u>1. Easy Steps to Download Videos From 220.ro for PC & MAC Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stabilized-shots-fighting-instability/"><u>2024 Approved Stabilized Shots Fighting Instability</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-note-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix Note 30 5G</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/creating-interactive-web-pages-like-a-pro-mastering-the-cli-for-flipbooks-at-flipbuildercom/"><u>Creating Interactive Web Pages Like a Pro: Mastering the CLI for Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-a2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi A2 Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-make-a-diy-flipbook-from-paper-photographs-using-flipbuilder/"><u>How to Make a DIY Flipbook From Paper Photographs Using FlipBuilder</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-coordinated-duet-clips-with-tiktok-twist/"><u>In 2024, Coordinated Duet Clips with TikTok Twist</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/rtvlxl-video-grabber-seamless-vids-from-rtlxlnl-on-pc-and-mac/"><u>RTVLXL Video Grabber: Seamless Vids From rtlxl.nl on PC & MAC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/streamlined-ways-to-download-and-transform-yapfiles-videos-into-various-file-types-mp4-movies-or-flv/"><u>Streamlined Ways to Download and Transform Yapfiles Videos Into Various File Types: MP4, Movies, or FLV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oneplus-ace-2-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your OnePlus Ace 2 Pro Phone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/transforming-e-book-creation-will-your-innovations-lead-us-to-a-new-era-in-online-reading-through-flipbuildercom/"><u>Transforming E-Book Creation – Will Your Innovations Lead Us to a New Era in Online Reading Through FlipBuilder.com?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-broken-hyperlinks-in-your-html-based-ebooks-made-using-flipbuilder-technology/"><u>Troubleshooting Broken Hyperlinks in Your HTML-Based Ebooks Made Using FlipBuilder Technology</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/tutorial-aligning-your-bookmarks-to-the-left-using-flipbuilder-tool/"><u>Tutorial: Aligning Your Bookmarks to the Left Using FlipBuilder Tool</u></a></li>
 </ul></div>
 
