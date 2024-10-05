@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools
-date: 2024-09-24T02:17:12.902Z
-updated: 2024-09-29T23:42:15.817Z
+date: 2024-09-29T18:29:39.905Z
+updated: 2024-10-05T18:11:41.685Z
 tags:
   - user-guide
 categories:
@@ -99,22 +99,15 @@ This dialog enables you to make configurations to an XML File. You can create an
 
 ![XML Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-file.png "XML Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manage general XML file settings
 
 Select the XML file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Manage XML file install parameters
@@ -131,6 +124,13 @@ Use the “New Comment” context menu option. The newly created element has a "
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new XML element removal
 
 Use the “New Element Removal” context menu option. You can configure this operation from its [Element Removal](https://tools.techidaily.com/advancedinstaller/products/) tab. 
@@ -139,18 +139,18 @@ Use the “New Element Removal” context menu option. You can configure this op
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Removing an XML element or comment
 
 Use the “Delete” context menu option or press theDelete key while a tree item is selected.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The root element cannot be deleted and must match the root element of the file being updated (if any).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Moving an XML element up, down, left or right
 
@@ -158,25 +158,25 @@ Use the “Move Up”, “Move Down”, “Move Left” or “Move Right” tree
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If an element or component is **dragged** when theShift key is pressed, it will be**copied** to its new location rather than_moved_. All its child elements and attributes will also be copied **(duplicate)**.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * The **order** in which the elements appear in the tree is very important as it is used during the XML update process and should match the order of the elements from the XML file being updated.
 * You can bulk edit or delete elements by selecting them in the tree using Ctrl+Click orShift+Click shortcuts.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Escaping special XML characters
 
 Read more in [XML escaped characters](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -231,19 +231,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-tune-into-the-beats-with-these-free-online-scanners/"><u>[New] 2024 Approved Tune Into the Beats with These Free Online Scanners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-time-saving-routines-for-capturing-vimeo-media/"><u>[New] Time-Saving Routines for Capturing Vimeo Media</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revisiting-yesteryears-social-stories-on-fb-device-guide/"><u>[Updated] 2024 Approved Revisiting Yesteryear's Social Stories on FB Device Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-navigating-the-world-of-adobe-storage-options-the-complete-review-and-comparisons-for-2024/"><u>[Updated] Navigating the World of Adobe Storage Options The Complete Review & Comparisons for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/decoding-windows-11-new-functionality-for-2024/"><u>Decoding Windows 11 New Functionality for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-keyboard-solutions-when-left-right-and-up-arrow-keys-fail/"><u>Fixing Your Keyboard: Solutions When Left, Right, and Up Arrow Keys Fail</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-recovery-modes-a-comprehensive-tutorial/"><u>Mastering iPhone Recovery Modes: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pre-publish-configuration-of-metadata-for-flip-pages-with-flipbuildercom/"><u>Pre-Publish Configuration of Metadata for Flip Pages with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/superior-cameras-for-clear-smooth-podcast-sessions-for-2024/"><u>Superior Cameras for Clear, Smooth Podcast Sessions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-conversation-a-guide-to-engaging-dialogues-in-chatgpt-roleplaying/"><u>The Art of Conversation: A Guide to Engaging Dialogues in ChatGPT Roleplaying</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-of-page-toolbar-placement-for-enhanced-user-experience-on-flipbuilder/"><u>Top-of-Page Toolbar Placement for Enhanced User Experience on FlipBuilder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-6-tech-for-cross-lingual-content-shift/"><u>[Updated] 2024 Approved Expert 6 Tech for Cross-Lingual Content Shift</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-end-your-active-discord-association-for-2024/"><u>[Updated] End Your Active Discord Association for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-monetization-does-youtube-pay-monthly-for-2024/"><u>[Updated] YouTube Monetization Does YouTube Pay Monthly for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-smart-meter-bus-controller-drivers-for-windows-11-10-8-and-7/"><u>Download Smart Meter Bus Controller Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-win32kfullsys-causing-system-crashes/"><u>How to Troubleshoot and Fix 'Win32kfull.sys' Causing System Crashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>In 2024, The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-financial-frontier-maximizing-your-content-revenue/"><u>In 2024, YouTube's Financial Frontier Maximizing Your Content Revenue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-iphones-top-watermarking-software-choices-for-2024/"><u>In-Depth Look at iPhone's Top Watermarking Software Choices for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-site-velocity-a-guide-to-enhanced-webpage-efficiency/"><u>Optimizing Site Velocity: A Guide to Enhanced Webpage Efficiency</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
 </ul></div>
 

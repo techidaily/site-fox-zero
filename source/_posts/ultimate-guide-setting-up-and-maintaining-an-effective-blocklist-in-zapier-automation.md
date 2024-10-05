@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up & Maintaining an Effective Blocklist in Zapier Automation"
-date: 2024-09-27T06:10:23.465Z
-updated: 2024-09-30T06:48:39.939Z
+date: 2024-10-04T20:34:25.290Z
+updated: 2024-10-05T20:19:11.062Z
 tags:
   - product
 categories:
@@ -46,6 +46,13 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
  If you do not want Action! to monitor selected applications or processes you can use Action! exlude list. In this tutorial you will learn how to create and manage exlude list. 
@@ -62,10 +69,10 @@ Action Tutorials
 ![Mirillis Action! - Default installation folder](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_default_installation_folder.jpg "Default installation folder") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create Mirillis Action! exclude list file 
@@ -74,42 +81,22 @@ Action Tutorials
 
 ![Mirillis Action! - exclude file](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_exclude_file.jpg "Action! exclude file") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move **exclude.txt** file to Action! installation folder.
 
 ![Mirillis Action! - exclude file](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_default_installation_folder_exclude_file.jpg "Action! exclude file") 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Check process / application name 
 
  Now check the name of the process or application you want to add to exclude list. Make sure that application you want to exclude is running and open Task Manager. Localize your selected process one the list. In our example it will be **test.exe** 
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_exclude_task_manager.jpg "Select activate tab") 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add process to exclude list 
 
@@ -120,6 +107,13 @@ Action Tutorials
  To exclude more processes enter every process name in a new line. 
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_edit_exclude_list2.jpg "Activation window with all fields filled in") 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Please remember to close Action! before editing **exclude.txt** file. 
 
@@ -141,18 +135,16 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-tailored-approaches-to-pc-screen-recordings-using-dell/"><u>[New] 2024 Approved Tailored Approaches to PC Screen Recordings Using Dell</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eamless-conversion-of-video-content-to-dynamic-gif-formats-for-2024/"><u>[New] Seamless Conversion of Video Content to Dynamic GIF Formats for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>[Updated] Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-5-free-screen-recorders-on-windows-10-2023-update/"><u>[Updated] In 2024, Top 5 Free Screen Recorders on Windows 10-2023 Update</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-a1-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo A1 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719267835321-reactivating-silenced-pc-speakers-easy-fixes-ahead/"><u>Reactivating Silenced PC Speakers – Easy Fixes Ahead!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-role-of-quick-access-memory-in-enhancing-processor-speed/"><u>The Role of Quick Access Memory in Enhancing Processor Speed</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-of-page-toolbar-placement-for-enhanced-user-experience-on-flipbuilder/"><u>Top-of-Page Toolbar Placement for Enhanced User Experience on FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-boring-content-a-guide-to-creating-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content: A Guide to Creating Stunning Flash eBooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-various-pdf-formats-effortlessly-with-top-techniques-from-flipbuildercom/"><u>Transforming Various PDF Formats Effortlessly with Top Techniques From FlipBuilder.com</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/create-beautiful-interactive-e-books-from-pdfs-craft-engaging-multi-page-presentations-with-diverse-templates-flipbuildercom/"><u>Create Beautiful Interactive E-Books From PDFs: Craft Engaging Multi-Page Presentations with Diverse Templates [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-90-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor 90 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a38-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A38 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-tp-link-deco-p9-mesh-router-revolutionizing-home-internet-access/"><u>The Ultimate Guide to the TP-LInk Deco P9 Mesh Router: Revolutionizing Home Internet Access</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-pc-audio-malfunctions-step-by-step-solutions-for-zero-output/"><u>Troubleshoot and Resolve PC Audio Malfunctions - Step-by-Step Solutions for Zero Output</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
 </ul></div>
 

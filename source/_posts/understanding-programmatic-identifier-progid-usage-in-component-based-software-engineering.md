@@ -1,7 +1,7 @@
 ---
 title: Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering
-date: 2024-09-23T00:44:55.432Z
-updated: 2024-09-30T09:59:04.008Z
+date: 2024-09-30T20:08:55.027Z
+updated: 2024-10-05T19:44:04.136Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## ProgID Properties
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,10 +90,16 @@ Table of Contents
  Detailed explanation for the files handled by the selected ProgID. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -101,10 +107,10 @@ Table of Contents
  Specify an icon that will be associated with all the files handled by that ProgID. Choose a file containing icons by using the\[Browse... \] button, and select an icon from the available icons from the drop-down list box. Press\[Reset \] to revert to no icon. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mac OS X
@@ -146,15 +152,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/oes-your-channel-benefit-from-regular-youtube-payments/"><u>[New] Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-steps-to-download-videos-from-220ro-for-pc-and-mac-users/"><u>1. Easy Steps to Download Videos From 220.ro for PC & MAC Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-video-retriever-quick-guide-to-fetching-breakcom-content-on-pc-and-mac/"><u>1. Easy Video Retriever: Quick Guide to Fetching Break.com Content on PC & Mac</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-free-nbc-news-videos-in-hd-download-your-favorite-shows-as-mp4wmvavi-files/"><u>1. Free NBC News Videos in HD: Download Your Favorite Shows as MP4/WMV/AVI Files</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-practices-in-selecting-screen-recording-tools-for-windows-10/"><u>2024 Approved Best Practices in Selecting Screen Recording Tools for Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290169479-flvmp4/"><u>無限容量、長久不壞！靈活地自由轉換FLV格式影片為MP4，以及使用方法</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/interactive-features/"><u>Interactive Features</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streamline-video-storage-convert-bulky-movs-into-compressed-xvid-quickly-and-easily/"><u>Streamline Video Storage: Convert Bulky MOVs Into Compressed XviD Quickly and Easily</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/streamlined-ways-to-download-and-transform-yapfiles-videos-into-various-file-types-mp4-movies-or-flv/"><u>Streamlined Ways to Download and Transform Yapfiles Videos Into Various File Types: MP4, Movies, or FLV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620194671-transform-your-android-photos-into-masterpieces-with-these-top-10-gallery-app-picks/"><u>Transform Your Android Photos Into Masterpieces with These Top 10 Gallery App Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-leverage-ez-grabber-for-peak-performance-for-2024/"><u>[New] How to Leverage EZ Grabber for Peak Performance for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-prime-cloud-call-recorder-pros/"><u>[New] In 2024, Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-reviewers-guide-to-yuneec-typhoon-h-performance/"><u>[New] Reviewer’s Guide to Yuneec Typhoon H Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-best-hd-video-screen-recorders/"><u>2024 Approved The Best HD Video Screen Recorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aurora-high-dynamic-range-review-pros-and-cons-for-2024/"><u>Aurora High-Dynamic Range Review – Pros & Cons for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-enterprises-guide-to-viral-video-promotion/"><u>Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimal-java-runtime-enablement-jre-selection-window/"><u>Optimal Java Runtime Enablement (JRE) Selection Window</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-essentials-of-a-repackers-role-and-responsibnilities-explained/"><u>The Essentials of a Repacker's Role and Responsibnilities Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y17s-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y17s Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-reviews-for-samsung-galaxy-fit-a-smart-choice-for-fitness-trackers/"><u>Top Reviews for Samsung Galaxy Fit - A Smart Choice for Fitness Trackers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-component-features-and-attributes/"><u>Understanding Component Features and Attributes</u></a></li>
 </ul></div>
 

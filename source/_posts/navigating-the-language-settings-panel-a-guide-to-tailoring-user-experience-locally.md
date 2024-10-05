@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally"
-date: 2024-09-25T06:14:35.669Z
-updated: 2024-09-30T00:43:37.015Z
+date: 2024-10-03T19:29:29.865Z
+updated: 2024-10-05T18:13:50.903Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 Translating every single localizable string is seldom necessary as many strings have language-independent values which should be used as such in all packages. This is why Advanced Installer allows you to specify which project parts you want to translate. You can do that at the high-level, for entire project segments or low level, for individual project elements.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Coarse granularity
@@ -94,10 +94,10 @@ Translating every single localizable string is seldom necessary as many strings 
  At this level, you can select entire project segments to translate. Just click on the check-box next to it to switch the translation of a project segment on and off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fine granularity
@@ -105,10 +105,10 @@ Translating every single localizable string is seldom necessary as many strings 
  Advanced Installer also allows you to specify the translation options for each localizable project element in the [Localization Dialog](https://tools.techidaily.com/advancedinstaller/products/). The fine granularity setting will take precedence over the coarse granularity option when deciding if a localizable element should be translated or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,24 +149,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-inverting-iphone-video-order/"><u>[Updated] Step-by-Step Inverting iPhone Video Order</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-5-essential-browser-recording-apps-unveiled/"><u>2024 Approved 5 Essential Browser Recording Apps Unveiled</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-motorola-moto-g73-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Motorola Moto G73 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-characters-animation-basics-in-wmm-for-2024/"><u>Crafting Characters Animation Basics in WMM for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/get-your-bofunk-video-downloads-in-multiple-file-types-mp4-mov-avi-and-more/"><u>Get Your Bofunk Video Downloads in Multiple File Types - MP4, MOV, AVI & More!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-effortlessly-convert-and-save-youtube-video-downloads-in-mp4-format-for-both-mac-and-pc-users/"><u>Guide: Effortlessly Convert & Save YouTube Video Downloads in MP4 Format for Both Mac and PC Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-steps-to-securely-obtain-tenplay-videos-on-your-mac-or-windows-device/"><u>Guide: Steps to Securely Obtain Tenplay Videos on Your Mac or Windows Device</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-extract-live-media-content-the-best-rtmp-downloader-tools-for-windows-and-mac-users/"><u>How to Extract Live Media Content: The Best RTMP Downloader Tools for Windows & Mac Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone without PIN</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y78plus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y78+ to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leading-edge-ai-methods-optimizing-internet-exploration/"><u>Leading-Edge AI Methods Optimizing Internet Exploration</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/learn-and-play-like-a-pro-securing-jonny-piano-scores-and-online-course-access-easily/"><u>Learn and Play Like a Pro: Securing Jonny Piano Scores and Online Course Access Easily</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/parliamentlive-streaming-recorder-capture-mps-debates-and-speeches-from-parliamentlivetv/"><u>ParliamentLive Streaming Recorder: Capture MPs' Debates & Speeches From ParliamentLive.TV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/singsnap-your-all-in-one-musicvideo-downloader-for-multiple-file-types-including-mp4-avi-wmv/"><u>SingSnap: Your All-in-One Music/Video Downloader for Multiple File Types Including MP4, AVI, WMV</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-magic-6-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor Magic 6 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-5-superior-alternatives-to-4k-video-downloader-for-macos-and-windows-users/"><u>Top 5 Superior Alternatives to 4K Video Downloader for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-allavsoft-replacement-ideal-for-both-mac-and-windows/"><u>Top Allavsoft Replacement: Ideal for Both Mac & Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[New] 2024 Approved Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-united-experts-easeus-expert-reviews-for-2024/"><u>[New] United Experts EaseUS Expert Reviews for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-video-cutting-techniques-to-boost-your-content/"><u>[Updated] 2024 Approved Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/become-a-squid-champion-achieving-over-456-points-on-your-computer/"><u>Become a Squid Champion: Achieving Over 456 Points on Your Computer</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/guidelines-for-legally-reposting-on-insta-for-2024/"><u>Guidelines for Legally Reposting on Insta for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-writing-and-editing-text-within-pdf-files-a-comprehensive-tutorial/"><u>Mastering the Art of Writing and Editing Text Within PDF Files: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-guide-mastering-the-art-of-recording-seamless-live-streams-on-ustream/"><u>Simple Guide: Mastering the Art of Recording Seamless Live Streams on Ustream</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-file-associations-how-your-computer-identifies-programs/"><u>Understanding File Associations: How Your Computer Identifies Programs</u></a></li>
 </ul></div>
 

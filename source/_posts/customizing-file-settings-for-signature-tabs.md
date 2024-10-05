@@ -1,7 +1,7 @@
 ---
 title: Customizing File Settings for Signature Tabs
-date: 2024-09-29T11:17:45.616Z
-updated: 2024-09-29T18:25:25.142Z
+date: 2024-10-01T20:06:12.319Z
+updated: 2024-10-05T17:06:29.480Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ In this tab you can configure which files contained by your package will be sign
 ![Digital signature files tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-files-tab.png "Digital signature files tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Configured for Signing
@@ -128,22 +128,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elevate-your-tiktok-cinematic-vision/"><u>[New] Elevate Your TikTok Cinematic Vision</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-word-documents-to-swf-flash-animations-at-no-cost/"><u>Convert Your Word Documents to SWF Flash Animations at No Cost</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-flipbooks-from-pdfs-a-guide-on-incorporating-watermarks-using-flipbuilder/"><u>Creating Interactive Flipbooks From PDFs: A Guide on Incorporating Watermarks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-sturdy-hardcover-flipbooks-mastering-the-technique-on-flipbuildercom/"><u>Creating Sturdy Hardcover Flipbooks: Mastering the Technique on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-your-own-classic-pop-up-book-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discovering-windows-10s-game-changing-advances/"><u>Discovering Windows 10’S Game-Changing Advances</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-z-fold-5-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy Z Fold 5 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-use-dslr-for-facebook-live-on-your-pc-in-2024/"><u>How to Use DSLR for Facebook Live on Your PC, In 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-beat-the-bounds-of-voice-modification-the-leading-chrome-apps-unveiled/"><u>In 2024, Beat the Bounds of Voice Modification The Leading Chrome Apps Unveiled</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-decoding-for-windows-and-mac-users/"><u>SRT Decoding for Windows & Mac Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-missing-d3dx939-dll-in-win11-os/"><u>Tackling Missing D3DX9_39 DLL in Win11 OS</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/to-find-new-sizes-at-different-scales-set-up-a-proportion-using-the-original-scale-ratio-and-solve-for-the-unknown-value-with-cross-multiplication/"><u>To Find New Sizes at Different Scales, Set up a Proportion Using the Original Scale Ratio and Solve for the Unknown Value with Cross-Multiplication.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-admin-panel-with-paper-theme-pro-version-using-reactive-ui-framework-and-bootstrap-integration/"><u>Ultimate Admin Panel with Paper Theme - Pro Version Using Reactive UI Framework & Bootstrap Integration</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-picart-a-guide-to-clear-backgrounds/"><u>[New] Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-stop-quittime-video-capture-procedures-for-2024/"><u>[New] Stop QuitTime Video Capture Procedures for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-edge-explained-6-key-differences/"><u>ChatGPT's iOS Edge Explained: 6 Key Differences</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-waters-understanding-iphone-15s-resistance-levels/"><u>Exploring the Waters: Understanding iPhone 15'S Resistance Levels</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-quadro-rtx-8000-graphics-card-drivers-for-windows-xp-vista-10-and-8/"><u>Get Updated Nvidia Quadro RTX #8000 Graphics Card Drivers for Windows XP, Vista, 10, and 8</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimal-pc-protection-limiting-multiple-antiviruses/"><u>Optimal PC Protection: Limiting Multiple Antiviruses</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-quality-computers-at-your-desk/"><u>Premium Quality Computers at Your Desk</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
 </ul></div>
 

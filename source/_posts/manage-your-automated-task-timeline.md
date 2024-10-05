@@ -1,7 +1,7 @@
 ---
 title: Manage Your Automated Task Timeline
-date: 2024-09-26T10:05:52.767Z
-updated: 2024-09-29T17:51:37.438Z
+date: 2024-09-28T17:57:56.570Z
+updated: 2024-10-05T18:31:26.117Z
 tags:
   - user-guide
 categories:
@@ -84,27 +84,27 @@ This page allows you to add an application from your project to the Windows Task
 
 ![New Task](https://cdn.advancedinstaller.com/img/toolbar/new-task.png "New Task")Use the \[New Task \] toolbar button, the “New Task” context menu item or press the Insert key while the list is focused. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Importing a new task
 
 ![Import Task](https://cdn.advancedinstaller.com/img/toolbar/import-task.png "Import Task")Use the\[Import Task \] toolbar button, the “Import Task” context menu item or press theCtrl+Insert key while the list is focused. You will be prompted to select the scheduled task files to import. Multiple selection is available for batch import. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing a task
 
 ![Edit Task](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Edit Task")Use the\[Properties \] toolbar button, the “Properties” context menu item or press theEnter key while a task is selected. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Deleting a task
 
@@ -113,17 +113,17 @@ This page allows you to add an application from your project to the Windows Task
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Using this feature requires to have Task Scheduler service installed on the target computer. If not an warning message will appear explaining to the user why the command fails. If the Task Scheduler service is installed but not running when this command is called the service is started automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -170,24 +170,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-no-money-no-problem-the-best-free-subtitles-apps/"><u>[New] In 2024, No Money, No Problem The Best Free Subtitles Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevating-your-speech-to-text-experience-using-googles-tools/"><u>[Updated] 2024 Approved Elevating Your Speech to Text Experience Using Google's Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>[Updated] Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-audio-essentials-latest-speakers/"><u>2024 Approved Audio Essentials Latest Speakers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/approach-consider-the-role-of-ductility-and-overstrength-factors/"><u>Approach: Consider the Role of Ductility and Overstrength Factors.</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-n53-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo N53? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-persistent-disconnection-problems-between-airpods-and-iphone/"><u>How To Repair Persistent Disconnection Problems Between AirPods & iPhone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-reno-9a-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo Reno 9A to Another | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-power-of-youtubes-creative-commons-for-videographers/"><u>In 2024, The Power of YouTube's Creative Commons for Videographers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pre-publish-configuration-of-metadata-for-flip-pages-with-flipbuildercom/"><u>Pre-Publish Configuration of Metadata for Flip Pages with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-adding-subtitles-to-your-facebook-videos/"><u>Step-by-Step Guide: Adding Subtitles to Your Facebook Videos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-of-page-toolbar-placement-for-enhanced-user-experience-on-flipbuilder/"><u>Top-of-Page Toolbar Placement for Enhanced User Experience on FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-boring-content-a-guide-to-creating-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content: A Guide to Creating Stunning Flash eBooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-various-pdf-formats-effortlessly-with-top-techniques-from-flipbuildercom/"><u>Transforming Various PDF Formats Effortlessly with Top Techniques From FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-broken-hyperlinks-in-your-html-based-ebooks-made-using-flipbuilder-technology/"><u>Troubleshooting Broken Hyperlinks in Your HTML-Based Ebooks Made Using FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/tutorial-aligning-your-bookmarks-to-the-left-using-flipbuilder-tool/"><u>Tutorial: Aligning Your Bookmarks to the Left Using FlipBuilder Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/"><u>[New] Premium Panzoid Structure Packs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-winning-at-windows-11-image-tweaking-tricks/"><u>[Updated] 2024 Approved Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-asmr-insights-understanding-its-health-benefits-for-2024/"><u>[Updated] ASMR Insights Understanding Its Health Benefits for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[Updated] In 2024, Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-getting-your-keyboards-built-in-microphone-audio-back-online/"><u>Expert Tips for Getting Your Keyboard's Built-In Microphone Audio Back Online</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-11-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 11 Pro</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-video-format-transformations-on-windows-10-the-ultimate-list/"><u>Top Video Format Transformations on Windows 10: The Ultimate List</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-connecting-and-reflecting-your-mac-display-onto-the-tv/"><u>Ultimate Guide: Connecting & Reflecting Your Mac Display Onto the TV</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-creating-lyrics-videos-with-top-music-software-for-free/"><u>Ultimate Guide: Creating Lyrics Videos with Top Music Software for FREE!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-basics-your-comprehensive-guide-to-understanding-heic-file-formats/"><u>Unveiling the Basics: Your Comprehensive Guide to Understanding HEIC File Formats</u></a></li>
 </ul></div>
 

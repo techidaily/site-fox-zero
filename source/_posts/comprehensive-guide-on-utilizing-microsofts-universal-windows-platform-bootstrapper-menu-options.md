@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide on Utilizing Microsoft's Universal Windows Platform Bootstrapper Menu Options
-date: 2024-09-29T01:44:30.139Z
-updated: 2024-09-30T08:01:04.645Z
+date: 2024-10-03T18:44:24.613Z
+updated: 2024-10-05T16:25:52.215Z
 tags:
   - user-guide
 categories:
@@ -86,10 +86,16 @@ Table of Contents
 Use this tab to automatically launch your application's AppX package or MSI setup package depending on the target machine OS. This way when your users run the EXE bundle on _Windows 10 Anniversary Update_ / _Windows Server 2016_ / _Windows Nano Server 2016_ or above, the AppX will be installed, otherwise the MSI will be installed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bundle with EXE/MSI
@@ -99,26 +105,26 @@ Enable this option to bundle the AppX with one of your EXE or MSI builds from th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There has to be at least an EXE/MSI build added to the builds list before enabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)To be bundled with an MSI, the MSIX package should be configured as a [Sparse Package](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Build
@@ -158,22 +164,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-viral-soundtracks-to-personalized-phone-alerts-a-how-to-guide/"><u>2024 Approved From Viral Soundtracks to Personalized Phone Alerts – A How-To Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-pathways-to-promoting-in-vr-lands/"><u>2024 Approved Proven Pathways to Promoting in VR Lands</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>2024 Approved Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-pro-version-of-the-vue-material-dashboard-using-laravel-framework-and-json-api-by-creative-tim-complete-frontendbackend-application/"><u>Advanced PRO Version of the Vue Material Dashboard Using Laravel Framework and JSON API by Creative Tim: Complete Frontend/Backend Application</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-vuenow-design-toolkit-pro-edition-expertly-crafted-by-creative-tim/"><u>Advanced VueNow Design Toolkit: PRO Edition, Expertly Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-37plus-soft-ui-design-framework-comprehensive-guide-on-codes-and-aesthetics/"><u>Creative Tim's 37+ Soft UI Design Framework: Comprehensive Guide on Codes and Aesthetics</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-premium-nextjs-and-tailwind-blog-template-zero-cost-full-features/"><u>Creative Tim's Premium NextJS and Tailwind Blog Template: Zero Cost, Full Features!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-soft-ui-pro-dashboard-advanced-bootstrap-5-framework/"><u>Creative Tim's Soft UI Pro Dashboard: Advanced Bootstrap 5 Framework</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-the-paper-kit-v2-ultimate-design-theme-no-cost-professional-bootstrap-4-user-interface-toolkit-by-creative-tim/"><u>Download the Paper Kit v2 Ultimate Design Theme - No Cost, Professional Bootstrap 4 User Interface Toolkit by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-web-development-with-argon-the-ultimate-cost-free-bootstrap-5-control-panel-by-creative-tim/"><u>Enhance Your Web Development with Argon: The Ultimate, Cost-Free Bootstrap 5 Control Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-8-choices-of-tripods-for-4k-cinematography-for-2024/"><u>Essential 8 Choices of Tripods for 4K Cinematography for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exclusive-premium-react-native-design-kit-with-now-ui-pro-by-creative-tim/"><u>Exclusive Premium React Native Design Kit with Now UI Pro by Creative Tim</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-content-time-stamping-in-online-vids-for-2024/"><u>Perfecting Your Content Time Stamping in Online Vids for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-12-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 12</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ultimate-list-best-ios-friendly-free-video-editors-for-2024/"><u>Ultimate List Best iOS-Friendly, Free Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creative-channel-titling-techniques-for-growth-for-2024/"><u>[New] Creative Channel Titling Techniques for Growth for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-8-leading-no-monetary-cost-video-tools-for-editors/"><u>[Updated] Unveiling the 8 Leading No-Monetary-Cost Video Tools for Editors</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-practices-for-bilingualmultilingual-content-on-fb/"><u>Best Practices for Bilingual/Multilingual Content on FB</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-folder-discovery-using-advanced-search-tool/"><u>Effortless Folder Discovery Using Advanced Search Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-sharing-your-youtube-content-with-ease-perfecting-your-instagram-stories-and-igtv/"><u>Guide: Sharing Your YouTube Content with Ease - Perfecting Your Instagram Stories and IGTV</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-iphone-imagery-with-lighting-hacks/"><u>In 2024, Amplify iPhone Imagery with Lighting Hacks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-creativity-top-10-insider-canva-tricks/"><u>In 2024, Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-lava-storm-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Lava Storm 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-benefits-a-comprehensive-guide-on-using-airmore-mind-effectively/"><u>Mastering the Benefits: A Comprehensive Guide on Using AirMore Mind Effectively</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/preserve-your-favorite-movies-how-to-download-video-clips-from-tango/"><u>Preserve Your Favorite Movies: How To Download Video Clips From Tango</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
 </ul></div>
 

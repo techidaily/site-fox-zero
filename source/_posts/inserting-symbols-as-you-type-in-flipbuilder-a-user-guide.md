@@ -1,7 +1,7 @@
 ---
 title: Inserting Symbols as You Type in FlipBuilder - A User Guide
-date: 2024-09-24T22:54:16.532Z
-updated: 2024-09-30T08:16:27.890Z
+date: 2024-10-01T19:40:03.520Z
+updated: 2024-10-05T20:20:36.369Z
 tags:
   - product
 categories:
@@ -92,10 +92,10 @@ Video Tutorial of Creating Page Flip eBook
 15. 14.Save and Load your project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## II. Page-flipping multiple PDF eBook features
@@ -130,10 +130,16 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
@@ -141,17 +147,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -159,6 +158,13 @@ With the page-flipping ebook you have created, your book readers will be able to
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,22 +181,15 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cross-platform-strategies-for-maximum-instagram-exposure-for-2024/"><u>[New] Cross-Platform Strategies for Maximum Instagram Exposure for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ffmpegs-audio-recapture-challenge/"><u>[New] FFmpeg's Audio Recapture Challenge</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-banter-bonanza-the-funniest-content-on-the-internet/"><u>2024 Approved Banter Bonanza The Funniest Content on the Internet</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-iphone-and-android-apps-to-add-stickers-on-your-photos/"><u>2024 Approved Top 10 iPhone and Android Apps to Add Stickers on Your Photos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-stop-0x0000011b-failures-in-windows-os/"><u>How to Stop 0X0000011B Failures in Windows OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-for-novices-a-primer-on-av1-technology/"><u>In 2024, For Novices A Primer on AV1 Technology</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/over-20-stunning-material-ui-react-templates-by-creative-tim/"><u>Over 20 Stunning Material-UI React Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pro-level-dashboard-creation-mastering-vue-and-laravel-frameworks-with-json-api-integration-by-creative-tim/"><u>PRO Level Dashboard Creation: Mastering Vue and Laravel Frameworks with JSON API Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/promax-material-kit-for-flutter-projects-exclusive-high-quality-design-suite-from-creative-tim/"><u>ProMax Material Kit for Flutter Projects – Exclusive, High-Quality Design Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/react-and-material-ui-integration-with-argon-pro-dashboard-by-creative-tim-elevate-your-ux-management/"><u>React and Material-UI Integration with Argon PRO Dashboard by Creative Tim - Elevate Your UX Management!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/to-find-new-sizes-at-different-scales-set-up-a-proportion-using-the-original-scale-ratio-and-solve-for-the-unknown-value-with-cross-multiplication/"><u>To Find New Sizes at Different Scales, Set up a Proportion Using the Original Scale Ratio and Solve for the Unknown Value with Cross-Multiplication.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-admin-panel-with-paper-theme-pro-version-using-reactive-ui-framework-and-bootstrap-integration/"><u>Ultimate Admin Panel with Paper Theme - Pro Version Using Reactive UI Framework & Bootstrap Integration</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlock-pc-potential-mtk-usb-for-windows-oses/"><u>Unlock PC Potential - MTK USB for Windows OSes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-green-screen-tech-how-to-optimize-usage/"><u>[New] 2024 Approved Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>[New] Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-pixels-at-your-command-curve-artfully/"><u>[Updated] Digital Pixels at Your Command Curve Artfully</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-unveiling-the-secrets-of-editing-registry-values-a-comprehensive-guide/"><u>1. Unveiling the Secrets of Editing Registry Values: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-user-manual-mastering-apoweredit/"><u>Comprehensive User Manual: Mastering ApowerEdit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-on-the-go-gyroscopic-footage-smoother/"><u>In 2024, On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-note-30-vip-racing-edition-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Racing Edition Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-free-video-rotators-to-rotateflip-videos-for-2024/"><u>New Top 10 Free Video Rotators to Rotate/Flip Videos for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-performing-tools-for-quick-and-effective-mkv-file-decompression/"><u>Top Performing Tools for Quick and Effective MKV File Decompression</u></a></li>
 </ul></div>
 

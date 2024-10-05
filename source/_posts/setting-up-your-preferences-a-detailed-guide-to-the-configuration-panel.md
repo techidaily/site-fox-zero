@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Preferences: A Detailed Guide to the Configuration Panel"
-date: 2024-09-23T09:49:16.438Z
-updated: 2024-09-30T10:18:51.464Z
+date: 2024-10-02T17:03:22.290Z
+updated: 2024-10-05T18:54:53.815Z
 tags:
   - user-guide
 categories:
@@ -87,31 +87,45 @@ In this tab, you can configure a Microsoft APPX/MSIX package which you can use t
 
 ![Builds1](https://cdn.advancedinstaller.com/img/ui/Builds1.png "Builds1")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Output
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Folder
 
 Select the folder where the APPX/MSIX package will be created.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Name
 
 The name of APPX/MSIX file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Package
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Architectures
 
@@ -123,13 +137,6 @@ Flat Bundle - Check this option to enable an improved way to bundle the package 
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Creating MSIX packages for _Neutral_ architecture brings some limitations: _appCompat_ incompatibility, _Package Migration_ incompatibility, _Application Arguments_, _Working Directory_ and _Run mode_ from [Application Details Page](https://tools.techidaily.com/advancedinstaller/products/) are incompatible, appdata and local appdata folders will not be migrated.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Packaging Distribution
 
 After packaging your app, there are three possibilities to distribute it:
@@ -140,33 +147,12 @@ After packaging your app, there are three possibilities to distribute it:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Advanced Installer's behavior regarding _Publisher ID_ and_signing options_ is different depending on the selected package distribution type. For more information please see this article : [How to build MSIX packages for Windows Store and sideloading from the same project.](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Target Platforms
 
 Select the target platforms for the current build.
 
 * **Desktop** \- choose the configuration to target
 * **Server** \- choose the configuration to target
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Deploying MSIX packages to Windows versions earlier than Windows 10
 
@@ -186,6 +172,26 @@ Creating MSIX packages for earlier versions of Windows brings some limitations:
 * The ["Bundle with EXE"](https://tools.techidaily.com/advancedinstaller/products/) option is not available.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If your package is configured with any of the above features, a warning will be displayed at build time and the resulting package will be stripped of any of incompatible resources.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Content
 
@@ -237,24 +243,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-iphone-silhouette-photography-tips/"><u>[New] IPhone Silhouette Photography Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-metaverse-vs-multimetaverse-elucidating-the-variances-ultimate-guide/"><u>[New] Metaverse Vs. MultiMetaverse Elucidating the Variances (Ultimate Guide)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-expert-tips-to-transform-lengthy-videos-into-engaging-segmented-content/"><u>[Updated] 2024 Approved Expert Tips to Transform Lengthy Videos Into Engaging, Segmented Content</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-taste-trek-journey-through-global-cuisine-secrets/"><u>2024 Approved Taste Trek Journey Through Global Cuisine Secrets</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-vuenow-design-toolkit-pro-edition-expertly-crafted-by-creative-tim/"><u>Advanced VueNow Design Toolkit: PRO Edition, Expertly Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-37plus-soft-ui-design-framework-comprehensive-guide-on-codes-and-aesthetics/"><u>Creative Tim's 37+ Soft UI Design Framework: Comprehensive Guide on Codes and Aesthetics</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-premium-nextjs-and-tailwind-blog-template-zero-cost-full-features/"><u>Creative Tim's Premium NextJS and Tailwind Blog Template: Zero Cost, Full Features!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-soft-ui-pro-dashboard-advanced-bootstrap-5-framework/"><u>Creative Tim's Soft UI Pro Dashboard: Advanced Bootstrap 5 Framework</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-the-paper-kit-v2-ultimate-design-theme-no-cost-professional-bootstrap-4-user-interface-toolkit-by-creative-tim/"><u>Download the Paper Kit v2 Ultimate Design Theme - No Cost, Professional Bootstrap 4 User Interface Toolkit by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-web-development-with-argon-the-ultimate-cost-free-bootstrap-5-control-panel-by-creative-tim/"><u>Enhance Your Web Development with Argon: The Ultimate, Cost-Free Bootstrap 5 Control Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exclusive-premium-react-native-design-kit-with-now-ui-pro-by-creative-tim/"><u>Exclusive Premium React Native Design Kit with Now UI Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-over-40-stunning-nextjs-layouts-and-themes-by-creative-tim/"><u>Explore Over 40 Stunning Next.js Layouts and Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-the-power-of-argon-dashboard-pro-2-the-ultimate-laravel-admin-panel-by-creative-tim-and-updivision/"><u>Explore the Power of Argon Dashboard Pro 2 - The Ultimate Laravel Admin Panel by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-airpods-apart-heres-the-mend/"><u>In 2024, Airpods Apart? Here's the Mend</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-xs-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone XS Max and Android Phones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-multi-screen-setup-on-windows-11/"><u>Mastering Multi-Screen Setup on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-gaming-cards/"><u>Savvy Shopper's Guide to Gaming Cards</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const107/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>Updated How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-optimize-video-production-with-adobe-presenter-for-2024/"><u>[New] How to Optimize Video Production with Adobe Presenter for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[New] In 2024, Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-techniques-for-converting-your-music-collection-from-mp3-files-to-compact-discs/"><u>Effective Techniques for Converting Your Music Collection: From MP3 Files to Compact Discs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficient-pc-management-software-the-ultimate-guide-to-remote-desktop-tools/"><u>Efficient PC Management Software: The Ultimate Guide to Remote Desktop Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/evaluating-apples-vision-pro-eyewear-during-an-extended-workday-a-detailed-review/"><u>Evaluating Apple's Vision Pro Eyewear During an Extended Workday - A Detailed Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 mini</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/library-editor-interface-a-comprehensive-guide/"><u>Library Editor Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-kids-treats-guide-child-health-champion-in-2017s-top-apps/"><u>Mondly Kids Treats Guide: Child Health Champion in 2017'S Top Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-5-best-free-mov-video-joiners/"><u>New 2024 Approved 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-methods-to-accelerate-playback-of-mp3-tracks-and-audio-books/"><u>Quick Methods to Accelerate Playback of MP3 Tracks and Audio Books</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rapid-install-new-geforce-rtx-3080-ti-drivers-available-for-windows-operating-systems-win-10-8-7/"><u>Rapid Install: New GeForce RTX 3080 Ti Drivers Available for Windows Operating Systems (Win 10, 8, 7)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-hot-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Hot 30 5G</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-steps-successful-downloading-of-tunein-radio-app/"><u>Seamless Steps: Successful Downloading of TuneIn Radio App</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-creating-your-own-custom-calendar-in-microsoft-excel/"><u>Step-by-Step Guide: Creating Your Own Custom Calendar in Microsoft Excel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/teamfight-tactics-unleashed-expert-tips-for-dominating-lols-strategic-game-mode/"><u>Teamfight Tactics Unleashed: Expert Tips for Dominating LoL's Strategic Game Mode</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Adjusting System Preferences Panel
-date: 2024-09-25T01:44:20.981Z
-updated: 2024-09-29T19:58:56.779Z
+date: 2024-10-04T19:23:47.092Z
+updated: 2024-10-05T20:53:23.040Z
 tags:
   - user-guide
 categories:
@@ -92,6 +92,13 @@ Table of Contents
 
 ## Package Type
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Single MSI (resources inside)
 
 Creates a single MSI file with Cab included in it
@@ -99,13 +106,6 @@ Creates a single MSI file with Cab included in it
 ### MSI with resources next to it
 
 Creates MSI file with archives placed next to it
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Single EXE setup (resources inside)
 
@@ -124,6 +124,13 @@ Creates a single EXE file that will download MSI, and install MSI from a URL.
 
 ## Output
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Folder
 
 Your package's path. Click on the \[... \] button to change the folder where the installation package is created. By default, this shares the same folder with the project file. Removing the package name will delete the whole path.
@@ -132,25 +139,18 @@ Your package's path. Click on the \[... \] button to change the folder where the
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When creating multiple builds it is recommended to use a different folder output location for every build.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MSI Subfolder
 
 Specify the MSI subfolder name. This subfolder is relative to the EXE file where the MSI and CABs will be generated.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The field is enabled only for "EXE setup with resources next to it" package types.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### MSI Name
 
@@ -178,13 +178,6 @@ By selecting this option, you ensure that a directory structure similar to the o
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When the files are placed unpacked near the MSI and the MSI is set to be downloaded from a URL location ([Configuration Tab](https://tools.techidaily.com/advancedinstaller/products/) page) the files and folders will be created with short names.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Archive installation files using LZMA compression
 
 In case of LZMA compression, all installation files and the MSI file will be packed into one archive that will be included in an EXE package. The main advantage of LZMA compression is that it generates a smaller package size than CAB archiving; the disadvantage is that, during installation, the package requires more time and disk space (for extracting the LZMA archive).
@@ -204,6 +197,13 @@ This option enables using AES 256 encryption for your LZMA archives or not. For 
 
 **Confirm password**  
  This field should have an identical content with the above Password field. By typing the password twice, you avoid the common password typing mistakes. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Archive installation files into CAB files
 
@@ -225,6 +225,13 @@ You can also specify the disk label in the “Volume Label” field. Use "#" to 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Multi volume install can only be tested with the appropriate removable media.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advanced CAB Layout
 
 This option enables you to perform extensive customization concerning the media volumes and CABs in the [Advanced Media Tab](https://tools.techidaily.com/advancedinstaller/products/).
@@ -240,42 +247,22 @@ This feature allows to control the following packaging options:
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Please make sure that you estimate correctly the volumes and CABs sizes. If a CAB or external file does not fit on its current volume, it will automatically be moved on the next volume (if this volume doesn't exist it will be automatically created).
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If the files contained by a CAB will exceed, after compression or storage(CAB without compression), the specified maximum CAB size, there will be created as many CABs as needed with the same characteristics until all the files will be packed.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This configuration mode requires that at least one CAB should be created. If you want to leave all the files outside CABs you should enable the “Place files unpacked next to the MSI database” option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Database Code Page
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Build language specific codepage
 
 This option will allow your package to display only characters that are in the build language's codepage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### UTF-8 codepage
 
@@ -289,22 +276,29 @@ Set the MSI summary information fields to the values you need through the [Custo
 
 ## Bootstrapper Options
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### MSI Command Line
 
 Build-in command line settings for the project's MSI file. This command line uses the [Msiexec.exe](https://tools.techidaily.com/advancedinstaller/products/) command line options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Install MSI as minor upgrade (if applicable)
 
 If an older version of the product is already installed, then the current product's installation (with a newer version) will act as a minor upgrade for the existing version of the product. Enabling this option in the upgraded project will make the project behave like a patch for the older version of the product. Thus, the user must take into consideration the [patch creation rules](https://tools.techidaily.com/advancedinstaller/products/) when building the upgraded project. (Ex: same names for both the .MSI's, not to delete existing files, etc.)
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg) When this option is active the installation only behaves like a patch, but the EXE bootstrapper does not perform a patch installation against the installed MSI. The EXE bootstrapper launches the embedded MSI by using the [/fvomus](https://tools.techidaily.com/advancedinstaller/products/) command which re-caches the installed MSI and triggers a repair installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) If this option is not used and a current product's older version is installed, then the current product's installation will fail.
 
@@ -386,16 +380,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-comprehensive-list-top-screenshot-videography-tools/"><u>[New] Comprehensive List Top Screenshot Videography Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>[New] From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-master-your-live-video-setting-up-dslr-on-laptop-or-desktop/"><u>[Updated] Master Your Live Video Setting Up DSLR on Laptop or Desktop</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-full-scrutiny-uncovering-the-dji-inspire-1-features/"><u>2024 Approved Full Scrutiny Uncovering the DJI Inspire 1 Features</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficient-multi-format-downloaders-transform-f4m-files-into-mp4-avi-etc/"><u>Efficient Multi-Format Downloaders: Transform F4M Files Into MP4, AVI, Etc.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-retrieval-streamline-your-downloads-from-vidzitv-with-our-cross-platform-mac-and-pc-guide/"><u>Effortless Video Retrieval: Streamline Your Downloads From Vidzi.tv with Our Cross-Platform Mac & PC Guide!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/extract-and-save-detective-trailers-as-mp4movaviflvwmvmkv-for-high-quality-viewing/"><u>Extract & Save Detective Trailers as MP4/MOV/AVI/FLV/WMV/MKV for High-Quality Viewing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/get-your-bofunk-video-downloads-in-multiple-file-types-mp4-mov-avi-and-more/"><u>Get Your Bofunk Video Downloads in Multiple File Types - MP4, MOV, AVI & More!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-effortlessly-convert-and-save-youtube-video-downloads-in-mp4-format-for-both-mac-and-pc-users/"><u>Guide: Effortlessly Convert & Save YouTube Video Downloads in MP4 Format for Both Mac and PC Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a15-4g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A15 4G Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone XS Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>[Updated] Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-guide-on-utilizing-microsofts-universal-windows-platform-bootstrapper-menu-options/"><u>Comprehensive Guide on Utilizing Microsoft's Universal Windows Platform Bootstrapper Menu Options</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-your-ideal-investment-with-our-iproperty-solutions/"><u>Explore Your Ideal Investment with Our IProperty Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-edge-1-ranked-4k-gaming-pcs-for-2024/"><u>Leading Edge #1 Ranked 4K Gaming PCs for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-iregistrykey-essential-techniques-and-strategies-for-optimization/"><u>Mastering IRegistryKey: Essential Techniques and Strategies for Optimization</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-walkthrough-altering-the-default-pdf-application-for-windows-11-users/"><u>Step-by-Step Walkthrough: Altering the Default PDF Application for Windows 11 Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/thors-fury-legends-of-the-ragnarok-for-2024/"><u>Thor's Fury Legends of the Ragnarök for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-elevate-your-mobile-videos-top-vertical-editing-apps-for-ios-and-android/"><u>Updated 2024 Approved Elevate Your Mobile Videos Top Vertical Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-essential-instructions-for-smooth-streaming/"><u>Updating Your Chromecast: Essential Instructions for Smooth Streaming</u></a></li>
 </ul></div>
 

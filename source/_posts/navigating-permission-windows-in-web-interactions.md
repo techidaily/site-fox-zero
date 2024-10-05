@@ -1,7 +1,7 @@
 ---
 title: Navigating Permission Windows in Web Interactions
-date: 2024-09-27T10:16:12.918Z
-updated: 2024-09-29T16:44:41.389Z
+date: 2024-10-01T19:41:37.626Z
+updated: 2024-10-05T19:26:36.280Z
 tags:
   - user-guide
 categories:
@@ -91,10 +91,10 @@ Table of Contents
 ![Permission Dialog](https://cdn.advancedinstaller.com/img/dialog/permission.png "Permission Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Domain
@@ -103,23 +103,9 @@ Table of Contents
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This field should be set only when the target user account is part of a specific domain. For regular user accounts, this field should be empty.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Username
 
  The name of the user account for which you set the permissions. This can be a user account or a group name. Make sure this string is a perfect match for the user account's name or the group name on the target machine (this name has a localizable value - it depends on the target machine local language). "Everyone" and "Administrators" are generic groups. These names have the same meaning on every NT machine, independent of the locale settings (they are not localized).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Permissions
 
@@ -127,14 +113,21 @@ Table of Contents
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The permissions checked here are considered allowed - you can not specify a denied permission. Make sure you set the appropriate permissions, otherwise you can even make the uninstallation of your product impossible.
 
+![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)According to Windows operating system, advanced permissions cannot be set directly on a resource, therefore the button is automatically disabled until you return to simple permissions. The advanced permissions will be kept along the with the simple ones.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)According to Windows operating system, advanced permissions cannot be set directly on a resource, therefore the button is automatically disabled until you return to simple permissions. The advanced permissions will be kept along the with the simple ones.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Configuring permissions
 
@@ -150,6 +143,13 @@ Permissions can be configured using one of the available views: Simple and Advan
 Through the advanced view, you can set the actual permission flags. Permission flags which cannot be grouped in a simple option will be shown as _Special Permissions_ in the simple view.
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When creating a permission for an element in your installation you should also create a second permission which applies only to the Administrators group. This permission should give the Administrators full control in order to allow them to uninstall the package.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Apply permissions to all subfolders
 
@@ -188,24 +188,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-the-meme-titans-reddit-and-twitters-biggest-sensations/"><u>[New] The Meme Titans Reddit & Twitter's Biggest Sensations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-cinematic-chronicles-reviewing-high-fidelity-recorders/"><u>[Updated] Cinematic Chronicles Reviewing High-Fidelity Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-vr-content-developers-you-should-know/"><u>[Updated] In 2024, Top VR Content Developers You Should Know</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-steps-to-download-videos-from-220ro-for-pc-and-mac-users/"><u>1. Easy Steps to Download Videos From 220.ro for PC & MAC Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-video-retriever-quick-guide-to-fetching-breakcom-content-on-pc-and-mac/"><u>1. Easy Video Retriever: Quick Guide to Fetching Break.com Content on PC & Mac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-setting-up-snapchat-on-apple-computers-step-by-step/"><u>2024 Approved Setting Up Snapchat on Apple Computers Step by Step</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-web-pages-like-a-pro-mastering-the-cli-for-flipbooks-at-flipbuildercom/"><u>Creating Interactive Web Pages Like a Pro: Mastering the CLI for Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-make-a-diy-flipbook-from-paper-photographs-using-flipbuilder/"><u>How to Make a DIY Flipbook From Paper Photographs Using FlipBuilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-7-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 7 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20c-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20C Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/rtvlxl-video-grabber-seamless-vids-from-rtlxlnl-on-pc-and-mac/"><u>RTVLXL Video Grabber: Seamless Vids From rtlxl.nl on PC & MAC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-on-mac-quick-setup-tips-for-2024/"><u>Snapchat on Mac - Quick Setup Tips for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/streamlined-ways-to-download-and-transform-yapfiles-videos-into-various-file-types-mp4-movies-or-flv/"><u>Streamlined Ways to Download and Transform Yapfiles Videos Into Various File Types: MP4, Movies, or FLV</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-creations-unique-and-chic-minecraft-dwellings/"><u>Top Creations Unique and Chic Minecraft Dwellings</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-e-book-creation-will-your-innovations-lead-us-to-a-new-era-in-online-reading-through-flipbuildercom/"><u>Transforming E-Book Creation – Will Your Innovations Lead Us to a New Era in Online Reading Through FlipBuilder.com?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/tutorial-aligning-your-bookmarks-to-the-left-using-flipbuilder-tool/"><u>Tutorial: Aligning Your Bookmarks to the Left Using FlipBuilder Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-on-how-to-switch-from-swf-to-mp4-video-file-conversion/"><u>Ultimate Tutorial on How to Switch From SWF to MP4 Video File Conversion</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-a-step-by-step-approach-to-professional-chromatic-control/"><u>[New] 2024 Approved A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[New] 2024 Approved Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screen-recording-simplified-review-insights/"><u>[Updated] In 2024, Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-prime-tiktok-openings-using-macos/"><u>2024 Approved Crafting Prime TikTok Openings Using MacOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-download-and-install-the-latest-drivers-for-your-canon-mf743cdw-on-windows-systems/"><u>Easy Setup: Download and Install the Latest Drivers for Your Canon MF743CDW on Windows Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-multilingual-reach-adding-subtitles-in-vimeo-for-2024/"><u>Enhancing Multilingual Reach Adding Subtitles in Vimeo for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/installation-rapide-et-facile-de-la-version-pro-convertisseur-video-mac-x-hd-sur-votre-ordinateur-sous-windows-achat-direct/"><u>Installation Rapide Et Facile De La Version Pro Convertisseur Vidéo Mac X HD Sur Votre Ordinateur Sous Windows - Achat Direct</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-iris-xe-graphics-software-downloads-for-windows-10-and-11/"><u>Intel Iris Xe Graphics Software Downloads for Windows 10 & 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-information-on-dropbox-can-it-withstand-hacks-and-ransomware-attacks/"><u>Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/race-through-the-olympics-top-sections-2022/"><u>Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-methods-for-effective-audio-speed-reduction/"><u>Simple Methods for Effective Audio Speed Reduction</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-the-best-4k-screencast-software-on-desktop-pcs/"><u>Ultimate List of the Best 4K Screencast Software on Desktop PCs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
 </ul></div>
 

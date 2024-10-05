@@ -1,7 +1,7 @@
 ---
 title: "How to Remove Digital Certificates: A Step-by-Step Guide"
-date: 2024-09-22T23:57:59.917Z
-updated: 2024-09-29T17:15:40.530Z
+date: 2024-10-01T19:17:38.119Z
+updated: 2024-10-05T16:17:04.706Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IUninstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IUninstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IUninstallCertificate : ICustomAction
 This interface facilitates editing custom action that uninstalls a certificate. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from InstallParameters.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that uninstalls a certificate. 
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +208,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-approaches-to-virtual-reality-gaming-documentation-for-2024/"><u>[New] Cutting-Edge Approaches to Virtual Reality Gaming Documentation for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-audio-tools-free-superior-dj-templates-online/"><u>[Updated] 2024 Approved Essential Audio Tools Free, Superior DJ Templates Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-images-10-instagram-enhancing-apps/"><u>[Updated] 2024 Approved Mastering Images 10 Instagram Enhancing Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-prime-selector-20-twitters-animated-treasure-chest/"><u>[Updated] 2024 Approved Prime Selector 2.0 Twitter's Animated Treasure Chest</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[Updated] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cinematic-journey-for-enhanced-communication-abilities/"><u>Cinematic Journey for Enhanced Communication Abilities</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-and-watch-youtube-content-offline-on-your-ps3-console/"><u>Download and Watch YouTube Content Offline on Your PS3 Console</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-any-videos-with-ease-discover-allavsoft-the-leading-video-grabber-for-macwindows-users/"><u>Download Any Videos with Ease: Discover Allavsoft, the Leading Video Grabber for Mac/Windows Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-art-classes-with-paintbasket-the-ultimate-free-resource/"><u>Download Art Classes with PaintBasket: The Ultimate Free Resource</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-high-quality-porno-movies-from-anybunny-in-mp4-or-avi-formats/"><u>Download High-Quality Porno Movies From Anybunny in MP4 or AVI Formats</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-showtime-anywhere-episodes-in-multiple-formats-mp4-mov-avi/"><u>Download Showtime Anywhere Episodes in Multiple Formats: MP4, MOV, AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-videos-from-kelby-training-course-professional-learning-software/"><u>Download Videos From Kelby Training Course - Professional Learning Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-your-favorite-cartoons-in-high-quality-how-to-convert-and-save-from-kimcartoon-as-mp4-or-avi/"><u>Download Your Favorite Cartoons in High Quality: How to Convert & Save From KIMCartoon as MP4 or AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/downloading-gamespot-content-how-to-convert-trailers-and-gameplays-into-mp4-or-avi-formats/"><u>Downloading GameSpot Content: How to Convert Trailers and Gameplays Into MP4 or AVI Formats</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficient-multi-format-downloaders-transform-f4m-files-into-mp4-avi-etc/"><u>Efficient Multi-Format Downloaders: Transform F4M Files Into MP4, AVI, Etc.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-asus-rog-zephyrus-g1-6-can-its-top-notch-hardware-delivery-a-smooth-gaming-journey/"><u>Exploring the Asus ROG Zephyrus G1 6: Can Its Top-Notch Hardware Delivery a Smooth Gaming Journey?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/plot-pointers-institute-quintessential-quotient/"><u>Plot Pointers Institute - Quintessential Quotient</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-safeguarding-your-digital-footprint-on-youtube/"><u>[New] 2024 Approved Safeguarding Your Digital Footprint on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[New] In 2024, From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[Updated] The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/11-proven-strategies-to-stop-persistent-reboot-cycles-in-windows-11-computers/"><u>11 Proven Strategies to Stop Persistent Reboot Cycles in Windows 11 Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-7-macos-video-player-selections/"><u>2024 Approved Best 7 MacOS Video Player Selections</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ddpai-mini3-review/"><u>DDpai Mini3 Review</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco Phone without PIN</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-choose-the-right-frames-per-second-30-vs-60/"><u>In 2024, How to Choose the Right Frames Per Second - 30 Vs. 60</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-information-on-dropbox-can-it-withstand-hacks-and-ransomware-attacks/"><u>Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-the-best-4k-screencast-software-on-desktop-pcs/"><u>Ultimate List of the Best 4K Screencast Software on Desktop PCs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
 </ul></div>
 

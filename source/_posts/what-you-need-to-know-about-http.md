@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About HTTP/
-date: 2024-09-24T04:27:07.062Z
-updated: 2024-09-29T21:00:57.406Z
+date: 2024-10-04T17:59:54.738Z
+updated: 2024-10-05T20:49:52.819Z
 tags:
   - product
   - antivirus
@@ -73,10 +73,10 @@ This reliability, however, makes this this less than an ideal solution when send
 And this is exactly where UDP comes in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out with the old, in with the new
@@ -91,16 +91,16 @@ In contrast, QUIC can perform both these actions simultaneously.
 
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
 
 In short, HTTP/3, powered by QUIC, cuts the number of times computers need to request data from a server, ultimately speeding up the transmissions and connectivity for everyone involved. It also improves security by including the SSL (Secure Sockets Layer) handshake in the setup. Plus, this new technology also reduces overhead in another key area, when multiple substreams are sent over a single connection.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will HTTP/3 be used?
 
@@ -116,18 +116,18 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Brower support for HTTP/3
 
 The technology is fine and dandy, but what about software? Well, Google, which has been arguing for QUIC for years now, already built it into [Chrome](https://www.google.com/chrome/) in version 29\. In case you’re wondering, this version came out all the way back in 2013, so it has been a long time coming.
 
 [![chrome and opera browser](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome_opera_logos.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/chrome%5Fopera%5Flogos.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As of right now, [Opera](https://www.opera.com/) is the only other browser that supports QUIC. If you use either Chrome or Opera to browse these websites that support HTTP/3, you will notice that they load web pages faster.
 
@@ -141,17 +141,24 @@ HTTP/3, an evolution of the QUIC protocol from Google, is a major departure from
 
 And while it changes how users and devices access the Internet a lot, HTTP/3 is all set to take the mantle as the newest and most widespread version of the venerable Hypertext Transfer Protocol.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is HTTP/3”
 
 1. ![](https://secure.gravatar.com/avatar/310abc9d873d41cede1258891d6bcaf3?s=50&d=mm&r=g)  
 Gwyneth Llewelyn  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
 While TCP/IP is the older protocol (designed in 1974, as mentioned), there is a misleading statement in the article, implying (perhaps due to a specific choice of words) that UDP/IP is a ‘brand new’ protocol, somehow designed by Google to address the limitations of TCP/IP.  
 In reality, UDP/IP was invented back in 1980 by David P. Reed (<https://en.wikipedia.org/wiki/User%5FDatagram%5FProtocol>; <https://www.deepplum.com/blog-dpr/?page%5Fid=6>) — Page and Brin were roughly 7 years old back then, and a long, long way before they came up with the concept of Google…  
@@ -183,24 +190,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-beyond-imagination-cutting-edge-vr-tech/"><u>[New] 2024 Approved Beyond Imagination Cutting-Edge VR Tech</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-swift-transformation-video-aspects-to-mac-standard/"><u>[New] 2024 Approved Swift Transformation Video Aspects to Mac Standard</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fleeting-films-on-the-friendly-social-for-2024/"><u>[Updated] Fleeting Films on the Friendly Social for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-groundbreaking-8-android-video-call-services-more-than-four-for-2024/"><u>[Updated] Groundbreaking 8 Android Video Call Services, More Than Four for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1-ultimate-guide-5-effective-techniques-to-reduce-your-video-size/"><u>1. Ultimate Guide: 5 Effective Techniques to Reduce Your Video Size</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>2024 Approved Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-concealing-identity-select-8-highly-effective-photo-editors/"><u>In 2024, Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-mobile-smartphones-and-youtube-success/"><u>In 2024, Maximizing Mobile Smartphones & YouTube Success</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalize-your-digital-publications-with-creative-titles-via-flippingmoneys-book-creator/"><u>Personalize Your Digital Publications with Creative Titles via flippingMONEY's Book Creator</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pre-publish-configuration-of-metadata-for-flip-pages-with-flipbuildercom/"><u>Pre-Publish Configuration of Metadata for Flip Pages with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rediscovering-eliminated-reddit-discussions-efficiently/"><u>Rediscovering Eliminated Reddit Discussions Efficiently</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-transferring-and-editing-themes-for-flipbook-using-flipbuilder-tools/"><u>Step-by-Step Tutorial on Transferring and Editing Themes for FlipBook Using FlipBuilder Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-of-page-toolbar-placement-for-enhanced-user-experience-on-flipbuilder/"><u>Top-of-Page Toolbar Placement for Enhanced User Experience on FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-boring-content-a-guide-to-creating-stunning-flash-ebooks-with-flipbuilder/"><u>Transforming Boring Content: A Guide to Creating Stunning Flash eBooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-various-pdf-formats-effortlessly-with-top-techniques-from-flipbuildercom/"><u>Transforming Various PDF Formats Effortlessly with Top Techniques From FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-broken-hyperlinks-in-your-html-based-ebooks-made-using-flipbuilder-technology/"><u>Troubleshooting Broken Hyperlinks in Your HTML-Based Ebooks Made Using FlipBuilder Technology</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-iphone-and-ipad-video-montage-makers/"><u>Updated Top iPhone and iPad Video Montage Makers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>[New] 2024 Approved Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-complete-review-of-logitechs-advanced-4k-video-camera-for-2024/"><u>[New] Complete Review of Logitech's Advanced 4K Video Camera for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>[Updated] 2024 Approved The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>2024 Approved Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/create-your-own-script-adding-a-batch-file-for-personalized-events/"><u>Create Your Own Script: Adding a Batch File for Personalized Events</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-restore-icloud-sync-functionality-efficiently/"><u>Effective Strategies to Restore iCloud Sync Functionality Efficiently</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/evolucion-del-controler-de-gpu-para-la-inteligencia-artificial-winxvideo-ultima-guia-de-actualizacion-oficial/"><u>Evolución Del Controler De GPU Para La Inteligencia Artificial WinxVideo: Última Guía De Actualización Oficial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-xs-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone XS Max Smoothly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-converting-spotify-streams-to-high-quality-mp3-with-the-best-free-tools-available/"><u>Step-by-Step Tutorial on Converting Spotify Streams to High-Quality MP3 with the Best Free Tools Available</u></a></li>
 </ul></div>
 

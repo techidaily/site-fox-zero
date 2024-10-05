@@ -1,7 +1,7 @@
 ---
 title: "IniFile Finder: Efficient Search Tool for Ini File Locators"
-date: 2024-09-25T08:07:02.653Z
-updated: 2024-09-30T00:44:38.460Z
+date: 2024-10-04T18:14:31.656Z
+updated: 2024-10-05T18:00:46.643Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## ISearchIniLocator
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 ISearchIniLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ ISearchIniLocator : IDispatch
 This interface is meant to edit search "ini" locator.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +170,10 @@ This interface is meant to edit search "ini" locator.
 **uint Depth** \- Gets or sets how deep within the folder's subdirectories to search.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,16 +215,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cross-platform-content-spread-tweeting-and-tumbling/"><u>[Updated] 2024 Approved Cross-Platform Content Spread Tweeting & Tumbling</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-entry-level-camera-reviews-2024-for-beginners/"><u>[Updated] Best Entry-Level Camera Reviews 2024 | for Beginners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-changing-ideas-inspiring-videos-to-enhance-creativity/"><u>[Updated] In 2024, Channel-Changing Ideas Inspiring Videos to Enhance Creativity</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-power-play-the-ultimate-guide-to-selecting-lipos-for-uavs-for-2024/"><u>[Updated] Power Play The Ultimate Guide to Selecting LiPos for UAVS for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-web-pages-like-a-pro-mastering-the-cli-for-flipbooks-at-flipbuildercom/"><u>Creating Interactive Web Pages Like a Pro: Mastering the CLI for Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-the-best-historian-content-top-10-youtube-recommendations/"><u>Explore the Best Historian Content Top 10 YouTube Recommendations</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-make-a-diy-flipbook-from-paper-photographs-using-flipbuilder/"><u>How to Make a DIY Flipbook From Paper Photographs Using FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-x9b-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor X9b FRP Without Computer</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-broken-hyperlinks-in-your-html-based-ebooks-made-using-flipbuilder-technology/"><u>Troubleshooting Broken Hyperlinks in Your HTML-Based Ebooks Made Using FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/tutorial-aligning-your-bookmarks-to-the-left-using-flipbuilder-tool/"><u>Tutorial: Aligning Your Bookmarks to the Left Using FlipBuilder Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-lenssnap-feature-examination/"><u>[New] LensSnap Feature Examination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smart-strategies-for-enriching-tiktok-biographies-with-linktree/"><u>[New] Smart Strategies for Enriching TikTok Biographies with Linktree</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-escape-challenges-top-ten-must-play-rooms-for-2024/"><u>[Updated] Best Escape Challenges Top Ten Must-Play Rooms for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>[Updated] The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-your-journey-into-the-world-of-funny-metaverse-images/"><u>[Updated] Your Journey Into the World of Funny Metaverse Images</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-building-histograms-with-microsoft-excel/"><u>Easy Tutorial on Building Histograms with Microsoft Excel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-ways-to-edit-text-within-a-pdf-document-using-adobe-acrobat/"><u>Easy Ways to Edit Text Within a PDF Document Using Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-sql-query-substitution-interfaces-enhancing-data-management/"><u>Effective SQL Query Substitution Interfaces: Enhancing Data Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-move-your-iphone-pictures-to-windows-11-pc-no-itunes-required/"><u>Effortlessly Move Your iPhone Pictures to Windows 11 PC - No iTunes Required!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-and-techniques-to-successfully-start-payday-2-on-a-desktop/"><u>Expert Tips and Techniques to Successfully Start Payday 2 on a Desktop</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-the-versatile-world-of-icomponents-in-software-design/"><u>Explore the Versatile World of IComponents in Software Design</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-your-email-a-five-step-guide-to-thwart-gmail-hackers-and-enhance-privacy-with-malwarefox-insights/"><u>Protecting Your Email: A Five-Step Guide to Thwart Gmail Hackers and Enhance Privacy with MalwareFox Insights</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-and-reliable-methods-for-iphone-picture-transfers-to-your-windows-10-system-no-need-for-itunes/"><u>Quick and Reliable Methods for iPhone Picture Transfers to Your Windows 10 System - No Need for iTunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-ubisoft-connects-sluggish-downloads-expert-tips-and-tricks/"><u>Solving Ubisoft Connect's Sluggish Downloads: Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-social-media-platforms-for-business/"><u>Top 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-kensun-mini-air-compressor-for-tires-robust-build-and-convenient-transport/"><u>Top-Rated Kensun Mini Air Compressor for Tires: Robust Build & Convenient Transport</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-selection-of-free-video-editing-tools-compatible-with-both-pc-and-mac-systems/"><u>Ultimate Selection of FREE Video Editing Tools Compatible with Both PC and Mac Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-the-essential-attributes-in-unit-construction-and-arrangement/"><u>Understanding the Essential Attributes in Unit Construction and Arrangement</u></a></li>
 </ul></div>
 

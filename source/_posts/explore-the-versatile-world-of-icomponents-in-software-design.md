@@ -1,7 +1,7 @@
 ---
 title: Explore the Versatile World of IComponents in Software Design
-date: 2024-09-23T23:42:01.053Z
-updated: 2024-09-29T19:48:37.923Z
+date: 2024-09-28T17:43:16.948Z
+updated: 2024-10-05T19:23:21.091Z
 tags:
   - user-guide
 categories:
@@ -111,16 +111,10 @@ Table of Contents
 ## IComponent
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -128,10 +122,10 @@ Table of Contents
 IComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -139,10 +133,10 @@ IComponent: IDispatch
 This interface is meant to change properties of a component.  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -195,10 +189,10 @@ Gets or sets an option that specifies uninstall mode of a superseding patch. Ins
 Gets or sets an option that marks the component as shared among multiple packages. In doing so, if a package containing this component is uninstalled, the highest version of it (installed by other packages) will still be shared by Windows Installer. It is enough to mark the component as shared in one package for it to become shared among multiple packages. If the DisableSharedComponent policy is set to "1", this flag is ignored for all components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -240,16 +234,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-bokeh-beauty-tips-for-engaging-instagram-stories/"><u>[Updated] 2024 Approved Bokeh Beauty Tips for Engaging Instagram Stories</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-step-by-step-approach-to-crafting-shareable-facebook-slideshows/"><u>[Updated] Step-by-Step Approach to Crafting Shareable Facebook Slideshows</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-high-quality-porno-movies-from-anybunny-in-mp4-or-avi-formats/"><u>Download High-Quality Porno Movies From Anybunny in MP4 or AVI Formats</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-showtime-anywhere-episodes-in-multiple-formats-mp4-mov-avi/"><u>Download Showtime Anywhere Episodes in Multiple Formats: MP4, MOV, AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-videos-from-kelby-training-course-professional-learning-software/"><u>Download Videos From Kelby Training Course - Professional Learning Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-your-favorite-cartoons-in-high-quality-how-to-convert-and-save-from-kimcartoon-as-mp4-or-avi/"><u>Download Your Favorite Cartoons in High Quality: How to Convert & Save From KIMCartoon as MP4 or AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/downloading-gamespot-content-how-to-convert-trailers-and-gameplays-into-mp4-or-avi-formats/"><u>Downloading GameSpot Content: How to Convert Trailers and Gameplays Into MP4 or AVI Formats</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-ultimate-dvd-converter-tools-for-windows-users-the-premier-pick-for-win10-and-win11-zero-fee/"><u>Free Ultimate DVD Converter Tools for Windows Users: The Premier Pick for Win10 and Win11 [Zero Fee]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>In 2024, Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
-<li><a href="https://win-hot.techidaily.com/leading-mini-desktops-and-nodes-of-2pacy-ranked-by-tech-gurus-your-comprehensive-guide-to-2024s-compact-powerhouses/"><u>Leading Mini Desktops and Nodes of 2Pacy, Ranked by Tech Gurus: Your Comprehensive Guide to 2024'S Compact Powerhouses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smart-strategies-achieving-advertising-excellence/"><u>[New] Smart Strategies Achieving Advertising Excellence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[Updated] In 2024, Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-no-cost-nintendo-switch-virtual-games-for-2024/"><u>[Updated] No-Cost Nintendo Switch Virtual Games for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-scripts-to-screen-a-filmmakers-guide-for-2024/"><u>[Updated] Scripts to Screen A Filmmaker's Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-archiving-youtube-livestream-content/"><u>Best Practices for Archiving Youtube Livestream Content</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 14 Pro Max without Apple Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722980704921-troubleshooting-steps-resolving-palworld-session-search-issues/"><u>Troubleshooting Steps: Resolving 'PalWorld' Session Search Issues</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
 </ul></div>
 

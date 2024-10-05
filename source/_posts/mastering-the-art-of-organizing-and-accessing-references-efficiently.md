@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Organizing and Accessing References Efficiently
-date: 2024-09-24T10:44:51.657Z
-updated: 2024-09-30T09:00:52.228Z
+date: 2024-09-30T20:36:59.682Z
+updated: 2024-10-05T17:10:02.638Z
 tags:
   - user-guide
 categories:
@@ -68,10 +68,10 @@ Throughout the project you may have items that you can not delete because they a
 References pane will display a list with the references of the item you tried to delete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go To Definition
@@ -81,10 +81,10 @@ To jump where the selected item from the list is created in the project use the 
 If the selected item can be displayed, the corresponding main page will be activated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go Back To Target Item
@@ -92,10 +92,10 @@ If the selected item can be displayed, the corresponding main page will be activ
 If you used the \[Go To Definition \] option or you have navigated thought the project pages you may want to go back where the target item is displayed. For that, use the \[Go Back To Target Item \] context menu button or press the F6 key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Search References
@@ -105,10 +105,10 @@ You can search for the references of the selected item by using the \[Search Ref
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references found for the selected item will be added to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,16 +144,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-phone-sleeves-with-integrated-batteries/"><u>[New] Phone Sleeves with Integrated Batteries</u></a></li>
-<li><a href="https://network-issues.techidaily.com/exorcising-flicker-from-surface-pro-7/"><u>Exorcising Flicker From Surface Pro 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-c12-plus-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia C12 Plus FRP</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-end-rubik-design-elite-fullscreen-bootstrapped-web-templating-by-creatively-timed/"><u>High-End Rubik Design: Elite Fullscreen Bootstrapped Web Templating by Creatively Timed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/over-20-stunning-material-ui-react-templates-by-creative-tim/"><u>Over 20 Stunning Material-UI React Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pro-level-dashboard-creation-mastering-vue-and-laravel-frameworks-with-json-api-integration-by-creative-tim/"><u>PRO Level Dashboard Creation: Mastering Vue and Laravel Frameworks with JSON API Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/promax-material-kit-for-flutter-projects-exclusive-high-quality-design-suite-from-creative-tim/"><u>ProMax Material Kit for Flutter Projects – Exclusive, High-Quality Design Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/react-and-material-ui-integration-with-argon-pro-dashboard-by-creative-tim-elevate-your-ux-management/"><u>React and Material-UI Integration with Argon PRO Dashboard by Creative Tim - Elevate Your UX Management!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-addressing-code-bug-5573-in-call-of-duty-vanguard/"><u>Resolved: Addressing Code Bug #5573 in Call of Duty Vanguard</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/top-solutions-to-eliminate-game-lag-achieve-smooth-play-at-20plus-fps/"><u>Top Solutions to Eliminate Game Lag: Achieve Smooth Play at 20+ FPS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-rescue-absent-watch-thumbnail-icon/"><u>[New] Rescue Absent Watch Thumbnail Icon</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity-for-2024/"><u>[New] The Complete Blueprint for Screen Capture Excellence with Adobe Captivity for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[Updated] In 2024, Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Plus Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100 Phone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-audio-troubleshooting-quick-solutions/"><u>In 2024, Avidemux Audio Troubleshooting Quick Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-use-of-environment-variables-on-your-webpage/"><u>Mastering the Use of Environment Variables on Your Webpage</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>New Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/select-folder-with-ease-mastering-the-folder-selection-dialog/"><u>Select Folder with Ease: Mastering the Folder Selection Dialog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-10-free-photoshop-alternatives-available-on-the-web/"><u>Top 10 Free Photoshop Alternatives Available on the Web</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-video-format-transformations-on-windows-10-the-ultimate-list/"><u>Top Video Format Transformations on Windows 10: The Ultimate List</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-creating-lyrics-videos-with-top-music-software-for-free/"><u>Ultimate Guide: Creating Lyrics Videos with Top Music Software for FREE!</u></a></li>
+<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
 </ul></div>
 

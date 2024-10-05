@@ -1,7 +1,7 @@
 ---
 title: "Organizational Guide: Comprehensive Insights Into the Strings Segment Task Force"
-date: 2024-09-23T23:28:40.089Z
-updated: 2024-09-30T07:57:06.508Z
+date: 2024-09-28T19:15:18.712Z
+updated: 2024-10-05T18:56:41.084Z
 tags:
   - user-guide
 categories:
@@ -90,10 +90,10 @@ As you add extra build languages from the [Languages Tab](https://tools.techidai
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The project language column strings can only be edited with their corresponding element from the GUI. Use the **Go To Row** context menu item or press **F8** key while a string is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Store changes in dictionary
@@ -102,9 +102,23 @@ This section becomes available after a project string is edited (green border). 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Any strings marked with a green border will not be changed in the dictionary until pressing the \[Save \] button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Translations
 
 This section becomes available if you select at least one additional build language (other than the default project language).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Specify project segments for translation
 
@@ -113,17 +127,10 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Different project segments are available for translation depending on the project type (Updates Configuration project, Merge Module project, etc.).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate dictionary for untranslated project strings
@@ -131,13 +138,6 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 Pressing the \[Create... \] button will generate a dictionary containing just the strings that need to be translated into the build languages. Only the project segments selected for translation in the Localization Options Dialog will be included in the generated dictionary.
 
 When translating in another language, Advanced Installer will look for the corresponding strings in one of the specified translation dictionaries. You can add more dictionaries to the project in the [Dictionaries Tab](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -179,18 +179,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>[New] 2024 Approved Instant IG Glory High-Quality Covers on Apple and Android Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>[Updated] 2024 Approved From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-the-maze-of-zoom-broadcasting-tools/"><u>[Updated] Navigating the Maze of Zoom Broadcasting Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-5-ios-applications-bringing-your-podcast-to-life/"><u>[Updated] Top 5 iOS Applications Bringing Your Podcast to Life</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-free-nbc-news-videos-in-hd-download-your-favorite-shows-as-mp4wmvavi-files/"><u>1. Free NBC News Videos in HD: Download Your Favorite Shows as MP4/WMV/AVI Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-tutorial-on-how-to-obtain-and-save-dilbar-songs-as-mp3-or-wav-files/"><u>Complete Tutorial on How to Obtain and Save Dilbar Songs as MP3 or WAV Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-clipsyndicate-videos-to-popular-formats-like-mp4-and-avi-effortless-downloading/"><u>Convert Your ClipSyndicate Videos to Popular Formats Like MP4 & AVI - Effortless Downloading</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c12-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C12 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-replacement-for-beemp3-compatible-with-both-mac-and-pc-crafted-by-allavsoft/"><u>Discover the Ultimate Replacement for BeeMp3 Compatible with Both Mac and PC, Crafted by Allavsoft</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-substitutes-for-streamtransport-ideal-choices-for-mac-and-windows-operating-systems/"><u>Discover the Ultimate Substitutes for StreamTransport: Ideal Choices for MAC & WINDOWS Operating Systems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-samsung-un65nu8000fxza-an-overpriced-average-performance-smart-television/"><u>Review of Samsung UN65NU8000FXZA: An Overpriced Average-Performance Smart Television</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-solving-common-complications-with-post/"><u>Step-by-Step Guide: Solving Common Complications with POST</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ai-8/"><u>무료 AI 기술을 이용한 데지 사진 조정: 상위 8가지 소프트웨어 선택</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xpress-yourself-incorporating-emojis-into-yt-feedback/"><u>[New] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>[Updated] In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-legal-steps-for-overcoming-a-youtube-copyright-strike-for-2024/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-lite-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6 Lite? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/contrasting-titans-of-tech-the-unique-advantages-of-google-palm-2-over-openai-gpt-4/"><u>Contrasting Titans of Tech: The Unique Advantages of Google PaLM 2 Over OpenAI GPT-4</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-for-your-amd-rx-6800-on-windows-111087-step-by-step-tutorial/"><u>How to Install the Latest Driver for Your AMD RX 6800 on Windows 11/10/8/7 – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-create-professional-looking-videos-on-mac-top-software-picks-for-2024/"><u>New Create Professional-Looking Videos on Mac Top Software Picks for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/pornhubs-safety-navigating-adult-content-without-risk-a-comprehensive-guide/"><u>Pornhub's Safety: Navigating Adult Content Without Risk – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-savings-premium-corsair-scimitar-rgb-elite-mmo-mouse-for-unbeatable-price-only-49-now/"><u>Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-modifying-cabinet-access-block-cab-options-in-system-setup/"><u>Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-top-slideshow-creation-tools-available-on-android-devices/"><u>Ultimate Top Slideshow Creation Tools Available on Android Devices</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-programmatic-identifier-progid-usage-in-component-based-software-engineering/"><u>Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering</u></a></li>
 </ul></div>
 

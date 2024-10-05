@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design"
-date: 2024-09-28T17:13:31.274Z
-updated: 2024-09-29T23:14:46.980Z
+date: 2024-09-30T16:40:10.993Z
+updated: 2024-10-05T19:55:33.517Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ The frame is split into parts, and each part has a predefined property and image
  The image format is bitmap. RGB(255, 0, 255) color is considered as transparent color. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing a dialog window
@@ -126,10 +126,10 @@ The frame is split into parts, and each part has a predefined property and image
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) To set this types of properties go to [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page and sequence a "Set installer property" custom action before "Wizard Dialogs Stage > Searches". 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To customize the frame of a dialog, follow these steps:
@@ -181,19 +181,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-excellence-in-screensnapting-fast-reliable-recorder/"><u>[New] 2024 Approved Excellence in Screensnapting Fast, Reliable Recorder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-techniques-from-recording-room-to-facebook-lives/"><u>[Updated] Unveiling Techniques From Recording Room to Facebook Lives</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970897350-drivers-for-epson-download-and-update-for-windows-easily/"><u>Drivers for Epson Download & Update for Windows EASILY</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-insights-by-tom-your-trusted-resource/"><u>Expert Hardware Insights by Tom - Your Trusted Resource</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-x100-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo X100 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-signal-loss-in-your-logitech-g930-troubleshooting-tips/"><u>Resolving Signal Loss in Your Logitech G930 - Troubleshooting Tips</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-recording-individual-audio-tracks-with-a-single-mic/"><u>Step-by-Step Guide: Recording Individual Audio Tracks with a Single Mic</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transform-it-course-footage-from-ehacking-into-compatible-mp4-and-avi-files-for-easy-downloads/"><u>Transform IT Course Footage From eHacking Into Compatible MP4 and AVI Files for Easy Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-assassins-creed-odyssey-say-goodbye-to-game-crashes-on-pc/"><u>Troubleshooting Assassin's Creed Odyssey: Say Goodbye to Game Crashes on PC!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-tips-for-when-spotifydownload-fails-on-your-computer-or-laptop/"><u>Troubleshooting Tips for When SpotifyDownload Fails on Your Computer or Laptop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlocking-access-how-to-save-your-zoom-meeting-videos-from-a-shared-url/"><u>Unlocking Access: How to Save Your Zoom Meeting Videos From a Shared URL</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/video-bitraser-enterprise-data-erasure-software/"><u>Video - BitRaser Enterprise Data Erasure Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/video-and-audio-archiver-effortless-conversion-of-archives-into-mp4wmv-videos-and-mp3-audio-files/"><u>Video & Audio Archiver: Effortless Conversion of Archives Into MP4/WMV Videos and MP3 Audio Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/youtube-to-mp3-converter-fast-and-reliable-mp3-downloader-compatible-with-mac-and-windows/"><u>YouTube-to-MP3 Converter: Fast & Reliable MP3 Downloader Compatible with Mac and Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tricks-for-smooth-animation-with-movie-maker/"><u>[New] Tricks for Smooth Animation with Movie Maker</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-expanding-reach-fb-live-on-broadcast-networks/"><u>2024 Approved Expanding Reach FB Live on Broadcast Networks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-the-scenes-filmmaking-tips-from-youtube-experts/"><u>Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-guide-to-creating-a-musical-picture-presentation-application/"><u>Discover the Ultimate Guide to Creating a Musical Picture Presentation Application</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-methods-for-streamlining-videos/"><u>Easy Methods for Streamlining Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-for-samsung-m2070fw-printers-download-the-right-drivers-now/"><u>Effortless Setup for Samsung M2070FW Printers - Download the Right Drivers Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>In 2024, The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-your-audio-visual-journey-with-these-6-apps/"><u>Perfect Your Audio Visual Journey with These 6 Apps</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamlessly-share-and-sync-how-to-move-files-from-your-mac-onto-your-iphone-or-ipad/"><u>Seamlessly Share & Sync: How to Move Files From Your Mac Onto Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simplified-guide-step-by-step-instructions-for-securely-backing-up-your-ipad-without-using-itunes/"><u>Simplified Guide: Step-by-Step Instructions for Securely Backing Up Your iPad Without Using iTunes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/steps-for-successful-extraction-of-fb-content/"><u>Steps for Successful Extraction of FB Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ros-playbook-for-top-10-music-videos-that-define-genres/"><u>The Pros' Playbook for Top 10 Music Videos That Define Genres</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-the-app-v-settings-panel-managing-configuration-through-registry-keys/"><u>Understanding the App-V Settings Panel: Managing Configuration Through Registry Keys</u></a></li>
 </ul></div>
 

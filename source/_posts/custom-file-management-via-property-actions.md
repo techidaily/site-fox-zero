@@ -1,7 +1,7 @@
 ---
 title: Custom File Management via Property Actions
-date: 2024-09-24T03:45:31.325Z
-updated: 2024-09-29T21:35:26.320Z
+date: 2024-09-28T19:18:28.164Z
+updated: 2024-10-05T17:27:56.338Z
 tags:
   - user-guide
 categories:
@@ -126,16 +126,16 @@ Table of Contents
 ## IFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -143,10 +143,10 @@ Table of Contents
 IFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +154,10 @@ IFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching executable file into execution using a property to specify the executable file path.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -167,10 +167,10 @@ This interface facilitates editing custom action that allows the launching execu
 **String CommandLine** \- Gets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -212,20 +212,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[New] 2024 Approved Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevating-your-facebook-footprint-the-top-20-strategies-for-successful-videos/"><u>[New] Elevating Your Facebook Footprint The Top 20 Strategies for Successful Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-premium-zero-cost-live-capture-program/"><u>[Updated] 2024 Approved Premium Zero-Cost Live Capture Program</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>2024 Approved Master the Melodies Secrets to Adding Soundtracks on Insta</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-spotify-how-to-exclude-recommended-podcasts/"><u>2024 Approved Spotify How to Exclude Recommended Podcasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-essence-of-dji-inspire-2-distilled/"><u>2024 Approved The Essence of DJI Inspire 2 Distilled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-list-of-excellent-4k-cameras/"><u>2024 Approved Ultimate List of Excellent 4K Cameras</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-0x000000ea-bsod-issue-on-your-windows-pc/"><u>Resolving 0X000000EA BSOD Issue on Your Windows PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722178030432-tackling-the-busy-at-moment-error-in-chatgpt-on-windows-proven-strategies-inside/"><u>Tackling the 'Busy at Moment' Error in ChatGPT on Windows - Proven Strategies Inside!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-allavsoft-replacement-ideal-for-both-mac-and-windows/"><u>Top Allavsoft Replacement: Ideal for Both Mac & Windows</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transform-it-course-footage-from-ehacking-into-compatible-mp4-and-avi-files-for-easy-downloads/"><u>Transform IT Course Footage From eHacking Into Compatible MP4 and AVI Files for Easy Downloads</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-tips-for-when-spotifydownload-fails-on-your-computer-or-laptop/"><u>Troubleshooting Tips for When SpotifyDownload Fails on Your Computer or Laptop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlocking-access-how-to-save-your-zoom-meeting-videos-from-a-shared-url/"><u>Unlocking Access: How to Save Your Zoom Meeting Videos From a Shared URL</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/video-and-audio-archiver-effortless-conversion-of-archives-into-mp4wmv-videos-and-mp3-audio-files/"><u>Video & Audio Archiver: Effortless Conversion of Archives Into MP4/WMV Videos and MP3 Audio Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/youtube-to-mp3-converter-fast-and-reliable-mp3-downloader-compatible-with-mac-and-windows/"><u>YouTube-to-MP3 Converter: Fast & Reliable MP3 Downloader Compatible with Mac and Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>[Updated] 2024 Approved Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-stories-how-to-record-snapchat-mobilely-for-2024/"><u>[Updated] Snappy Stories - How to Record Snapchat Mobilely for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[Updated] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-unveiling-the-secrets-of-editing-registry-values-a-comprehensive-guide/"><u>1. Unveiling the Secrets of Editing Registry Values: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-lexternalisation-avec-abbyy-flexicapture-reduit-les-couts-de-production-pour-une-entreprise-specialisee/"><u>Comment L'externalisation Avec ABBYY FlexiCapture Réduit Les Coûts De Production Pour Une Entreprise Spécialisée</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-user-manual-mastering-apoweredit/"><u>Comprehensive User Manual: Mastering ApowerEdit</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-reducing-video-file-size-without-compromising-quality/"><u>Effective Strategies for Reducing Video File Size Without Compromising Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-civi-3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Civi 3 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>In 2024, Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
 </ul></div>
 

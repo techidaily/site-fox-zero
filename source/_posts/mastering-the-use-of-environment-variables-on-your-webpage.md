@@ -1,7 +1,7 @@
 ---
 title: Mastering the Use of Environment Variables on Your Webpage
-date: 2024-09-28T02:35:47.488Z
-updated: 2024-09-30T07:37:25.368Z
+date: 2024-10-03T20:42:21.674Z
+updated: 2024-10-05T18:36:08.901Z
 tags:
   - user-guide
 categories:
@@ -79,37 +79,30 @@ In this page you can add environment variables to the install package. These var
 
 ![Environment variables](https://cdn.advancedinstaller.com/img/ui/environment-variables.png "Environment variables")  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new environment variables
 
 ![New Environment Variable](https://cdn.advancedinstaller.com/img/toolbar/environment-variables-new.png "New Environment Variable") Use the \[New Variable... \] toolbar button, the “New Variable...” context menu item or press the Insert key while the list is focused. In the [Edit Environment Variable Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) you can set the variable's properties. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing an environment variable
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the \[Properties... \] toolbar button, the “Properties...” context menu item or press the Enter key to activate the [Edit Environment Variable Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/), where you can set the variable's properties. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Locating the attached component for an environment variable
 
  Use the “Go To Component” list context menu item or press theF8 key while a variable is selected. This command will activate the[Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing environment variables
@@ -124,10 +117,17 @@ In this page you can add environment variables to the install package. These var
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more information about the resources and attributes that can be configured, please see:[Configurable Merge Modules Page](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -168,18 +168,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-of-phones-excellent-at-mobile-video-production/"><u>[New] Ranking of Phones Excellent at Mobile Video Production</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity/"><u>[Updated] Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-fix-obs-camera-not-working-for-2024/"><u>[Updated] How to Fix OBS Camera Not Working for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-webcams-for-enhanced-podcast-production-for-2024/"><u>[Updated] Ultimate Webcams for Enhanced Podcast Production for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-prime-collage-app-selection-overview/"><u>2024 Approved Android's Prime Collage App Selection Overview</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-concepts-to-shares-your-guide-to-metaverse-meme-creation/"><u>2024 Approved From Concepts to Shares Your Guide to Metaverse Meme Creation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/4-ways-to-open-disk-management-in-windows-11-and-11/"><u>4 Ways to Open Disk Management in Windows 11 and 11</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-material-kit-pro-for-react-native-development-elite-template-by-creative-tim/"><u>Advanced Material Kit Pro for React Native Development: Elite Template by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-pro-dashboard-with-premium-tailwind-and-nextjs-by-creative-tim/"><u>Advanced Pro Dashboard with Premium Tailwind & Next.js by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-pro-version-of-the-vue-material-dashboard-using-laravel-framework-and-json-api-by-creative-tim-complete-frontendbackend-application/"><u>Advanced PRO Version of the Vue Material Dashboard Using Laravel Framework and JSON API by Creative Tim: Complete Frontend/Backend Application</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/advanced-vuenow-design-toolkit-pro-edition-expertly-crafted-by-creative-tim/"><u>Advanced VueNow Design Toolkit: PRO Edition, Expertly Crafted by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creative-tims-37plus-soft-ui-design-framework-comprehensive-guide-on-codes-and-aesthetics/"><u>Creative Tim's 37+ Soft UI Design Framework: Comprehensive Guide on Codes and Aesthetics</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/winxdvd-pro-ultimate-dvd-and-video-editing-tool-official-site/"><u>WinXDVD Pro: Ultimate DVD and Video Editing Tool - Official Site</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-ps2-games-simulation-for-ios-users/"><u>[New] Cutting-Edge PS2 Games Simulation for iOS Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-creations-get-free-high-quality-templates-today-for-2024/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>2024 Approved Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-learning-robotic-kits-for-young-developers-interactive-code-games-and-activities/"><u>Best Learning Robotic Kits for Young Developers: Interactive Code Games and Activities</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-guide-on-utilizing-microsofts-universal-windows-platform-bootstrapper-menu-options/"><u>Comprehensive Guide on Utilizing Microsoft's Universal Windows Platform Bootstrapper Menu Options</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-your-ideal-investment-with-our-iproperty-solutions/"><u>Explore Your Ideal Investment with Our IProperty Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-collage-made-fast-and-easy-essential-tips-unveiled-for-2024/"><u>Google Collage Made Fast & Easy - Essential Tips Unveiled for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/managing-project-dependencies-interactive-configuration-guide/"><u>Managing Project Dependencies: Interactive Configuration Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-iregistrykey-essential-techniques-and-strategies-for-optimization/"><u>Mastering IRegistryKey: Essential Techniques and Strategies for Optimization</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-organizing-and-accessing-references-efficiently/"><u>Mastering the Art of Organizing and Accessing References Efficiently</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-walkthrough-altering-the-default-pdf-application-for-windows-11-users/"><u>Step-by-Step Walkthrough: Altering the Default PDF Application for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos-for-2024/"><u>The Key Role of Image Quality in Generating Clicks on YouTube Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-successful-games-lessons-from-helldivers-2s-adventure/"><u>Unlocking the Secrets of Successful Games: Lessons From Helldivers 2'S Adventure</u></a></li>
 </ul></div>
 

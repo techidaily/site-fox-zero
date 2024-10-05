@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide to Understanding Your Health: The Condition Section Explained"
-date: 2024-09-28T20:51:22.899Z
-updated: 2024-09-30T05:23:58.080Z
+date: 2024-09-29T17:45:34.524Z
+updated: 2024-10-05T17:02:32.276Z
 tags:
   - user-guide
 categories:
@@ -81,19 +81,19 @@ Table of Contents
 ![Task Execution Condition](https://cdn.advancedinstaller.com/img/dialog/st-condition-dialog.png "Task Execution Condition")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Power
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start the task only if the computer is on AC power
@@ -101,10 +101,10 @@ Table of Contents
 The scheduled task will be executed only if the computer is connected to an AC powerline.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop if computer switches to battery power
@@ -112,10 +112,10 @@ The scheduled task will be executed only if the computer is connected to an AC p
 The scheduled task execution will be halted if the AC powerline is disconnected from the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wake the computer to tun the task
@@ -155,24 +155,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-engaging-youtube-channel-names-for-vlogger-success-no-more-than-156/"><u>[New] In 2024, Crafting Engaging YouTube Channel Names for Vlogger Success (No More Than 156)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-proven-winners-selecting-the-best-hdr-cameras/"><u>[New] Proven Winners Selecting the Best HDR Cameras</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-comprehensive-guide-to-capturing-your-hp-pcs-display-for-2024/"><u>[Updated] A Comprehensive Guide to Capturing Your HP PC's Display for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-backward-playmanship-a-guide-to-reversed-youtube-videos/"><u>[Updated] In 2024, Backward Playmanship A Guide to Reversed YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook-for-2024/"><u>[Updated] Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/chronicle-samsung-games-with-precision-timing/"><u>Chronicle Samsung Games with Precision Timing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-word-documents-to-swf-flash-animations-at-no-cost/"><u>Convert Your Word Documents to SWF Flash Animations at No Cost</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-gt-5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme GT 5 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-note-30-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Note 30 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-software-to-craft-impeccable-voices-for-virtual-stars/"><u>In 2024, Key Software to Craft Impeccable Voices for Virtual Stars</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/over-20-stunning-material-ui-react-templates-by-creative-tim/"><u>Over 20 Stunning Material-UI React Templates by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pro-level-dashboard-creation-mastering-vue-and-laravel-frameworks-with-json-api-integration-by-creative-tim/"><u>PRO Level Dashboard Creation: Mastering Vue and Laravel Frameworks with JSON API Integration by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/promax-material-kit-for-flutter-projects-exclusive-high-quality-design-suite-from-creative-tim/"><u>ProMax Material Kit for Flutter Projects – Exclusive, High-Quality Design Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/react-and-material-ui-integration-with-argon-pro-dashboard-by-creative-tim-elevate-your-ux-management/"><u>React and Material-UI Integration with Argon PRO Dashboard by Creative Tim - Elevate Your UX Management!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862733529-save-big-now-grab-the-m3-macbook-air-16gb-13-inch-for-a-steal-at-only-1149/"><u>Save Big Now: Grab the M3 MacBook Air - 16GB / 13-Inch for a Steal at Only $1,149!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/to-find-new-sizes-at-different-scales-set-up-a-proportion-using-the-original-scale-ratio-and-solve-for-the-unknown-value-with-cross-multiplication/"><u>To Find New Sizes at Different Scales, Set up a Proportion Using the Original Scale Ratio and Solve for the Unknown Value with Cross-Multiplication.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-admin-panel-with-paper-theme-pro-version-using-reactive-ui-framework-and-bootstrap-integration/"><u>Ultimate Admin Panel with Paper Theme - Pro Version Using Reactive UI Framework & Bootstrap Integration</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-tech-roundup-nine-innovative-mic-recorders-for-web-23/"><u>[New] Advanced Tech Roundup Nine Innovative Mic Recorders for Web ('23)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-future-virtual-frontiers-in-depth-comparison-of-meta-and-omniverse-worlds/"><u>[Updated] Future Virtual Frontiers In-Depth Comparison of Meta & Omniverse Worlds</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-top-rated-photography-editors-for-showcasing-your-products/"><u>Best Top-Rated Photography Editors for Showcasing Your Products</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-instructions-connecting-with-friends-via-text-on-your-ipad-device/"><u>Easy Instructions: Connecting with Friends via Text on Your iPad Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-11-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme 11 5G Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-instructional-guide-to-navigating-and-utilizing-apowerrescue-features/"><u>Step-by-Step Instructional Guide to Navigating and Utilizing ApowerRescue Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-successfully-mounting-keyspans-19hs-driver-on-windows-os/"><u>Step-by-Step Tutorial for Successfully Mounting Keyspan's 19HS Driver on Windows OS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-high-powered-jump-starter-for-your-vehicle-a-thorough-look-at-the-m-mooc-1000a-with-18000mah-charge/"><u>The Best High-Powered Jump Starter for Your Vehicle! A Thorough Look at the M MOOC 1000A with 18,000mAh Charge</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-mystery-dark-web-vs-deep-web-simplified-insights-from-malwarefox/"><u>Unveiling the Mystery: Dark Web vs Deep Web Simplified - Insights From MalwareFox</u></a></li>
 </ul></div>
 

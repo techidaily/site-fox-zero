@@ -1,7 +1,7 @@
 ---
 title: "Understanding File Associations: How Your Computer Identifies Programs"
-date: 2024-09-28T09:07:18.357Z
-updated: 2024-09-29T18:13:26.590Z
+date: 2024-10-04T16:47:06.268Z
+updated: 2024-10-05T17:08:41.566Z
 tags:
   - user-guide
 categories:
@@ -109,26 +109,26 @@ Table of Contents
 ## IFileAssociations
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IFileAssociations : IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This interface is meant to manage file associations 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -144,13 +144,6 @@ Creates a new ProgId setup.
 **RemoveProgId(IProgIdFA ProgId)**   
 Removes a new ProgId setup. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Properties
 
 **Array<IDefaultProgramFA> DefaultPrograms**  
@@ -160,16 +153,10 @@ Gets the collection of default programs setups.
 Gets the collection of ProgId setups. 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -184,6 +171,13 @@ $defaultProgrram = $project.FileAssociations.NewDefaultProgram()
 $defaultProgrram.AddExtension($extension)
 
     Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -224,20 +218,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-with-inshot-music-integration-guide/"><u>[New] Harmonizing with InShot Music Integration Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-techniques-for-soundless-video/"><u>[Updated] In 2024, Essential Techniques for Soundless Video</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[Updated] In 2024, Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>2024 Approved Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-improved-3d-models/"><u>Enhancing Gameplay with Improved 3D Models</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-extract-live-media-content-the-best-rtmp-downloader-tools-for-windows-and-mac-users/"><u>How to Extract Live Media Content: The Best RTMP Downloader Tools for Windows & Mac Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-12plus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme 12+ 5G without App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-x-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone X Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/launching-at-optimal-times-a-podcast-guide-for-2024/"><u>Launching at Optimal Times A Podcast Guide for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/learn-and-play-like-a-pro-securing-jonny-piano-scores-and-online-course-access-easily/"><u>Learn and Play Like a Pro: Securing Jonny Piano Scores and Online Course Access Easily</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/parliamentlive-streaming-recorder-capture-mps-debates-and-speeches-from-parliamentlivetv/"><u>ParliamentLive Streaming Recorder: Capture MPs' Debates & Speeches From ParliamentLive.TV</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/singsnap-your-all-in-one-musicvideo-downloader-for-multiple-file-types-including-mp4-avi-wmv/"><u>SingSnap: Your All-in-One Music/Video Downloader for Multiple File Types Including MP4, AVI, WMV</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-5-superior-alternatives-to-4k-video-downloader-for-macos-and-windows-users/"><u>Top 5 Superior Alternatives to 4K Video Downloader for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-allavsoft-replacement-ideal-for-both-mac-and-windows/"><u>Top Allavsoft Replacement: Ideal for Both Mac & Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-non-charging-laptop-battery-with-these-simple-fixes/"><u>Troubleshoot Your Non-Charging Laptop Battery with These Simple Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovate-your-images-video-enhancer-v22-workflow/"><u>[New] Innovate Your Images Video Enhancer V2.2 Workflow</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eamless-internet-experience-try-these-7-best-android-apps/"><u>[New] Seamless Internet Experience? Try These 7 Best Android Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing/"><u>[Updated] 2024 Approved Premier List of Affordable Virtual Meetings & Live Desktop Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/15-types-of-camera-shots-in-film-beginners-need-to-know-for-2024/"><u>15 Types of Camera Shots in Film Beginners Need to Know for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-roblox-experience-achieve-higher-fps-using-latest-techniques/"><u>Elevate Your Roblox Experience: Achieve Higher FPS Using Latest Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/explore-best-selections-for-youtube-ringtone-downloads/"><u>Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-site-velocity-a-guide-to-enhanced-webpage-efficiency/"><u>Optimizing Site Velocity: A Guide to Enhanced Webpage Efficiency</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
 </ul></div>
 

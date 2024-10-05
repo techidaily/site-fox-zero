@@ -1,7 +1,7 @@
 ---
 title: Effortless Folder Discovery Using Advanced Search Tool
-date: 2024-09-27T21:12:41.199Z
-updated: 2024-09-29T21:34:36.869Z
+date: 2024-10-02T16:23:11.056Z
+updated: 2024-10-05T18:31:50.050Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## ISearchFolderLocator
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 ISearchFolderLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ ISearchFolderLocator : IDispatch
 This interface is meant to edit the folder locator.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface is meant to edit the folder locator.
 **Example**: "Path" field value: \[ProgramFilesFolder\]MY\_FOLDER will return: 1: C:\\Program Files\\MY\_FOLDER\\
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +208,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-effortless-time-lapse-videos-with-samsung-tech-for-2024/"><u>[New] Effortless Time-Lapse Videos with Samsung Tech for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-funding-fantasies-or-fiscal-facts/"><u>[Updated] 2024 Approved Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-rapid-assembly-of-google-image-mosaics/"><u>[Updated] Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-innovative-ways-chatgpt-elevates-cooking-experience/"><u>7 Innovative Ways ChatGPT Elevates Cooking Experience</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-word-documents-to-swf-flash-animations-at-no-cost/"><u>Convert Your Word Documents to SWF Flash Animations at No Cost</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-flipbooks-from-pdfs-a-guide-on-incorporating-watermarks-using-flipbuilder/"><u>Creating Interactive Flipbooks From PDFs: A Guide on Incorporating Watermarks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-sturdy-hardcover-flipbooks-mastering-the-technique-on-flipbuildercom/"><u>Creating Sturdy Hardcover Flipbooks: Mastering the Technique on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-your-own-classic-pop-up-book-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/design-and-develop-a-touch-sensitive-mobile-ebook-featuring-realistic-page-turning-flipbuildercom/"><u>Design & Develop a Touch-Sensitive Mobile eBook Featuring Realistic Page Turning [FlipBuilder.com]</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elite-applications-facilitating-video-discussions/"><u>Elite Applications Facilitating Video Discussions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enabling-pdf-export-from-your-site-with-ease-using-flipbuilder/"><u>Enabling PDF Export From Your Site with Ease Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-book-layouts-instantly-using-alpha-templates-achieve-seamless-page-turn-effects-with-flipbuilder/"><u>Enhance Your Book Layouts Instantly Using Alpha Templates – Achieve Seamless Page Turn Effects with FlipBuilder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-inbox-the-top-benefits-of-using-mozilla-thunderbird-v52/"><u>Optimize Your Inbox: The Top Benefits of Using Mozilla Thunderbird V52</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ten-pillars-of-meme-creation-for-2024/"><u>The Ten Pillars of Meme Creation for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-5-tools-for-capturing-facebook-live-videos/"><u>[New] Top 5 Tools for Capturing Facebook Live Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-compilation-best-tools-for-vimeo-files-for-2024/"><u>[New] Ultimate Compilation Best Tools for Vimeo Files for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-7-premium-android-adblocking-tools/"><u>[Updated] 2024 Approved Discover 7 Premium Android AdBlocking Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>[Updated] Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-whats-different-on-facebook-a-comprehensive-overview-for-2024/"><u>[Updated] What's Different on Facebook? - A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-new-era-of-mac-os-embracing-big-sur/"><u>2024 Approved The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevating-your-show-with-expert-rss-feed-craftsmanship-for-2024/"><u>Elevating Your Show with Expert RSS Feed Craftsmanship for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-sharing-your-youtube-content-with-ease-perfecting-your-instagram-stories-and-igtv/"><u>Guide: Sharing Your YouTube Content with Ease - Perfecting Your Instagram Stories and IGTV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on C55</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 12 5G Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/preserve-your-favorite-movies-how-to-download-video-clips-from-tango/"><u>Preserve Your Favorite Movies: How To Download Video Clips From Tango</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
 </ul></div>
 

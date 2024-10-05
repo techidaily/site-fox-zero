@@ -1,7 +1,7 @@
 ---
 title: Understanding Component Features and Attributes
-date: 2024-09-22T21:31:08.431Z
-updated: 2024-09-29T22:01:52.614Z
+date: 2024-10-02T17:46:56.634Z
+updated: 2024-10-05T19:14:58.344Z
 tags:
   - user-guide
 categories:
@@ -90,6 +90,13 @@ Table of Contents
 * Condition  
  A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is null or is evaluated to false, the component is not installed. Use the \[... \] button to [edit the conditional statement.](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Attributes
 
 * Run From Source Only  
@@ -115,25 +122,25 @@ This option marks the component as shared among multiple packages. In doing so, 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Shared components must have the same component GUID and the same key path resource. Also, their resources must be installed under the same location.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If registry reflection is disabled the changes are performed only in the targeted view.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional space
 
 This section allows you to reserve an amount of disk space in any directory that depends on the installation state of a component.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Folder
 
@@ -148,10 +155,10 @@ The number of bytes of disk space to be reserved if the selected component is in
 The number of bytes of disk space to be reserved if the selected component is installed to run from source.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Qualified Components Groups
@@ -168,23 +175,9 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
 
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while the list control is focused. The[Edit Qualified Component And Group Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the qualified properties for the current component.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing the component from a category
 
 Use the \[Remove \] button, the “Remove” list context menu item or press the Delete key while the list control is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Isolated Components
 
@@ -195,20 +188,33 @@ Using Isolated Components have the following advantages:
 * The application will always use the original files(the files it was installed with).
 * Installing other applications that use the same files, but with a higher version, will ensure that the original files are not overwritten.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Isolating a component
 
 Use the \[Add... \] button, the “Add...” list context menu item or press the Insert key while the list control is focused. The Component Picker will be displayed allowing you to select a component. The selected component will be isolated with the current one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing an isolated component
 
 Use the \[Remove \] button, the “Remove” list context menu item or press the Delete key while the list control is focused.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -250,19 +256,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-soaring-through-style-the-new-age-of-bebop-parrot/"><u>[New] 2024 Approved Soaring Through Style – The New Age of Bebop Parrot</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-broadcast-strategies-share-twitch-videos-on-fb-for-2024/"><u>[New] Broadcast Strategies Share Twitch Videos on FB for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[New] The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-your-podcast-potential-advanced-techniques-for-idevice-audio-recording/"><u>[New] Unlock Your Podcast Potential Advanced Techniques for iDevice Audio Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-x-spectrum-visual-recorder-pc-for-2024/"><u>[New] X-Spectrum Visual Recorder, PC for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-dive-into-iphones-audio-memos-made-simple/"><u>[Updated] Dive Into iPhone's Audio Memos Made Simple</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-zoom-techniques-for-chromebook-proficiency/"><u>2024 Approved Essential Zoom Techniques for Chromebook Proficiency</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-professional-photo-editing-tools-can-you-find-the-right-flipbuilder-alternative/"><u>Exploring Professional Photo Editing Tools - Can You Find the Right FlipBuilder Alternative?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-the-variety-of-export-options-available-at-flipbuildercom/"><u>Exploring the Variety of Export Options Available at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/harnessing-the-power-of-flippdf-a-detailed-reference-for-flipbuilder-users/"><u>Harnessing the Power of FlipPDF: A Detailed Reference for FlipBuilder Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-can-you-swiftly-identify-required-flipbuilder-button-configurations/"><u>How Can You Swiftly Identify Required FlipBuilder Button Configurations?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-customize-your-book-titles-on-web-pages-using-flipbuilder-incorporating-keywords-and-descriptions/"><u>How to Customize Your Book Titles on Web Pages Using FlipBuilder: Incorporating Keywords and Descriptions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-screen-clarity-advanced-zoom-techniques/"><u>In 2024, Unlocking Screen Clarity Advanced Zoom Techniques</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/inserting-symbols-as-you-type-in-flipbuilder-a-user-guide/"><u>Inserting Symbols as You Type in FlipBuilder - A User Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-aim-higher-than-xsplit-top-video-editors-reviewed/"><u>[New] Aim Higher than Xsplit Top Video Editors Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-art-of-hidden-storytelling-on-snapchat-for-2024/"><u>[New] Decoding the Art of Hidden Storytelling on Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-comparative-study-vidma-vs-standard-screen-recording/"><u>[Updated] 2024 Approved Comparative Study Vidma vs Standard Screen Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>2024 Approved YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/empowering-your-role-play-with-ai-how-to-make-chatgpt-the-perfect-dm-assistant/"><u>Empowering Your Role-Play with AI: How to Make ChatGPT the Perfect DM Assistant</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exe-details-configuration-panel/"><u>EXE Details Configuration Panel</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a54-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A54 5G Phone Screen?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-remove-digital-certificates-a-step-by-step-guide/"><u>How to Remove Digital Certificates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/product-information-update-guide-navigating-and-modifying-item-codes/"><u>Product Information Update Guide: Navigating and Modifying Item Codes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-blaze-2-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Blaze 2 5G without backup.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-smart-tv-models-a-comprehensive-review-by-zdnet/"><u>Top-Ranked Smart TV Models : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-natures-potential-discover-the-benefits-of-advanced-herbal-nutrition-iverbenhanced/"><u>Unlock Nature's Potential: Discover the Benefits of Advanced Herbal Nutrition (IVerbEnhanced)</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Experience: A Guide to Understanding the Sign-Up Section"
-date: 2024-09-24T22:01:34.098Z
-updated: 2024-09-30T05:28:09.646Z
+date: 2024-10-02T20:34:56.991Z
+updated: 2024-10-05T18:10:58.935Z
 tags:
   - user-guide
 categories:
@@ -104,13 +104,6 @@ The following file types can be registered:
 
 * **Dynamic-Link Library(.dll) files, Object Linking and Embedding custom control(.ocx) files, etc.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## File Registration
 
 Check the _Auto register file (DLL,OCX,etc.)_ box to mark the file for registration.
@@ -118,6 +111,13 @@ Check the _Auto register file (DLL,OCX,etc.)_ box to mark the file for registrat
 There are three methods for registering files, two for native libraries and one for .NET assemblies. Select the desired method from the options bellow.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A self-registrable native library should export the “DllRegisterServer” function.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Self-register native library
 
@@ -133,18 +133,18 @@ By selecting this option all the necessary registry entries and keys are install
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When this option is enabled for EXE COMs being already registered on the current build machine after the option is applied it is possible that the EXE COMs be unregistered from build machine. This behavior may exhibit due to a limitation of our extract registration info mechanism.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Register .NET assembly for COM interoperability
 
 This option creates the required registry entries in order for your assembly to be operable through COM. You can see those registry entries in the [Registry](https://tools.techidaily.com/advancedinstaller/products/) page. Advanced Installer attempts to find the RegAsm tool in order to extract the registry entries required for COM interoperability. You can specify the RegAsm file to be used from the [External Tools](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)It is recommended to synchronize the registration if you make changes to the assembly that affects the COM interface or assembly attributes.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Synchronization
 
@@ -155,30 +155,24 @@ This option creates the required registry entries in order for your assembly to 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The "Enable" and "Buildtime" synchronization methods will remove or replace any registry entries placed in the same component with the file.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Font files:**
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Font Options
 
 ![Font Registration](https://cdn.advancedinstaller.com/img/dialog/font-registration.png "Font Registration")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check the “Register Font” check-box for the font to be registered during the installation process.
 
@@ -188,24 +182,24 @@ Enter the font's name in the “Registration Name” text field. This will be th
 
 * **Merge Modules files:**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Merge Module Registration
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Register with Visual Studio
 
 Registers this merge module with Visual Studio. Registered merge modules can be selected when creating "Setup and Deployment" projects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Register with Advanced Installer
@@ -245,22 +239,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-online-presence-making-videos-on-mobile/"><u>[New] In 2024, Elevate Your Online Presence Making Videos on Mobile</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-choosing-vocal-change-software/"><u>[New] The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj77ya5a625bqt55so44ki44ox44oq44kx44o844k344on44oz44ks5l244gj44gf44ow44or44o844os44kk5yuv55s744gu57ch510/"><u>「ステップバイステップガイド：家庭用アプリケーションを使ったブルーレイ動画の簡単な録画方法」</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-a18-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo A18</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/automatic-e-book-creation-with-flippdf-transform-your-pdfs-into-readable-ebooks-in-seconds-flipbuildercom/"><u>Automatic E-Book Creation with FlipPDF: Transform Your PDFs Into Readable eBooks in Seconds [FlipBuilder.com]</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-success-with-youtube-income-streams-for-2024/"><u>Charting Success with YouTube Income Streams for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-word-documents-to-swf-flash-animations-at-no-cost/"><u>Convert Your Word Documents to SWF Flash Animations at No Cost</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-flipbooks-from-pdfs-a-guide-on-incorporating-watermarks-using-flipbuilder/"><u>Creating Interactive Flipbooks From PDFs: A Guide on Incorporating Watermarks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-sturdy-hardcover-flipbooks-mastering-the-technique-on-flipbuildercom/"><u>Creating Sturdy Hardcover Flipbooks: Mastering the Technique on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-your-own-classic-pop-up-book-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/design-and-develop-a-touch-sensitive-mobile-ebook-featuring-realistic-page-turning-flipbuildercom/"><u>Design & Develop a Touch-Sensitive Mobile eBook Featuring Realistic Page Turning [FlipBuilder.com]</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/embrace-convenient-portability-with-the-essential-tech-specs-of-hp-stream-11/"><u>Embrace Convenient Portability with the Essential Tech Specs of HP Stream 11</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enabling-pdf-export-from-your-site-with-ease-using-flipbuilder/"><u>Enabling PDF Export From Your Site with Ease Using FlipBuilder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-online-content-finding-the-ideal-website-pages/"><u>Exploring Online Content: Finding the Ideal Website Pages</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unleash-your-creativity-with-astrolaunch-ui-a-complimentary-guide-to-mastering-beautiful-astro-template-designs/"><u>Unleash Your Creativity with AstroLaunch UI: A Complimentary Guide to Mastering Beautiful Astro Template Designs!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-the-power-of-a-new-identity-step-by-step-guide-to-alter-your-game-characters-voice-for-free/"><u>Unlock the Power of a New Identity Step-by-Step Guide to Alter Your Game Character's Voice for FREE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-down-augmented-realitys-mysteries/"><u>[Updated] Breaking Down Augmented Reality's Mysteries</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-graph-gems-2017s-statistical-youtube-surprises/"><u>[Updated] Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ejecucion-perfecta-como-unir-archivos-de-video-mp4-con-facilidad/"><u>Ejecución Perfecta: Cómo Unir Archivos De Video MP4 Con Facilidad</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
+<li><a href="https://video-capture.techidaily.com/historys-heaviest-battles-rts-review-of-7-epic-games/"><u>History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>In 2024, A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-data-recovery-bringing-back-your-disappeared-iphone-memories-with-stellar-program/"><u>Master the Art of Data Recovery: Bringing Back Your Disappeared iPhone Memories with Stellar Program</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-potential-of-your-iphone-with-top-podcast-tips-for-2024/"><u>Unlock the Potential of Your iPhone with Top Podcast Tips for 2024</u></a></li>
 </ul></div>
 

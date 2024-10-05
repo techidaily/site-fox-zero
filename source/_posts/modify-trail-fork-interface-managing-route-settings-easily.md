@@ -1,7 +1,7 @@
 ---
 title: "Modify Trail Fork Interface: Managing Route Settings Easily"
-date: 2024-09-24T09:31:12.636Z
-updated: 2024-09-30T03:21:53.998Z
+date: 2024-10-01T19:39:54.502Z
+updated: 2024-10-05T17:05:03.192Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ This dialog enables you to create or update a path variable.
 ![Edit Path Variable](https://cdn.advancedinstaller.com/img/dialog/edit-path-var.png "Edit Path Variable")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -89,15 +89,22 @@ This dialog enables you to create or update a path variable.
 The path variable's unique identifier.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
 
 The path variable's value.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Select
 
@@ -108,22 +115,15 @@ A path variable's value can contain reference to:
 * Registry entry
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Values per Builds
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)This section is only available for [Project Path Variables](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Specify a different source path per each build usingChange... hyperlink button.
 
@@ -160,17 +160,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-discord-message-pinning-essentials/"><u>[Updated] 2024 Approved Mastering Discord Message Pinning Essentials</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-hidden-shared-memories-in-messenger/"><u>[Updated] In 2024, Unveiling Hidden Shared Memories in Messenger</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-the-bot-giants-who-wins-as-the-ultimate-generative-ai-chat-solution-chatgpt-or-bing/"><u>Battle of the Bot Giants: Who Wins as the Ultimate Generative AI Chat Solution, ChatGPT or Bing?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-improve-your-pcs-gaming-performance-and-increase-fps/"><u>Effective Techniques to Improve Your PC's Gaming Performance and Increase FPS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-capturing-on-screen-activity-and-audio-on-your-acer-laptop/"><u>Guide: Capturing On-Screen Activity & Audio on Your Acer Laptop</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-gen-gaming-escapades-top-5-psvr-titles-for-the-future-for-2024/"><u>Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalize-your-digital-publications-with-creative-titles-via-flippingmoneys-book-creator/"><u>Personalize Your Digital Publications with Creative Titles via flippingMONEY's Book Creator</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pre-publish-configuration-of-metadata-for-flip-pages-with-flipbuildercom/"><u>Pre-Publish Configuration of Metadata for Flip Pages with FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-8-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 8</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-the-art-of-audio-with-zoom-your-complete-guidebook-for-2024/"><u>[New] Mastering the Art of Audio with Zoom Your Complete Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-creating-impressive-3d-beginnings-on-youtube-for-2024/"><u>[Updated] Creating Impressive 3D Beginnings on YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-podcast-mastery-top-10-ai-driven-name-creation-tools/"><u>[Updated] In 2024, Podcast Mastery Top 10 AI-Driven Name Creation Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pixeljudge-quality-analyzer/"><u>2024 Approved PixelJudge Quality Analyzer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tactics-to-make-fb-videos-attractive-and-effective/"><u>2024 Approved Tactics to Make FB Videos Attractive and Effective</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-folder-discovery-using-advanced-search-tool/"><u>Effortless Folder Discovery Using Advanced Search Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-sharing-your-youtube-content-with-ease-perfecting-your-instagram-stories-and-igtv/"><u>Guide: Sharing Your YouTube Content with Ease - Perfecting Your Instagram Stories and IGTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mobile-identification-showdown-iphone-x-and-galaxy/"><u>In 2024, Mobile Identification Showdown IPhone X and Galaxy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-a1-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo A1 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/preserve-your-favorite-movies-how-to-download-video-clips-from-tango/"><u>Preserve Your Favorite Movies: How To Download Video Clips From Tango</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
 </ul></div>
 

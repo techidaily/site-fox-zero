@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup"
-date: 2024-09-25T09:23:38.908Z
-updated: 2024-09-29T21:57:19.664Z
+date: 2024-09-28T16:10:28.968Z
+updated: 2024-10-05T19:25:27.755Z
 tags:
   - user-guide
 categories:
@@ -93,10 +93,10 @@ Table of Contents
 ![Edit Cab Size](https://cdn.advancedinstaller.com/img/dialog/edit-cab-size.png "Edit Cab Size")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decide automatically
@@ -104,10 +104,10 @@ Table of Contents
 The CAB file's size is automatically computed, depending on the size you have specified for the media volumes. The CAB file will have the volume size if the volume size is smaller than 2 GB. Otherwise, the CAB size is computed this way: the volume size (in bytes) is divided by 650 MB (in bytes). This will give the number of CABs per volume. The remaining space is then equally distributed among the CABs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom CAB size
@@ -119,10 +119,16 @@ You have the possibility to specify your CAB size. There are however some restri
 * The CAB size cannot exceed the media volume size.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixed number of CABs per volume
@@ -162,18 +168,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[New] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-monetization-mastery-elevating-your-youtube-earning-strategy/"><u>[Updated] 2024 Approved Monetization Mastery Elevating Your YouTube Earning Strategy</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[Updated] 2024 Approved The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-action-adventure-hits-the-best-of-the-best-top-10/"><u>2024 Approved Action-Adventure Hits The Best of the Best (Top 10)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-your-ultimate-path-to-google-podcast-submission/"><u>2024 Approved Your Ultimate Path to Google Podcast Submission</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-tutorial-on-how-to-obtain-and-save-dilbar-songs-as-mp3-or-wav-files/"><u>Complete Tutorial on How to Obtain and Save Dilbar Songs as MP3 or WAV Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-clipsyndicate-videos-to-popular-formats-like-mp4-and-avi-effortless-downloading/"><u>Convert Your ClipSyndicate Videos to Popular Formats Like MP4 & AVI - Effortless Downloading</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-replacement-for-beemp3-compatible-with-both-mac-and-pc-crafted-by-allavsoft/"><u>Discover the Ultimate Replacement for BeeMp3 Compatible with Both Mac and PC, Crafted by Allavsoft</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-substitutes-for-streamtransport-ideal-choices-for-mac-and-windows-operating-systems/"><u>Discover the Ultimate Substitutes for StreamTransport: Ideal Choices for MAC & WINDOWS Operating Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-and-watch-youtube-content-offline-on-your-ps3-console/"><u>Download and Watch YouTube Content Offline on Your PS3 Console</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-any-videos-with-ease-discover-allavsoft-the-leading-video-grabber-for-macwindows-users/"><u>Download Any Videos with Ease: Discover Allavsoft, the Leading Video Grabber for Mac/Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-cutting-edge-technology-on-toms-hardware-platform/"><u>Unveiling Cutting-Edge Technology on Tom's Hardware Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[New] In 2024, Instagram Video Magic Techniques to Elevate Your Social Media Impact</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-premier-apple-products-mimicking-old-ps2-games-for-2024/"><u>[Updated] Premier Apple Products Mimicking Old PS2 Games for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-volume-attributes-in-geometry-and-calculus-an-essential-overview/"><u>Exploring Volume Attributes in Geometry and Calculus: An Essential Overview</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>From Chat Room to Global Stage Broadcast Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-by-drfone-android/"><u>How to Bypass FRP on Samsung?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/instamp4ify-swift-and-easy-rmvb-to-mp4-video-conversion/"><u>InstaMP4ify: Swift and Easy RMVB-to-MP4 Video Conversion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-3d-text-in-adobe-photoshop-for-2024/"><u>Mastering 3D Text in Adobe Photoshop for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-the-language-settings-panel-a-guide-to-tailoring-user-experience-locally/"><u>Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-uploading-your-iphone-images-to-a-windows-7-computer/"><u>Step-by-Step Guide: Uploading Your iPhone Images to a Windows 7 Computer</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/temporary-file-storage-solutions-an-it-guide/"><u>Temporary File Storage Solutions: An IT Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-100-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-ultimate-guide-to-mastering-machine-bios-settings/"><u>The Ultimate Guide to Mastering Machine BIOS Settings</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-video-editor-apps-for-enhancing-your-youtube-content/"><u>Top Video Editor Apps for Enhancing Your YouTube Content</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Managing Project Dependencies: Interactive Configuration Guide"
-date: 2024-09-24T04:58:11.385Z
-updated: 2024-09-29T22:44:18.495Z
+date: 2024-09-28T16:34:21.553Z
+updated: 2024-10-05T18:23:59.487Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Additionally you can display the system modules dependencies by selecting the â€
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dependencies which cannot be accessed (for example assemblies in the GAC) can only be displayed (a checkbox is not showed next to them). If you want to add them to your project you can add the package which installs them as a prerequisite or you can add them from another location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Automatic dependency management
@@ -143,16 +143,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-blending-audio-from-youtube-into-video-mediums/"><u>[New] Blending Audio From YouTube Into Video Mediums</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dual-display-documentation-technique/"><u>[Updated] 2024 Approved Dual Display Documentation Technique</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-under-a-hundred-bucks-heres-your-top-5-drones/"><u>2024 Approved Under a Hundred Bucks? Here's Your Top 5 Drones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-fb-chronicles-with-complimentary-extension-tools-for-2024/"><u>Elevate Your FB Chronicles with Complimentary Extension Tools for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-over-40-stunning-nextjs-layouts-and-themes-by-creative-tim/"><u>Explore Over 40 Stunning Next.js Layouts and Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-the-power-of-argon-dashboard-pro-2-the-ultimate-laravel-admin-panel-by-creative-tim-and-updivision/"><u>Explore the Power of Argon Dashboard Pro 2 - The Ultimate Laravel Admin Panel by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-prolonged-screen-timeout-issues-on-your-iphone-easily/"><u>Fixing Prolonged Screen Timeout Issues on Your iPhone Easily</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-bootstrap-registration-and-login-dialog-box-innovative-templates-from-creative-tim/"><u>Free Bootstrap Registration & Login Dialog Box - Innovative Templates From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-nextjs-and-tailwind-css-template-for-stunning-marketing-landing-pages-by-creativetim/"><u>Free Next.js and Tailwind CSS Template for Stunning Marketing Landing Pages by CreativeTim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Magic Vs 2?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stop-black-screen-error-in-apple-films/"><u>Stop Black Screen Error in Apple Films</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-convincing-news-final-buzzes-for-2024/"><u>[New] Creating Convincing News Final Buzzes for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-setup-for-hosting-online-seminars-on-pcmac/"><u>[New] In 2024, Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites-for-2024/"><u>[Updated] The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-successful-interactions-with-gpt-3-5-essential-tips-for-writing-compelling-prompts/"><u>Crafting Successful Interactions with GPT-3: 5 Essential Tips for Writing Compelling Prompts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-guide-to-understanding-your-health-the-condition-section-explained/"><u>Easy Guide to Understanding Your Health: The Condition Section Explained</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-the-right-software-brother-mfc-j480dw-printer-drivers-enhanced-for-windows-users/"><u>Find the Right Software: Brother MFC-J480DW Printer Drivers Enhanced for Windows Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-avatar-asymmetry-artistry-sketching-distorted-images/"><u>In 2024, Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-administrative-communication-insights-and-techniques/"><u>Mastering the Art of Administrative Communication: Insights and Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
+<li><a href="https://discover-community.techidaily.com/unlocking-digital-restrictions-for-dvd-playback-on-pc-and-mac-with-winxdvd/"><u>Unlocking Digital Restrictions for DVD Playback on PC and Mac with WinXDVD</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/user-friendly-file-selection-interface/"><u>User-Friendly File Selection Interface</u></a></li>
 </ul></div>
 

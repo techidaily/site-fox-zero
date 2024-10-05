@@ -1,7 +1,7 @@
 ---
 title: Understanding the Essential Attributes in Unit Construction and Arrangement
-date: 2024-09-24T19:57:40.875Z
-updated: 2024-09-29T18:50:15.653Z
+date: 2024-10-02T20:31:16.821Z
+updated: 2024-10-05T18:52:15.558Z
 tags:
   - user-guide
 categories:
@@ -79,15 +79,28 @@ Table of Contents
 
 ![Assemblies properties](https://cdn.advancedinstaller.com/img/ui/assemblies-properties.png "Assemblies properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Files
 
 These are the files composing the assembly. All those files must be present in the same installation folder. So, you cannot add files in directory different than the one containing the first file. If the assembly manifest is an external file, use the \[Set Manifest \] button to indicate it. The files belonging to an assembly will all share the same component. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Destination
@@ -96,44 +109,37 @@ You can install the assembly either as private install connected to one of the a
 
 If you need to install the same assembly in both locations (in a folder on the disk and in the GAC), you can add the assembly file twice in the "Files and Folders" page (in two different folders). One file will be set for private installation and the other will be set for installation into the GAC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Type
 
 Both .NET and Win32 assemblies are supported. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Generate Native Image
 
  .NET assemblies can be precompiled at install time to generate their native image. Native images can significantly improve memory use when code is shared between processes. Also, precompiling assemblies can improve the startup time for some applications. Use the\[Configure \] link to customize the precompile options in the [.NET Native Image Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attributes
 
 You can create a new attribute using the\[New... \] button or you can add a well-known attribute using the \[Add... \] button. Edit attributes using the[Edit Assembly Attribute Dialog](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -175,21 +181,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-apex-fb-platforms-topping-the-10-list/"><u>[New] In 2024, Apex FB Platforms Topping the 10 List</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-swift-introduction-the-art-of-green-screening/"><u>[New] Swift Introduction The Art of Green Screening</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-knowledge-for-recording-movies-anywhere/"><u>[Updated] 2024 Approved Essential Knowledge for Recording Movies Anywhere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srt-subtitle-switch-up-success-strategies-highlighted/"><u>[Updated] SRT Subtitle Switch-Up Success Strategies Highlighted</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-injecting-external-urls-into-instagram-content/"><u>2024 Approved Injecting External URLs Into Instagram Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-gaming-recordings-software-for-2024/"><u>Focused Gaming Recordings Software for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/master-the-art-of-downloading-online-videos-from-various-websites-with-our-simple-tutorial/"><u>Master the Art of Downloading Online Videos From Various Websites with Our Simple Tutorial!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/simplified-pathway-using-instagram-live-effectively/"><u>Simplified Pathway Using Instagram Live Effectively</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-openal32dll-file-absent-issue-a-comprehensive-guide/"><u>Solving the openAL32.dll File Absent Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-recording-individual-audio-tracks-with-a-single-mic/"><u>Step-by-Step Guide: Recording Individual Audio Tracks with a Single Mic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-laptop-with-these-8-stylish-skins/"><u>Transform Your Laptop with These 8 Stylish Skins</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-setting-up-and-maintaining-an-effective-blocklist-in-zapier-automation/"><u>Ultimate Guide: Setting Up & Maintaining an Effective Blocklist in Zapier Automation</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-mirillis-usage-guidelines-a-comprehensive-guide/"><u>Understanding Mirillis' Usage Guidelines: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlocking-access-how-to-save-your-zoom-meeting-videos-from-a-shared-url/"><u>Unlocking Access: How to Save Your Zoom Meeting Videos From a Shared URL</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/video-and-audio-archiver-effortless-conversion-of-archives-into-mp4wmv-videos-and-mp3-audio-files/"><u>Video & Audio Archiver: Effortless Conversion of Archives Into MP4/WMV Videos and MP3 Audio Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/youtube-to-mp3-converter-fast-and-reliable-mp3-downloader-compatible-with-mac-and-windows/"><u>YouTube-to-MP3 Converter: Fast & Reliable MP3 Downloader Compatible with Mac and Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-speaking-with-impact-in-google-meet-the-guidebook-for-2024/"><u>[New] Speaking with Impact in Google Meet The Guidebook for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>[Updated] Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-ways-to-edit-text-within-a-pdf-document-using-adobe-acrobat/"><u>Easy Ways to Edit Text Within a PDF Document Using Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-sql-query-substitution-interfaces-enhancing-data-management/"><u>Effective SQL Query Substitution Interfaces: Enhancing Data Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-move-your-iphone-pictures-to-windows-11-pc-no-itunes-required/"><u>Effortlessly Move Your iPhone Pictures to Windows 11 PC - No iTunes Required!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-the-versatile-world-of-icomponents-in-software-design/"><u>Explore the Versatile World of IComponents in Software Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-chatbot-restrictions-and-personal-repercussions/"><u>Exploring AI Chatbot Restrictions & Personal Repercussions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-c50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco C50? Try These Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-change-your-facebook-profile-picture/"><u>How to Change Your Facebook Profile Picture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/la-forma-optima-de-convertir-archivos-avchd-m2ts-en-mp4-sin-perdida-de-calidad-top-5-tecnicas/"><u>La Forma Optima De Convertir Archivos AVCHD M2TS en MP4 Sin Pérdida De Calidad - Top 5 Técnicas</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pc-awakening-guide-navigating-windows-8-revival-strategies/"><u>PC Awakening Guide: Navigating Windows' 8 Revival Strategies</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-your-email-a-five-step-guide-to-thwart-gmail-hackers-and-enhance-privacy-with-malwarefox-insights/"><u>Protecting Your Email: A Five-Step Guide to Thwart Gmail Hackers and Enhance Privacy with MalwareFox Insights</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-and-reliable-methods-for-iphone-picture-transfers-to-your-windows-10-system-no-need-for-itunes/"><u>Quick and Reliable Methods for iPhone Picture Transfers to Your Windows 10 System - No Need for iTunes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-updating-and-downloading-canons-mg3email-protected22-printer-drivers/"><u>Step-by-Step: Updating & Downloading Canon's MG3([email Protected])22 Printer Drivers</u></a></li>
 </ul></div>
 

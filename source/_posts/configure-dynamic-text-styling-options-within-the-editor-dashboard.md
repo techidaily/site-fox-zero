@@ -1,7 +1,7 @@
 ---
 title: Configure Dynamic Text Styling Options Within the Editor Dashboard
-date: 2024-09-23T22:05:08.828Z
-updated: 2024-09-29T23:03:45.583Z
+date: 2024-10-02T16:02:14.082Z
+updated: 2024-10-05T19:06:31.765Z
 tags:
   - user-guide
 categories:
@@ -79,34 +79,34 @@ This dialog allows you to configure fallback conditional text styles.
 ![Edit Conditional Text Styles Dialog](https://cdn.advancedinstaller.com/img/dialog/conditional-text-style.png "Edit Conditional Text Styles Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding a new fallback conditional text style
 
 Use the \[New... \] button, the “New...” context menu item or press theIns key. The [Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to set the condition, followed by the text style combo box.
 
-## Editing a fallback conditional text style
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Editing a fallback conditional text style
 
 ### Edit Condition
 
 Use the \[Edit \] \> “Edit Condition...” button, the “Edit” > “Edit Condition...” context menu item or double-click the “Condition” column of an item in the list. The[Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the condition.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit Text Style
@@ -114,10 +114,10 @@ Use the \[Edit \] \> “Edit Condition...” button, the “Edit” > “Edit Co
 Use the \[Edit \] \> “Edit Text Style...” button, the “Edit” > “Edit Text Style...” context menu item or double click the “Text Style” column of an item in the list. The combo box will dropdown the available text styles to choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Removing a fallback conditional text style
@@ -157,22 +157,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-more-subscribers-on-youtube/"><u>[New] 2024 Approved How to Get More Subscribers on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-exploring-and-locating-videos-on-facebook-platform/"><u>[Updated] In 2024, Exploring and Locating Videos on Facebook Platform</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-mini-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 mini Waze | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chill-championships-highlighting-cold-climates-sports/"><u>Chill Championships Highlighting Cold Climates Sports</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-word-documents-to-swf-flash-animations-at-no-cost/"><u>Convert Your Word Documents to SWF Flash Animations at No Cost</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-flipbooks-from-pdfs-a-guide-on-incorporating-watermarks-using-flipbuilder/"><u>Creating Interactive Flipbooks From PDFs: A Guide on Incorporating Watermarks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-sturdy-hardcover-flipbooks-mastering-the-technique-on-flipbuildercom/"><u>Creating Sturdy Hardcover Flipbooks: Mastering the Technique on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-your-own-classic-pop-up-book-step-by-step-guide-with-flipbuilder/"><u>Creating Your Own Classic Pop-Up Book: Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/design-and-develop-a-touch-sensitive-mobile-ebook-featuring-realistic-page-turning-flipbuildercom/"><u>Design & Develop a Touch-Sensitive Mobile eBook Featuring Realistic Page Turning [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enabling-pdf-export-from-your-site-with-ease-using-flipbuilder/"><u>Enabling PDF Export From Your Site with Ease Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-book-layouts-instantly-using-alpha-templates-achieve-seamless-page-turn-effects-with-flipbuilder/"><u>Enhance Your Book Layouts Instantly Using Alpha Templates – Achieve Seamless Page Turn Effects with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhancing-readability-in-flipbooks-by-adding-help-files-the-ultimate-guide-using-flipbuilder-tools/"><u>Enhancing Readability in Flipbooks by Adding Help Files: The Ultimate Guide Using FlipBuilder Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-getting-your-broken-bose-speaker-back-in-action/"><u>Expert Tips on Getting Your Broken Bose Speaker Back in Action</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immediate-improvement-photo-colors-in-photoshop/"><u>In 2024, Immediate Improvement Photo Colors in Photoshop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovate-and-personalize-with-gpt-transforming-chatgpt-into-a-custom-solution/"><u>Innovate and Personalize with GPT: Transforming ChatGPT Into a Custom Solution</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-tier-auditory-theatre-plays/"><u>[Updated] 2024 Approved Top-Tier Auditory Theatre Plays</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/budget-friendly-tablet-showdown-of-202e-in-depth-analysis-and-verdicts-from-industry-pros/"><u>Budget-Friendly Tablet Showdown of 202E: In-Depth Analysis and Verdicts From Industry Pros</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-pioneer-dj-ddjsx2-driver-easily-and-quickly/"><u>Download Pioneer DJ DDJ‑SX2 Driver | Easily & Quickly</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-non-functional-dts-truehd-and-e628-drivers-on-windows-after-failed-upgrade-now-solved/"><u>Fix Non-Functional DTS TrueHD and E628 Drivers on Windows After Failed Upgrade - Now Solved!✅</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nubia Red Magic 9 Pro Phone Without Password?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snapchat-tricks-unveiled-transforming-forward-videos-into-reversed-magic/"><u>Snapchat Tricks Unveiled: Transforming Forward Videos Into Reversed Magic!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streaming-beyond-streamlabs-a-comparative-study/"><u>Streaming Beyond StreamLabs A Comparative Study</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Mac OS X Configuration Options in the Settings Dashboard
-date: 2024-09-25T20:37:42.289Z
-updated: 2024-09-29T22:54:22.498Z
+date: 2024-10-01T18:50:47.515Z
+updated: 2024-10-05T16:23:12.466Z
 tags:
   - user-guide
 categories:
@@ -93,6 +93,13 @@ In this page you can specify the settings for the [Mac OS X package.](https://to
 
  This option allows you to choose whether the product will be added or not to the Mac OS build. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Files and Folders
 
 This section allows you to add resources to the Mac OS X package.
@@ -114,23 +121,9 @@ Use the \[Add Folder... \] button or “Add Folder...” context menu option.
 
 Use the \[Add Files... \] button or “Add Files...” context menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing files or folders
 
 Use the \[Remove \] button, the “Remove” list context menu item or press the Delete key while an element from the tree is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Copying files and folders between sections
 
@@ -145,26 +138,13 @@ Drag and drop resources between sections or use the “Move to Product Section/M
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When copying or moving resources between components they will be added with their full path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Settings
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### VM Provider
 
@@ -182,10 +162,10 @@ Additional features available for Oracle VM:
 This the version that presented to the user into the application about panel, but is not interpreted by the system. If no value is specified in this field then the java product name and the package version will be used instead. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Required OS X Version
@@ -194,45 +174,59 @@ This is the minimum required OS version for your application.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you specify a version higher than the one the bundle is deployed on, the application **will not** work.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Icon File
 
 This field identifies the file containing the icon for the bundle. The icon file will be looked up in the Resources directory of the bundle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Signature
 
 The value for this field is a string containing a four-letter code which is specific to the bundle. For example, the signature for the TextEdit application is txt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bundle Identifier
 
 This is a unique identifier string for the bundle. This identifier should be in the form of a Java-style package name, for example com.mycompany.myapp. The bundle identifier can be used to locate the bundle at run-time. The preferences system also uses this string to uniquely identify applications. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
 
 Change the application's description which is displayed in the Info window. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### No Dock icon and no Menu Bar interaction
 
 This option specifies that the application will run as an agent. Agent applications are not displayed in the Dock, in the Force Quit window or in the Menu Bar. Usually they are background applications but they can come to the foreground to present a user interface if desired.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start On Main Thread
@@ -283,17 +277,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-15-simple-steps-to-convert-youtube-to-mpeg-effortlessly/"><u>[New] 15 Simple Steps to Convert YouTube to MPEG Effortlessly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-professional-capturer-snappy-windows-snap-for-2024/"><u>[Updated] Professional Capturer Snappy Windows Snap for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-pce-ac68-usb-30-driver-free-downloads-available/"><u>ASUS PCE-AC68 USB 3.0 Driver - FREE Downloads Available</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expertise-in-film-perfecting-the-art-of-chroma-key/"><u>Expertise in Film Perfecting the Art of Chroma Key</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-13c-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi 13C to New Android? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-must-know-about-youtube-shorts-explained/"><u>In 2024, The Must-Know About YouTube Shorts Explained</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/instantly-turn-your-presentations-into-interactive-flipbooks-exclusive-ppt-templates-at-flipbuilder-flipbuildercom/"><u>Instantly Turn Your Presentations Into Interactive Flipbooks: Exclusive PPT Templates at FlipBuilder - [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/integrating-audio-elements-across-various-pages-of-your-ebook-a-guide-with-flipbuilder/"><u>Integrating Audio Elements Across Various Pages of Your eBook: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/integrating-flipbuilder-with-cli-is-it-compatible/"><u>Integrating FlipBuilder with CLI - Is It Compatible?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/iphone-guide-to-designing-responsive-user-friendly-digital-books-with-flip-pdf-app-flipbuildercom/"><u>IPhone Guide to Designing Responsive, User-Friendly Digital Books with Flip PDF App [FlipBuilder.com]</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-long-distance-wifi-routers-buyers-guide/"><u>Top Long-Distance WiFi Routers : Buyer's Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-melodic-matchmaking-music-that-resonates-with-scenes/"><u>[New] In 2024, Melodic Matchmaking Music That Resonates with Scenes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-identifying-and-accessing-your-music-picks-on-youtube/"><u>[Updated] In 2024, Identifying and Accessing Your Music Picks on Youtube</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-speedy-methods-for-shrinking-your-pdf-documents/"><u>1. Speedy Methods for Shrinking Your PDF Documents</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-tips-for-blending-modes-in-vfx/"><u>Advanced Tips for Blending Modes in VFX</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-tutorial-on-xml-file-editing-and-settings-adjustment-tools/"><u>Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/custom-file-management-via-property-actions/"><u>Custom File Management via Property Actions</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-1603-explained-fixing-deadly-installation-issues-for-good/"><u>Error Message 1603 Explained: Fixing Deadly Installation Issues for Good</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-cyberpower-cp6review-the-reliable-foundational-backup-power-system/"><u>Evaluating Cyberpower CP6#Review - The Reliable Foundational Backup Power System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-four-key-methods-of-ai-regulation-by-authorities/"><u>Exploring Four Key Methods of AI Regulation by Authorities</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-10-youtube-video-ideas-for-sharing-your-personal-story/"><u>In 2024, 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovations-for-elevating-your-gopro-filmmaking-skills-for-2024/"><u>Innovations for Elevating Your GoPro Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/leading-free-internet-tools-for-turning-videos-into-songs-and-podcasts/"><u>Leading Free Internet Tools for Turning Videos Into Songs and Podcasts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/maximizing-your-experience-a-guide-to-understanding-the-sign-up-section/"><u>Maximizing Your Experience: A Guide to Understanding the Sign-Up Section</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rapid-driver-downloads-for-the-dell-latitude-e6420-laptop-model/"><u>Rapid Driver Downloads for the Dell Latitude E6420 Laptop Model</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/setting-up-your-preferences-a-detailed-guide-to-the-configuration-panel/"><u>Setting Up Your Preferences: A Detailed Guide to the Configuration Panel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-strategies-for-seamlessly-mirroring-your-android-device-onto-an-ipad/"><u>Simple Strategies for Seamlessly Mirroring Your Android Device Onto an iPad</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-converting-spotify-streams-to-high-quality-mp3-with-the-best-free-tools-available/"><u>Step-by-Step Tutorial on Converting Spotify Streams to High-Quality MP3 with the Best Free Tools Available</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/syncing-your-android-device-with-panasonic-tv-a-step-by-step-guide/"><u>Syncing Your Android Device with Panasonic TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme V30T? | Dr.fone</u></a></li>
 </ul></div>
 

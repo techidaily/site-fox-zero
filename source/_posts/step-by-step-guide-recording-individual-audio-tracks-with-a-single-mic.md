@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Individual Audio Tracks with a Single Mic"
-date: 2024-09-28T16:21:19.012Z
-updated: 2024-09-29T17:18:43.672Z
+date: 2024-10-03T18:48:07.349Z
+updated: 2024-10-05T17:11:19.112Z
 tags:
   - product
 categories:
@@ -46,9 +46,23 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Introduction 
 
  With Action! you can easily record your microphone into separate audio file while recording game or your PC screen. This can be very useful if you would like to edit your commentary in 3rd party audio editing software.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tutorial for Action! 3.x versions: 
 
@@ -61,17 +75,16 @@ Action Tutorials
 ![Mirillis Action! - Mic Settings popup](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings_popup.jpg "Mic settings popup") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tutorial for Action! 2.x versions: 
@@ -82,18 +95,18 @@ Action Tutorials
 
 ![Mirillis Action! - Hotkeys Settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_hotkeys.jpg "Hotkeys settings") 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open Action! Audio Recording tab 
 
  Open Action! Audio Recording tab and select your microphone from **Audio device** dropdown.
 
 ![Select your microphone device](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_audio_settings.jpg "Selecting microphone device for recording") 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you would like to record any other device to separate audio file, please select appropriate device fromt the list. 
 
@@ -104,10 +117,10 @@ Action Tutorials
 ![Mirillis Action! - Microphone recording disabled](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_video_tab.jpg "Microphone recording disabled") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Video recording 
@@ -121,13 +134,6 @@ Action Tutorials
  Please note that by using red start/stop recording button you can stop Audio or Video recording separately. 
 
 ![Mirillis Action! - Start/Stop recording button](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_button.jpg "Start/stop recroding button") 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
   
 Share this tutorial
@@ -147,20 +153,20 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[Updated] In 2024, Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-video-retriever-quick-guide-to-fetching-breakcom-content-on-pc-and-mac/"><u>1. Easy Video Retriever: Quick Guide to Fetching Break.com Content on PC & Mac</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-free-nbc-news-videos-in-hd-download-your-favorite-shows-as-mp4wmvavi-files/"><u>1. Free NBC News Videos in HD: Download Your Favorite Shows as MP4/WMV/AVI Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-tutorial-on-how-to-obtain-and-save-dilbar-songs-as-mp3-or-wav-files/"><u>Complete Tutorial on How to Obtain and Save Dilbar Songs as MP3 or WAV Files</u></a></li>
-<li><a href="https://win-webster.techidaily.com/convert-and-download-detective-movie-previews-in-various-formats-mp4-mov-avi-flv-wmv-mkv/"><u>Convert and Download Detective Movie Previews in Various Formats (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/convert-your-clipsyndicate-videos-to-popular-formats-like-mp4-and-avi-effortless-downloading/"><u>Convert Your ClipSyndicate Videos to Popular Formats Like MP4 & AVI - Effortless Downloading</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-replacement-for-beemp3-compatible-with-both-mac-and-pc-crafted-by-allavsoft/"><u>Discover the Ultimate Replacement for BeeMp3 Compatible with Both Mac and PC, Crafted by Allavsoft</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-substitutes-for-streamtransport-ideal-choices-for-mac-and-windows-operating-systems/"><u>Discover the Ultimate Substitutes for StreamTransport: Ideal Choices for MAC & WINDOWS Operating Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-and-watch-youtube-content-offline-on-your-ps3-console/"><u>Download and Watch YouTube Content Offline on Your PS3 Console</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>In 2024, Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/in-depth-guide-to-restore-your-keyboard-functionality-on-pathfinder-wrath-of-the-righteous-game/"><u>In-Depth Guide to Restore Your Keyboard Functionality on Pathfinder: Wrath of the Righteous Game</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-recovery-system-undo-file-deletion-on-mac/"><u>Secure Recovery System: Undo File Deletion on Mac</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-workstation-with-ergotopics-superior-anti-fatigue-mat-the-essential-addition-to-any-standing-desk-setup/"><u>Transform Your Workstation With Ergotopic's Superior Anti-Fatigue Mat, The Essential Addition to Any Standing Desk Setup</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y27-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-covert-composition-of-private-recordings/"><u>[New] Covert Composition of Private Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[Updated] In 2024, High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-ten-lady-gamers-on-youtube-rising/"><u>[Updated] Top Ten Lady Gamers on YouTube Rising</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-speedy-methods-for-shrinking-your-pdf-documents/"><u>1. Speedy Methods for Shrinking Your PDF Documents</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic 5 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-tutorial-on-xml-file-editing-and-settings-adjustment-tools/"><u>Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exe-details-configuration-panel/"><u>EXE Details Configuration Panel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-8t-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 8T 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-iosandroid-apps-for-creative-photo-captions/"><u>In 2024, Top iOS/Android Apps for Creative Photo Captions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-approaches-to-elevate-handp-facebook-campaigns-for-2024/"><u>Key Approaches to Elevate H&P Facebook Campaigns for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/maximizing-your-experience-a-guide-to-understanding-the-sign-up-section/"><u>Maximizing Your Experience: A Guide to Understanding the Sign-Up Section</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-in-bespoke-gpt-scenarios/"><u>Protecting Privacy in Bespoke GPT Scenarios</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-strategies-for-seamlessly-mirroring-your-android-device-onto-an-ipad/"><u>Simple Strategies for Seamlessly Mirroring Your Android Device Onto an iPad</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/syncing-your-android-device-with-panasonic-tv-a-step-by-step-guide/"><u>Syncing Your Android Device with Panasonic TV: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

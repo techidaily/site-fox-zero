@@ -1,7 +1,7 @@
 ---
 title: "Library Editor Interface: A Comprehensive Guide"
-date: 2024-09-23T23:56:19.301Z
-updated: 2024-09-29T18:27:57.043Z
+date: 2024-10-02T17:14:42.131Z
+updated: 2024-10-05T16:19:01.144Z
 tags:
   - user-guide
 categories:
@@ -90,44 +90,31 @@ Table of Contents
 
 ![Edit Library Dialog](https://cdn.advancedinstaller.com/img/dialog/new-library.png "Edit Library Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 The library's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
-## Directories
-
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Directories
 
 ### Folder Path
 
 This is a list of directory paths that compose the library. The order in this list is the same as the one in which the elements will appear in Windows Explorer. You can Add, Remove and change the folders' order by using the \[Add \], \[Remove \],\[Move Up \] and \[Move Down \] buttons.
 
-## Icon
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Icon
 
 ### File
 
@@ -139,20 +126,27 @@ In this field, a preview of the selected icon will appear. If the file contains 
 
 ## Options
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optimize for:
 
 Provides a hint about the content of the folders from the library so that Windows Explorer can decide what default view should display for this library.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pin to Navigation Pane
 
 This option applies only for the Windows Libraries folder. If this option is enabled then this library will be added to the Windows Libraries navigation tree that can be displayed using Windows Explorer 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Component
 
@@ -191,19 +185,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unleash-creativity-using-mematic-app/"><u>2024 Approved Unleash Creativity Using Mematic App</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/creating-interactive-web-pages-like-a-pro-mastering-the-cli-for-flipbooks-at-flipbuildercom/"><u>Creating Interactive Web Pages Like a Pro: Mastering the CLI for Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/decoding-the-variations-understanding-ipad-against-ipad-air/"><u>Decoding the Variations: Understanding iPad Against iPad Air</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c210-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C210</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-make-a-diy-flipbook-from-paper-photographs-using-flipbuilder/"><u>How to Make a DIY Flipbook From Paper Photographs Using FlipBuilder</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oneplus-nord-3-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-8-premier-resources-download-free-high-quality-green-screen-footage/"><u>In 2024, 8 Premier Resources Download Free, High-Quality Green Screen Footage</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/rtvlxl-video-grabber-seamless-vids-from-rtlxlnl-on-pc-and-mac/"><u>RTVLXL Video Grabber: Seamless Vids From rtlxl.nl on PC & MAC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-email-categorization-using-labels-in-gmail/"><u>Step-by-Step Guide to Email Categorization Using Labels in Gmail</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-on-how-to-pick-apples-finest-arcade-titles/"><u>Step-by-Step on How to Pick Apple's Finest Arcade Titles</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/streamlined-ways-to-download-and-transform-yapfiles-videos-into-various-file-types-mp4-movies-or-flv/"><u>Streamlined Ways to Download and Transform Yapfiles Videos Into Various File Types: MP4, Movies, or FLV</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-e-book-creation-will-your-innovations-lead-us-to-a-new-era-in-online-reading-through-flipbuildercom/"><u>Transforming E-Book Creation – Will Your Innovations Lead Us to a New Era in Online Reading Through FlipBuilder.com?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-broadcasting-success-fb-live-on-television/"><u>[New] Broadcasting Success FB Live on Television</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[Updated] 2024 Approved Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-free-manycam-alternatives-top-live-streaming-and-virtual-camera-apps/"><u>Best Free ManyCam Alternatives: Top Live Streaming and Virtual Camera Apps</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customizing-the-thinapp-configuration-interface-tips-and-tricks/"><u>Customizing the ThinApp Configuration Interface: Tips & Tricks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/find-the-perfect-mediacoder-replacement-with-these-highly-rated-file-transformers/"><u>Find the Perfect MediaCoder Replacement with These Highly Rated File Transformers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-gallery-storage-solutions/"><u>In 2024, Foremost Gallery Storage Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/management-strategies-for-fetal-alcohol-syndrome/"><u>Management Strategies for Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-compatibility-official-guide-for-downloading-googles-usb-driver-software/"><u>Mastering Compatibility: Official Guide for Downloading Google's USB Driver Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-essentials-tips-from-toms-equipment-experts/"><u>Mastering Hardware Essentials - Tips From Tom’s Equipment Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-audio-errors-from-youtubes-renderer-on-windows-11-systems/"><u>Step-by-Step Guide: Overcoming Audio Errors From Youtube's Renderer on Windows 11 Systems</u></a></li>
 </ul></div>
 
