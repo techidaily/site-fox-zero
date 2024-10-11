@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide to Understanding Your Health: The Condition Section Explained"
-date: 2024-09-29T17:45:34.524Z
-updated: 2024-10-05T17:02:32.276Z
+date: 2024-10-09T16:23:55.340Z
+updated: 2024-10-10T21:44:07.212Z
 tags:
   - user-guide
 categories:
@@ -81,19 +81,19 @@ Table of Contents
 ![Task Execution Condition](https://cdn.advancedinstaller.com/img/dialog/st-condition-dialog.png "Task Execution Condition")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Power
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start the task only if the computer is on AC power
@@ -101,10 +101,10 @@ Table of Contents
 The scheduled task will be executed only if the computer is connected to an AC powerline.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop if computer switches to battery power
@@ -112,10 +112,10 @@ The scheduled task will be executed only if the computer is connected to an AC p
 The scheduled task execution will be halted if the AC powerline is disconnected from the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wake the computer to tun the task
@@ -155,17 +155,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-tech-roundup-nine-innovative-mic-recorders-for-web-23/"><u>[New] Advanced Tech Roundup Nine Innovative Mic Recorders for Web ('23)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-future-virtual-frontiers-in-depth-comparison-of-meta-and-omniverse-worlds/"><u>[Updated] Future Virtual Frontiers In-Depth Comparison of Meta & Omniverse Worlds</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-top-rated-photography-editors-for-showcasing-your-products/"><u>Best Top-Rated Photography Editors for Showcasing Your Products</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-instructions-connecting-with-friends-via-text-on-your-ipad-device/"><u>Easy Instructions: Connecting with Friends via Text on Your iPad Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-11-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme 11 5G Is Unlocked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-instructional-guide-to-navigating-and-utilizing-apowerrescue-features/"><u>Step-by-Step Instructional Guide to Navigating and Utilizing ApowerRescue Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-for-successfully-mounting-keyspans-19hs-driver-on-windows-os/"><u>Step-by-Step Tutorial for Successfully Mounting Keyspan's 19HS Driver on Windows OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-high-powered-jump-starter-for-your-vehicle-a-thorough-look-at-the-m-mooc-1000a-with-18000mah-charge/"><u>The Best High-Powered Jump Starter for Your Vehicle! A Thorough Look at the M MOOC 1000A with 18,000mAh Charge</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-mystery-dark-web-vs-deep-web-simplified-insights-from-malwarefox/"><u>Unveiling the Mystery: Dark Web vs Deep Web Simplified - Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-voice-alteration-techniques-for-enhanced-competitive-play-in-the-world-of-free-fire-gaming/"><u>[New] 2024 Approved Mastering Voice Alteration Techniques for Enhanced Competitive Play in the World of Free Fire Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pro-level-pc-webcam-recorders-tested-in-windows-11/"><u>[Updated] 2024 Approved Pro-Level PC Webcam Recorders Tested in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-no-cost-screen-players/"><u>[Updated] Best No-Cost Screen Players</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-volume-attributes-in-geometry-and-calculus-an-essential-overview/"><u>Exploring Volume Attributes in Geometry and Calculus: An Essential Overview</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-p55-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of P55 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-huawei-p60-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Huawei P60 Device</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-future-of-transportation-unpacking-the-tesla-robotaxi-deal-release-info-and-specs-included/"><u>Inside the Future of Transportation: Unpacking the Tesla Robotaxi Deal - Release Info and Specs Included</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-the-language-settings-panel-a-guide-to-tailoring-user-experience-locally/"><u>Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-uploading-your-iphone-images-to-a-windows-7-computer/"><u>Step-by-Step Guide: Uploading Your iPhone Images to a Windows 7 Computer</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/temporary-file-storage-solutions-an-it-guide/"><u>Temporary File Storage Solutions: An IT Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-ultimate-guide-to-mastering-machine-bios-settings/"><u>The Ultimate Guide to Mastering Machine BIOS Settings</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-video-editor-apps-for-enhancing-your-youtube-content/"><u>Top Video Editor Apps for Enhancing Your YouTube Content</u></a></li>
 </ul></div>
 

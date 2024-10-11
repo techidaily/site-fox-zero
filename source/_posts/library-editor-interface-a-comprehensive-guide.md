@@ -1,7 +1,7 @@
 ---
 title: "Library Editor Interface: A Comprehensive Guide"
-date: 2024-10-02T17:14:42.131Z
-updated: 2024-10-05T16:19:01.144Z
+date: 2024-10-09T04:29:04.052Z
+updated: 2024-10-10T16:36:05.885Z
 tags:
   - user-guide
 categories:
@@ -95,26 +95,33 @@ Table of Contents
 The library's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Directories
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Folder Path
 
 This is a list of directory paths that compose the library. The order in this list is the same as the one in which the elements will appear in Windows Explorer. You can Add, Remove and change the folders' order by using the \[Add \], \[Remove \],\[Move Up \] and \[Move Down \] buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Icon
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### File
 
@@ -124,14 +131,14 @@ You can choose the file which contains the icons by pressing the \[... \] button
 
 In this field, a preview of the selected icon will appear. If the file contains multiple icons you can choose the desired one from the list. If you want to revert to no icon press the \[Reset \] button.
 
-## Options
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Options
 
 ### Optimize for:
 
@@ -140,13 +147,6 @@ Provides a hint about the content of the folders from the library so that Window
 ### Pin to Navigation Pane
 
 This option applies only for the Windows Libraries folder. If this option is enabled then this library will be added to the Windows Libraries navigation tree that can be displayed using Windows Explorer 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Component
 
@@ -185,19 +185,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-broadcasting-success-fb-live-on-television/"><u>[New] Broadcasting Success FB Live on Television</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[Updated] 2024 Approved Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/best-free-manycam-alternatives-top-live-streaming-and-virtual-camera-apps/"><u>Best Free ManyCam Alternatives: Top Live Streaming and Virtual Camera Apps</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/customizing-the-thinapp-configuration-interface-tips-and-tricks/"><u>Customizing the ThinApp Configuration Interface: Tips & Tricks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/find-the-perfect-mediacoder-replacement-with-these-highly-rated-file-transformers/"><u>Find the Perfect MediaCoder Replacement with These Highly Rated File Transformers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-gallery-storage-solutions/"><u>In 2024, Foremost Gallery Storage Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/management-strategies-for-fetal-alcohol-syndrome/"><u>Management Strategies for Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-compatibility-official-guide-for-downloading-googles-usb-driver-software/"><u>Mastering Compatibility: Official Guide for Downloading Google's USB Driver Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-hardware-essentials-tips-from-toms-equipment-experts/"><u>Mastering Hardware Essentials - Tips From Tom’s Equipment Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-audio-errors-from-youtubes-renderer-on-windows-11-systems/"><u>Step-by-Step Guide: Overcoming Audio Errors From Youtube's Renderer on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-profiles-visual-appeal/"><u>[Updated] 2024 Approved Elevate Your Profile's Visual Appeal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncopated-screecher-symphony/"><u>[Updated] Syncopated Screecher Symphony</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guia-completa-para-eliminar-adware-y-anuncios-emergentes-en-windows-11-con-soluciones-de-malwarefox/"><u>Guía Completa Para Eliminar Adware Y Anuncios Emergentes en Windows 11 Con Soluciones De MalwareFox</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g13-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G13 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-configure-the-dns-client-service-in-windows-11/"><u>How to Configure the DNS Client Service in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immerse-yourself-in-3d-entertainment-the-complete-guide-to-streaming-with-fandango-from-home/"><u>Immerse Yourself in 3D Entertainment: The Complete Guide to Streaming with Fandango From Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-basics-of-windows-pe-format/"><u>Navigating the Basics of Windows PE Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-a-stuck-windows-11-taskbar/"><u>Solutions for a Stuck Windows 11 Taskbar</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-methods-for-seamless-photo-transfer-from-iphone-to-windows-11-without-using-itunes/"><u>Top Methods for Seamless Photo Transfer From iPhone to Windows 11 Without Using iTunes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-esd-and-its-transformation-into-iso-format-for-pcs/"><u>Understanding ESD and Its Transformation Into ISO Format for PCs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-mystery-dark-web-vs-deep-web-simplified-insights-from-malwarefox/"><u>Unveiling the Mystery: Dark Web vs Deep Web Simplified - Insights From MalwareFox</u></a></li>
 </ul></div>
 

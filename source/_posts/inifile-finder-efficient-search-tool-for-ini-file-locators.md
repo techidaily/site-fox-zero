@@ -1,7 +1,7 @@
 ---
 title: "IniFile Finder: Efficient Search Tool for Ini File Locators"
-date: 2024-10-04T18:14:31.656Z
-updated: 2024-10-05T18:00:46.643Z
+date: 2024-10-05T23:29:41.400Z
+updated: 2024-10-11T03:31:36.685Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,10 @@ Table of Contents
 ## ISearchIniLocator
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +136,10 @@ Table of Contents
 ISearchIniLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +147,10 @@ ISearchIniLocator : IDispatch
 This interface is meant to edit search "ini" locator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +170,10 @@ This interface is meant to edit search "ini" locator.
 **uint Depth** \- Gets or sets how deep within the folder's subdirectories to search.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,24 +215,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-lenssnap-feature-examination/"><u>[New] LensSnap Feature Examination</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smart-strategies-for-enriching-tiktok-biographies-with-linktree/"><u>[New] Smart Strategies for Enriching TikTok Biographies with Linktree</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-escape-challenges-top-ten-must-play-rooms-for-2024/"><u>[Updated] Best Escape Challenges Top Ten Must-Play Rooms for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>[Updated] The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-your-journey-into-the-world-of-funny-metaverse-images/"><u>[Updated] Your Journey Into the World of Funny Metaverse Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-building-histograms-with-microsoft-excel/"><u>Easy Tutorial on Building Histograms with Microsoft Excel</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-ways-to-edit-text-within-a-pdf-document-using-adobe-acrobat/"><u>Easy Ways to Edit Text Within a PDF Document Using Adobe Acrobat</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-sql-query-substitution-interfaces-enhancing-data-management/"><u>Effective SQL Query Substitution Interfaces: Enhancing Data Management</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortlessly-move-your-iphone-pictures-to-windows-11-pc-no-itunes-required/"><u>Effortlessly Move Your iPhone Pictures to Windows 11 PC - No iTunes Required!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-and-techniques-to-successfully-start-payday-2-on-a-desktop/"><u>Expert Tips and Techniques to Successfully Start Payday 2 on a Desktop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-the-versatile-world-of-icomponents-in-software-design/"><u>Explore the Versatile World of IComponents in Software Design</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/protecting-your-email-a-five-step-guide-to-thwart-gmail-hackers-and-enhance-privacy-with-malwarefox-insights/"><u>Protecting Your Email: A Five-Step Guide to Thwart Gmail Hackers and Enhance Privacy with MalwareFox Insights</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/quick-and-reliable-methods-for-iphone-picture-transfers-to-your-windows-10-system-no-need-for-itunes/"><u>Quick and Reliable Methods for iPhone Picture Transfers to Your Windows 10 System - No Need for iTunes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-ubisoft-connects-sluggish-downloads-expert-tips-and-tricks/"><u>Solving Ubisoft Connect's Sluggish Downloads: Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-6-social-media-platforms-for-business/"><u>Top 6 Social Media Platforms for Business</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-kensun-mini-air-compressor-for-tires-robust-build-and-convenient-transport/"><u>Top-Rated Kensun Mini Air Compressor for Tires: Robust Build & Convenient Transport</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-selection-of-free-video-editing-tools-compatible-with-both-pc-and-mac-systems/"><u>Ultimate Selection of FREE Video Editing Tools Compatible with Both PC and Mac Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-the-essential-attributes-in-unit-construction-and-arrangement/"><u>Understanding the Essential Attributes in Unit Construction and Arrangement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unveiling-the-best-top-picks-for-samsung-gear-vr/"><u>[New] 2024 Approved Unveiling the Best Top Picks for Samsung Gear VR</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-treasure-trove-of-9-complete-holiday-flicks-free-streaming/"><u>[New] In 2024, A Treasure Trove of 9 Complete Holiday Flicks, Free Streaming</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-picsart-edge-bringing-facial-movement-into-the-digital-realm-for-2024/"><u>[New] Picsart Edge Bringing Facial Movement Into the Digital Realm for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/isionary-dialogue-writer-for-2024/"><u>[New] Visionary Dialogue Writer for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-xvideos-security-risks-safe-browsing-tips-and-protection-strategies/"><u>Exploring XVideos Security Risks: Safe Browsing Tips & Protection Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-slime-rancher-2-from-crashing-on-your-pc-a-step-by-step-guide/"><u>Fixes for Preventing Slime Rancher 2 From Crashing on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-p55t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel P55T Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/integrating-sub-pages-techniques-insights-into-crafting-effective-merge-module-layouts/"><u>Integrating Sub-Pages Techniques: Insights Into Crafting Effective Merge Module Layouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-vscode-running-smoothly-w11-style/"><u>Keeping VSCode Running Smoothly W11-Style</u></a></li>
+<li><a href="https://article-files.techidaily.com/radio-dramaturgys-finest-works-for-2024/"><u>Radio Dramaturgy's Finest Works for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/speedy-techniques-to-move-pictures-from-macbook-to-ipad-seamlessly/"><u>Speedy Techniques to Move Pictures From Macbook to iPad Seamlessly</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-modifying-cabinet-access-block-cab-options-in-system-setup/"><u>Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-top-slideshow-creation-tools-available-on-android-devices/"><u>Ultimate Top Slideshow Creation Tools Available on Android Devices</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-programmatic-identifier-progid-usage-in-component-based-software-engineering/"><u>Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering</u></a></li>
 </ul></div>
 

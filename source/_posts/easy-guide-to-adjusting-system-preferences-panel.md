@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Adjusting System Preferences Panel
-date: 2024-10-04T19:23:47.092Z
-updated: 2024-10-05T20:53:23.040Z
+date: 2024-10-06T22:49:58.189Z
+updated: 2024-10-11T04:09:45.073Z
 tags:
   - user-guide
 categories:
@@ -93,15 +93,22 @@ Table of Contents
 ## Package Type
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Single MSI (resources inside)
 
 Creates a single MSI file with Cab included in it
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### MSI with resources next to it
 
@@ -124,13 +131,6 @@ Creates a single EXE file that will download MSI, and install MSI from a URL.
 
 ## Output
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Folder
 
 Your package's path. Click on the \[... \] button to change the folder where the installation package is created. By default, this shares the same folder with the project file. Removing the package name will delete the whole path.
@@ -145,20 +145,27 @@ Specify the MSI subfolder name. This subfolder is relative to the EXE file where
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The field is enabled only for "EXE setup with resources next to it" package types.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### MSI Name
 
 Specify the MSI package's name. By default, the project name is used. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### EXE Name
 
 Specify the EXE bootstrapper's name. By default, the MSI's name will be used. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### EXE Icon
 
@@ -195,15 +202,15 @@ This option enables using AES 256 encryption for your LZMA archives or not. For 
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When your users install an encrypted package, they can specify the password from command line using /aespassword: option. For more information see [EXE setup file - EXE Bootstrapper command line](https://tools.techidaily.com/advancedinstaller/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Confirm password**  
  This field should have an identical content with the above Password field. By typing the password twice, you avoid the common password typing mistakes. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Archive installation files into CAB files
 
@@ -224,13 +231,6 @@ You can also specify the disk label in the “Volume Label” field. Use "#" to 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If "#" is not used the disk number will be appended to the label string's end.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Multi volume install can only be tested with the appropriate removable media.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Advanced CAB Layout
 
@@ -258,10 +258,10 @@ This feature allows to control the following packaging options:
 This option will allow your package to display only characters that are in the build language's codepage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### UTF-8 codepage
@@ -277,10 +277,16 @@ Set the MSI summary information fields to the values you need through the [Custo
 ## Bootstrapper Options
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### MSI Command Line
@@ -293,13 +299,6 @@ If an older version of the product is already installed, then the current produc
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg) When this option is active the installation only behaves like a patch, but the EXE bootstrapper does not perform a patch installation against the installed MSI. The EXE bootstrapper launches the embedded MSI by using the [/fvomus](https://tools.techidaily.com/advancedinstaller/products/) command which re-caches the installed MSI and triggers a repair installation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) If this option is not used and a current product's older version is installed, then the current product's installation will fail.
 
 ### Uninstall a package with the same version (if found)
@@ -307,6 +306,13 @@ If an older version of the product is already installed, then the current produc
 If a package with the same [product code](https://tools.techidaily.com/advancedinstaller/products/)") and version as the current package is already installed, enabling this option will uninstall it.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option does not affect multiple instances, only the default instance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sign and check integrity using MD5
 
@@ -380,15 +386,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>[Updated] Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-guide-on-utilizing-microsofts-universal-windows-platform-bootstrapper-menu-options/"><u>Comprehensive Guide on Utilizing Microsoft's Universal Windows Platform Bootstrapper Menu Options</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-your-ideal-investment-with-our-iproperty-solutions/"><u>Explore Your Ideal Investment with Our IProperty Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-edge-1-ranked-4k-gaming-pcs-for-2024/"><u>Leading Edge #1 Ranked 4K Gaming PCs for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-iregistrykey-essential-techniques-and-strategies-for-optimization/"><u>Mastering IRegistryKey: Essential Techniques and Strategies for Optimization</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-walkthrough-altering-the-default-pdf-application-for-windows-11-users/"><u>Step-by-Step Walkthrough: Altering the Default PDF Application for Windows 11 Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/thors-fury-legends-of-the-ragnarok-for-2024/"><u>Thor's Fury Legends of the Ragnarök for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-elevate-your-mobile-videos-top-vertical-editing-apps-for-ios-and-android/"><u>Updated 2024 Approved Elevate Your Mobile Videos Top Vertical Editing Apps for iOS and Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/updating-your-chromecast-essential-instructions-for-smooth-streaming/"><u>Updating Your Chromecast: Essential Instructions for Smooth Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streaming-success-recording-roblox-on-apple-devices/"><u>[New] 2024 Approved Streaming Success Recording Roblox on Apple Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[New] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-footage-imovie-videos-for-youtube-enthusiasts/"><u>[Updated] In 2024, Elevating Your Footage IMovie Videos for YouTube Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-stepping-up-advanced-techniques-for-w11-gamers/"><u>[Updated] Stepping Up Advanced Techniques for W11 Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-synching-worlds-instagram-to-tiktok-essentials/"><u>In 2024, Synching Worlds Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/manage-your-automated-task-timeline/"><u>Manage Your Automated Task Timeline</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-apowersoft-pdf-converter-tool-detailed-users-handbook-and-guide/"><u>Mastering the Apowersoft PDF Converter Tool: Detailed User's Handbook & Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-the-language-settings-panel-a-guide-to-tailoring-user-experience-locally/"><u>Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-uploading-your-iphone-images-to-a-windows-7-computer/"><u>Step-by-Step Guide: Uploading Your iPhone Images to a Windows 7 Computer</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/temporary-file-storage-solutions-an-it-guide/"><u>Temporary File Storage Solutions: An IT Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-checklist-for-epic-launcher-savings/"><u>The Complete Checklist for Epic Launcher Savings</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-ultimate-guide-to-mastering-machine-bios-settings/"><u>The Ultimate Guide to Mastering Machine BIOS Settings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tips-for-reinstating-missing-gpu-on-system/"><u>Tips for Reinstating Missing GPU on System</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-video-editor-apps-for-enhancing-your-youtube-content/"><u>Top Video Editor Apps for Enhancing Your YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-bsod-what-does-blue-screen-of-death-indicate/"><u>Understanding the BSOD: What Does 'Blue Screen of Death' Indicate?</u></a></li>
 </ul></div>
 

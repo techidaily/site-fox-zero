@@ -1,7 +1,7 @@
 ---
 title: "Organizational Guide: Comprehensive Insights Into the Strings Segment Task Force"
-date: 2024-09-28T19:15:18.712Z
-updated: 2024-10-05T18:56:41.084Z
+date: 2024-10-05T00:36:20.806Z
+updated: 2024-10-11T03:53:32.228Z
 tags:
   - user-guide
 categories:
@@ -89,13 +89,6 @@ As you add extra build languages from the [Languages Tab](https://tools.techidai
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The project language column strings can only be edited with their corresponding element from the GUI. Use the **Go To Row** context menu item or press **F8** key while a string is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Store changes in dictionary
 
 This section becomes available after a project string is edited (green border). The translated project strings are stored in a custom dictionary to the specified path after pressing the \[Save \] button on the right. 
@@ -103,22 +96,22 @@ This section becomes available after a project string is edited (green border). 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Any strings marked with a green border will not be changed in the dictionary until pressing the \[Save \] button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Translations
 
 This section becomes available if you select at least one additional build language (other than the default project language).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Specify project segments for translation
 
@@ -127,10 +120,10 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Different project segments are available for translation depending on the project type (Updates Configuration project, Merge Module project, etc.).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate dictionary for untranslated project strings
@@ -138,6 +131,13 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 Pressing the \[Create... \] button will generate a dictionary containing just the strings that need to be translated into the build languages. Only the project segments selected for translation in the Localization Options Dialog will be included in the generated dictionary.
 
 When translating in another language, Advanced Installer will look for the corresponding strings in one of the specified translation dictionaries. You can add more dictionaries to the project in the [Dictionaries Tab](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -179,21 +179,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/xpress-yourself-incorporating-emojis-into-yt-feedback/"><u>[New] Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>[Updated] In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-legal-steps-for-overcoming-a-youtube-copyright-strike-for-2024/"><u>[Updated] Legal Steps for Overcoming a YouTube Copyright Strike for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-magic-6-lite-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor Magic 6 Lite? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/contrasting-titans-of-tech-the-unique-advantages-of-google-palm-2-over-openai-gpt-4/"><u>Contrasting Titans of Tech: The Unique Advantages of Google PaLM 2 Over OpenAI GPT-4</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-latest-driver-for-your-amd-rx-6800-on-windows-111087-step-by-step-tutorial/"><u>How to Install the Latest Driver for Your AMD RX 6800 on Windows 11/10/8/7 – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus without Passcode or Face ID</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-create-professional-looking-videos-on-mac-top-software-picks-for-2024/"><u>New Create Professional-Looking Videos on Mac Top Software Picks for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pornhubs-safety-navigating-adult-content-without-risk-a-comprehensive-guide/"><u>Pornhub's Safety: Navigating Adult Content Without Risk – A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-premium-corsair-scimitar-rgb-elite-mmo-mouse-for-unbeatable-price-only-49-now/"><u>Score Big Savings: Premium Corsair Scimitar RGB Elite MMO Mouse for Unbeatable Price – Only $49 Now</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-modifying-cabinet-access-block-cab-options-in-system-setup/"><u>Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-top-slideshow-creation-tools-available-on-android-devices/"><u>Ultimate Top Slideshow Creation Tools Available on Android Devices</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-programmatic-identifier-progid-usage-in-component-based-software-engineering/"><u>Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-insight-navigating-through-googles-podcast-app/"><u>[New] Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-labeling-101-how-to-make-yourself-hard-to-ignore/"><u>[Updated] 2024 Approved Channel Labeling 101 How to Make Yourself Hard to Ignore</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-asmr-insights-understanding-its-health-benefits-for-2024/"><u>[Updated] ASMR Insights Understanding Its Health Benefits for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-winter-settings-for-warmer-yt-videos/"><u>2024 Approved Ideal Winter Settings for Warmer YT Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customizing-the-thinapp-configuration-interface-tips-and-tricks/"><u>Customizing the ThinApp Configuration Interface: Tips & Tricks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/find-the-perfect-mediacoder-replacement-with-these-highly-rated-file-transformers/"><u>Find the Perfect MediaCoder Replacement with These Highly Rated File Transformers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/master-two-techniques-to-broadcast-sms-from-desktop-to-your-android-device-efficiently/"><u>Master Two Techniques to Broadcast SMS From Desktop to Your Android Device Efficiently</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-11-pro-max-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 11 Pro Max and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shining-scenes-quick-tips-to-transform-your-iphone-video-brilliance-for-2024/"><u>Shining Scenes Quick Tips to Transform Your iPhone Video Brilliance for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-strategies-for-securely-saving-your-digital-files/"><u>Top 5 Strategies for Securely Saving Your Digital Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-claude-the-ultimate-ai-for-professionals/"><u>Unveiling the Power of Claude: The Ultimate AI for Professionals</u></a></li>
 </ul></div>
 

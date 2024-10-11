@@ -1,7 +1,7 @@
 ---
 title: "How to Remove Digital Certificates: A Step-by-Step Guide"
-date: 2024-10-01T19:17:38.119Z
-updated: 2024-10-05T16:17:04.706Z
+date: 2024-10-07T01:15:16.617Z
+updated: 2024-10-10T17:45:55.728Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IUninstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IUninstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IUninstallCertificate : ICustomAction
 This interface facilitates editing custom action that uninstalls a certificate. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from InstallParameters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that uninstalls a certificate. 
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,22 +208,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-safeguarding-your-digital-footprint-on-youtube/"><u>[New] 2024 Approved Safeguarding Your Digital Footprint on YouTube</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[New] In 2024, From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[Updated] The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/11-proven-strategies-to-stop-persistent-reboot-cycles-in-windows-11-computers/"><u>11 Proven Strategies to Stop Persistent Reboot Cycles in Windows 11 Computers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-7-macos-video-player-selections/"><u>2024 Approved Best 7 MacOS Video Player Selections</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ddpai-mini3-review/"><u>DDpai Mini3 Review</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco Phone without PIN</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-choose-the-right-frames-per-second-30-vs-60/"><u>In 2024, How to Choose the Right Frames Per Second - 30 Vs. 60</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/protecting-information-on-dropbox-can-it-withstand-hacks-and-ransomware-attacks/"><u>Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-the-best-4k-screencast-software-on-desktop-pcs/"><u>Ultimate List of the Best 4K Screencast Software on Desktop PCs</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-epic-virtual-truths-top-30-metaverse-reflections-arvr-for-2024/"><u>[New] Epic Virtual Truths Top 30 Metaverse Reflections [AR/VR] for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts-for-2024/"><u>[New] Your Ultimate Guide to Storing and Saving Live TV Broadcasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-keep-an-eye-out-for-insta-follower-fleece/"><u>[Updated] Keep an Eye Out for Insta Follower Fleece</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-customizing-your-website-mastering-the-theme-configuration-panel/"><u>1. Customizing Your Website: Mastering the Theme Configuration Panel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/become-a-squid-champion-achieving-over-456-points-on-your-computer/"><u>Become a Squid Champion: Achieving Over 456 Points on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-avi-files-to-wmv-format-for-free-using-movavis-quick-online-tool/"><u>Convert AVI Files to WMV Format for Free Using Movavi's Quick Online Tool</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arch-of-success-pivotal-youtube-gatherings-after-vidcon-for-2024/"><u>In Search of Success Pivotal YouTube Gatherings (After VidCon) for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-guide-mastering-the-art-of-recording-seamless-live-streams-on-ustream/"><u>Simple Guide: Mastering the Art of Recording Seamless Live Streams on Ustream</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-file-associations-how-your-computer-identifies-programs/"><u>Understanding File Associations: How Your Computer Identifies Programs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-financial-potential-how-to-earn-with-youtube-shorts-for-2024/"><u>Unlocking Financial Potential How to Earn with YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997820896-war-thunder-continuous-crash-problems-discover-these-fixes-made/"><u>War Thunder Continuous Crash Problems? Discover These Fixes Made</u></a></li>
 </ul></div>
 

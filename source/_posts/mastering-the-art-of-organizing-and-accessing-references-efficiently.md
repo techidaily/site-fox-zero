@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Organizing and Accessing References Efficiently
-date: 2024-09-30T20:36:59.682Z
-updated: 2024-10-05T17:10:02.638Z
+date: 2024-10-04T16:59:16.837Z
+updated: 2024-10-11T00:39:18.735Z
 tags:
   - user-guide
 categories:
@@ -68,10 +68,10 @@ Throughout the project you may have items that you can not delete because they a
 References pane will display a list with the references of the item you tried to delete.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go To Definition
@@ -81,10 +81,10 @@ To jump where the selected item from the list is created in the project use the 
 If the selected item can be displayed, the corresponding main page will be activated.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go Back To Target Item
@@ -92,10 +92,10 @@ If the selected item can be displayed, the corresponding main page will be activ
 If you used the \[Go To Definition \] option or you have navigated thought the project pages you may want to go back where the target item is displayed. For that, use the \[Go Back To Target Item \] context menu button or press the F6 key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Search References
@@ -105,10 +105,10 @@ You can search for the references of the selected item by using the \[Search Ref
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The references found for the selected item will be added to the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -144,24 +144,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-rescue-absent-watch-thumbnail-icon/"><u>[New] Rescue Absent Watch Thumbnail Icon</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity-for-2024/"><u>[New] The Complete Blueprint for Screen Capture Excellence with Adobe Captivity for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-conversion-manual-from-srt-to-various-formats/"><u>[Updated] In 2024, Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100 Phone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-audio-troubleshooting-quick-solutions/"><u>In 2024, Avidemux Audio Troubleshooting Quick Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-use-of-environment-variables-on-your-webpage/"><u>Mastering the Use of Environment Variables on Your Webpage</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios-for-2024/"><u>New Stay Active with the Best Motion Tracking Apps on Android and iOS for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/select-folder-with-ease-mastering-the-folder-selection-dialog/"><u>Select Folder with Ease: Mastering the Folder Selection Dialog</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-expert-insights-on-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-10-free-photoshop-alternatives-available-on-the-web/"><u>Top 10 Free Photoshop Alternatives Available on the Web</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-video-format-transformations-on-windows-10-the-ultimate-list/"><u>Top Video Format Transformations on Windows 10: The Ultimate List</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-creating-lyrics-videos-with-top-music-software-for-free/"><u>Ultimate Guide: Creating Lyrics Videos with Top Music Software for FREE!</u></a></li>
-<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-strategies-for-altering-pubg-speech/"><u>[New] Innovative Strategies for Altering PUBG Speech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-how-you-can-profit-from-youtube-content/"><u>[New] Unveiling How You Can Profit From YouTube Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionizing-tv-broadcasts-with-fb-live-streaming/"><u>[Updated] Revolutionizing TV Broadcasts with FB Live Streaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unleash-creativity-filming-and-editing-on-the-go-with-a-phone-for-2024/"><u>[Updated] Unleash Creativity Filming & Editing on the Go with a Phone for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-meeting-organization-tips-for-professionals-for-2024/"><u>[Updated] Zoom Meeting Organization Tips for Professionals for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-whats-sweeping-the-web-dive-into-these-8-trending-videos/"><u>2024 Approved What's Sweeping the Web? Dive Into These 8 Trending Videos</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
+<li><a href="https://driver-install.techidaily.com/full-process-reinstalling-graphics-drivers-from-scratch/"><u>Full Process: Reinstalling Graphics Drivers From Scratch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/pornhubs-safety-navigating-adult-content-without-risk-a-comprehensive-guide/"><u>Pornhub's Safety: Navigating Adult Content Without Risk – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-methods-for-effective-audio-speed-reduction/"><u>Simple Methods for Effective Audio Speed Reduction</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-top-slideshow-creation-tools-available-on-android-devices/"><u>Ultimate Top Slideshow Creation Tools Available on Android Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-ready-to-be-amazed-the-best-4k-video-samples-around/"><u>Updated In 2024, Get Ready to Be Amazed The Best 4K Video Samples Around</u></a></li>
 </ul></div>
 

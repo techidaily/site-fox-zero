@@ -1,7 +1,7 @@
 ---
 title: "Create Your Own Script: Adding a Batch File for Personalized Events"
-date: 2024-10-01T18:58:55.648Z
-updated: 2024-10-05T19:58:08.517Z
+date: 2024-10-06T19:33:11.003Z
+updated: 2024-10-10T20:39:46.920Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,10 @@ Table of Contents
 ## Add a command-line batch file as a custom event
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
@@ -102,10 +102,10 @@ A batch file is a script file that contains a list of commands that are executed
 .bat files are frequently used to load applications, execute numerous processes at the same time, and complete routine or repetitive activities in an automated way.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add a bat file as an event
@@ -115,10 +115,10 @@ It is possible to create a custom event based on a batch file you created. Depen
 ![Bat file event](https://cdn.advancedinstaller.com/img/dialog/bat-file-event.png "Bat file event")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This event is equivalent to running the sample.bat param1 param2 from a command-line console, prior or post build-time depending on how you created the event.
@@ -126,10 +126,10 @@ This event is equivalent to running the sample.bat param1 param2 from a command-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)In case your script doesn't require command-line arguments leave the "Arguments" field blank.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,15 +165,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-how-to-proficiently-use-twitter-archives-for-2024/"><u>[Updated] How to Proficiently Use Twitter Archives for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/master-your-devices-the-ultimate-resource-for-tech-enthusiasts-at-toms-hardware/"><u>Master Your Devices: The Ultimate Resource for Tech Enthusiasts at Tom's Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-correcting-malfunctions-within-your-iphones-remote-app/"><u>Step-by-Step Tutorial: Correcting Malfunctions Within Your iPhone's Remote App</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-sudden-screen-loss-during-win-games/"><u>Techniques to Overcome Sudden Screen Loss During WIN Games</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-creating-lyrics-videos-with-top-music-software-for-free/"><u>Ultimate Guide: Creating Lyrics Videos with Top Music Software for FREE!</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>[New] 2024 Approved The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-videopilot-social-networks-to-files-for-2024/"><u>[New] VideoPilot Social Networks to Files for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[Updated] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-recording-application-chromebook-focus/"><u>[Updated] Premium Recording Application Chromebook Focus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>2024 Approved Android/iPhone Mastery Discover the Ultimate Top 8 App Set</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y100i-power-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y100i Power 5G Phone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-beginners-tutorial-stream-to-facebook-with-obs-studio-for-2024/"><u>New Beginners Tutorial Stream to Facebook With OBS Studio for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-8-crowdflower-features-for-data-driven-decision-making/"><u>Top 8 CrowdFlower Features for Data-Driven Decision Making</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-mov-files-into-gifs-discover-the-top-3-methods-with-2-free-options/"><u>Transforming MOV Files Into GIFs: Discover the Top 3 Methods with 2 Free Options</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
 </ul></div>
 

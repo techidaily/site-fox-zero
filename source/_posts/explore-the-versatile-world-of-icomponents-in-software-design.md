@@ -1,7 +1,7 @@
 ---
 title: Explore the Versatile World of IComponents in Software Design
-date: 2024-09-28T17:43:16.948Z
-updated: 2024-10-05T19:23:21.091Z
+date: 2024-10-08T19:32:04.334Z
+updated: 2024-10-11T02:23:28.520Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 ## IComponent
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ Table of Contents
 IComponent: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -133,10 +133,10 @@ IComponent: IDispatch
 This interface is meant to change properties of a component.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -189,10 +189,10 @@ Gets or sets an option that specifies uninstall mode of a superseding patch. Ins
 Gets or sets an option that marks the component as shared among multiple packages. In doing so, if a package containing this component is uninstalled, the highest version of it (installed by other packages) will still be shared by Windows Installer. It is enough to mark the component as shared in one package for it to become shared among multiple packages. If the DisableSharedComponent policy is set to "1", this flag is ignored for all components.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### See also
@@ -234,19 +234,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-smart-strategies-achieving-advertising-excellence/"><u>[New] Smart Strategies Achieving Advertising Excellence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[Updated] In 2024, Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-no-cost-nintendo-switch-virtual-games-for-2024/"><u>[Updated] No-Cost Nintendo Switch Virtual Games for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-scripts-to-screen-a-filmmakers-guide-for-2024/"><u>[Updated] Scripts to Screen A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-archiving-youtube-livestream-content/"><u>Best Practices for Archiving Youtube Livestream Content</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 14 Pro Max without Apple Account</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722980704921-troubleshooting-steps-resolving-palworld-session-search-issues/"><u>Troubleshooting Steps: Resolving 'PalWorld' Session Search Issues</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-strategies-for-x-mastery-influencer-collaboration-twitter-chats-and-more/"><u>[Advanced Strategies for X Mastery: Influencer Collaboration, Twitter Chats, & More!]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-methods-to-supercharge-your-spotify-ad-results/"><u>[Updated] Proven Methods to Supercharge Your Spotify Ad Results</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-sound-with-these-asmr-apps/"><u>2024 Approved Elevate Sound with These ASMR Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-tutorial-on-xml-file-editing-and-settings-adjustment-tools/"><u>Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-own-google-vr-glasses-for-2024/"><u>Crafting Your Own Google VR Glasses for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exe-details-configuration-panel/"><u>EXE Details Configuration Panel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-remove-digital-certificates-a-step-by-step-guide/"><u>How to Remove Digital Certificates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-displays-ranked-1-to-5-ps5/"><u>In 2024, High-End Displays Ranked #1 to #5 (PS5)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-a60s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel A60s to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/product-information-update-guide-navigating-and-modifying-item-codes/"><u>Product Information Update Guide: Navigating and Modifying Item Codes</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2021-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2021 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-generation-of-phablets-arrives-with-samsung-galaxy-z-fold-6-key-info-on-pricing-and-launch-date-revealed/"><u>The Next Generation of Phablets Arrives with Samsung Galaxy Z Fold 6 - Key Info on Pricing & Launch Date Revealed!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-natures-potential-discover-the-benefits-of-advanced-herbal-nutrition-iverbenhanced/"><u>Unlock Nature's Potential: Discover the Benefits of Advanced Herbal Nutrition (IVerbEnhanced)</u></a></li>
 </ul></div>
 

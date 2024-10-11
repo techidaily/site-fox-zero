@@ -1,7 +1,7 @@
 ---
 title: Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering
-date: 2024-09-30T20:08:55.027Z
-updated: 2024-10-05T19:44:04.136Z
+date: 2024-10-08T18:51:52.945Z
+updated: 2024-10-11T00:55:42.290Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## ProgID Properties
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,16 +90,10 @@ Table of Contents
  Detailed explanation for the files handled by the selected ProgID. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -107,10 +101,10 @@ Table of Contents
  Specify an icon that will be associated with all the files handled by that ProgID. Choose a file containing icons by using the\[Browse... \] button, and select an icon from the available icons from the drop-down list box. Press\[Reset \] to revert to no icon. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mac OS X
@@ -152,20 +146,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-leverage-ez-grabber-for-peak-performance-for-2024/"><u>[New] How to Leverage EZ Grabber for Peak Performance for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-prime-cloud-call-recorder-pros/"><u>[New] In 2024, Prime Cloud Call Recorder Pros</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-reviewers-guide-to-yuneec-typhoon-h-performance/"><u>[New] Reviewer’s Guide to Yuneec Typhoon H Performance</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-best-hd-video-screen-recorders/"><u>2024 Approved The Best HD Video Screen Recorders</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aurora-high-dynamic-range-review-pros-and-cons-for-2024/"><u>Aurora High-Dynamic Range Review – Pros & Cons for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-enterprises-guide-to-viral-video-promotion/"><u>Micro-Enterprises' Guide to Viral Video Promotion</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimal-java-runtime-enablement-jre-selection-window/"><u>Optimal Java Runtime Enablement (JRE) Selection Window</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/the-essentials-of-a-repackers-role-and-responsibnilities-explained/"><u>The Essentials of a Repacker's Role and Responsibnilities Explained</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y17s-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y17s Location | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-reviews-for-samsung-galaxy-fit-a-smart-choice-for-fitness-trackers/"><u>Top Reviews for Samsung Galaxy Fit - A Smart Choice for Fitness Trackers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-component-features-and-attributes/"><u>Understanding Component Features and Attributes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-advanced-shade-realist-app/"><u>[New] Advanced Shade Realist App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-generating-attention-grabbing-video-teasers/"><u>[Updated] In 2024, Generating Attention-Grabbing Video Teasers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-echoes-of-yesteryear-a-digital-compilation-of-ringtones/"><u>2024 Approved Echoes of Yesteryear A Digital Compilation of Ringtones</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-folder-discovery-using-advanced-search-tool/"><u>Effortless Folder Discovery Using Advanced Search Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-next-level-audio-quality-through-dts-virtualx/"><u>Experience Next-Level Audio Quality Through DTS Virtual:X</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Honor .</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-creativity-with-these-top-10-video-text-effects-for-2024/"><u>Unleash Creativity with These Top 10 Video Text Effects for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722672890208-unlocking-ultimate-speed-and-connectivity-with-netgears-newest-innovation-the-ax8-wi-fi-6-mesh-extender-reviewed/"><u>Unlocking Ultimate Speed and Connectivity with Netgear's Newest Innovation: The AX8 Wi-Fi 6 Mesh Extender Reviewed</u></a></li>
 </ul></div>
 

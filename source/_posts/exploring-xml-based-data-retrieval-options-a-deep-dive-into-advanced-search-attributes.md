@@ -1,7 +1,7 @@
 ---
 title: "Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes"
-date: 2024-09-30T19:52:57.193Z
-updated: 2024-10-05T19:21:21.836Z
+date: 2024-10-05T21:29:00.060Z
+updated: 2024-10-10T21:13:12.548Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,13 @@ Table of Contents
 
 ![Xml search properties](https://cdn.advancedinstaller.com/img/ui/xml-search-properties.png "Xml search properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## File Path
 
  This field specifies the search path and the XML filename on which the search operation will be executed. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). The name of the XML Search operation will also display this path. 
@@ -87,13 +94,6 @@ Table of Contents
 ## Locators
 
 This field will display in the left pane the [XML Search Elements](https://tools.techidaily.com/advancedinstaller/products/) which contain the XML locators based on which the search operations are performed. Multiple XML elements can be defined and under every XML element multiple XML locators can be created. For every XML element the locators can be declared or modified in the[XML Locator](https://tools.techidaily.com/advancedinstaller/products/) view in the right pane.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## XML Search Elements
 
@@ -111,16 +111,16 @@ To rename an XML element select \[Rename \] from the context menu or press the F
 
 To move the selected node up use \[Move Up \] option from the context menu or press Shift+Up Arrow key keys while the element is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Move Down
 
 To move the selected node down use \[Move Down \] option from the context menu or press Shift+Down Arrow key keys while the element is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Move Left
 
@@ -130,13 +130,6 @@ To move the selected node to the left use \[Move Left \] option from the context
 
 To move the selected node to the right use \[Move Right \] option from the context menu or pressShift+Right Arrow key keys while the element is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Delete an element
 
 To delete an element use \[Delete \] from the context menu or press the Delete key while an element is selected.
@@ -144,10 +137,10 @@ To delete an element use \[Delete \] from the context menu or press the Delete k
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The hierarchy of the XML elements defined here **must** be the same with the one from the actual XML file. If the structure is different in the XML file no search operation can be performed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Once an XML element is created it is possible to assign one or multiple XML locators from the [XML Locator](https://tools.techidaily.com/advancedinstaller/products/) panel.
@@ -157,10 +150,10 @@ To delete an element use \[Delete \] from the context menu or press the Delete k
 This panel will display the XML locator assigned for the selected XML element from the [XML Search Elements](https://tools.techidaily.com/advancedinstaller/products/) panel. Based on this XML locator the XML Search operation will be performed. It is possible to declare multiple XML locators for one XML element.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create an XML locator
@@ -178,22 +171,35 @@ To delete an existing XML locator press the\[Remove \] button, use "Remove" cont
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If multiple XML Locators are defined you can modify the order in which the searches are performed. The order in this list is the order in which the search operations are executed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Move Up an XML locator
 
 To move an XML locator up press the \[Up \] button, use the "Move Up" context menu option or press thePageUp key while an XML locator is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Move Down an XML locator
 
@@ -204,10 +210,10 @@ To move an XML locator down press the \[Down \] button, use the "Move Down" cont
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)If you want each search to be evaluated individually you can define the same element multiple times, maintaining the same hierarchy, and assign to each instance an XML locator.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -248,20 +254,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-record-your-games-effortlessly-without-relying-on-microsoft-for-2024/"><u>[New] Record Your Games Effortlessly, Without Relying on Microsoft for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-step-by-step-approach-to-best-youtube-thumbnails/"><u>[Updated] In 2024, A Step-by-Step Approach to Best YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-speedy-methods-for-shrinking-your-pdf-documents/"><u>1. Speedy Methods for Shrinking Your PDF Documents</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-gopro-cases-review/"><u>2024 Approved Top 10 Best GoPro Cases Review</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/custom-file-management-via-property-actions/"><u>Custom File Management via Property Actions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elite-5-drones-perfect-choices-for-experts-for-2024/"><u>Elite 5 Drones Perfect Choices for Experts for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y78-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y78 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-a2plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/leading-free-internet-tools-for-turning-videos-into-songs-and-podcasts/"><u>Leading Free Internet Tools for Turning Videos Into Songs and Podcasts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/maximizing-your-experience-a-guide-to-understanding-the-sign-up-section/"><u>Maximizing Your Experience: A Guide to Understanding the Sign-Up Section</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/setting-up-your-preferences-a-detailed-guide-to-the-configuration-panel/"><u>Setting Up Your Preferences: A Detailed Guide to the Configuration Panel</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/syncing-your-android-device-with-panasonic-tv-a-step-by-step-guide/"><u>Syncing Your Android Device with Panasonic TV: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: The Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-making-dts-surround-sound-accessible-for-chosen-audio-equipment/"><u>Troubleshooting Guide: Making DTS Surround Sound Accessible for Chosen Audio Equipment</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-fifa-film-analysis-on-youtube-infographics/"><u>[Updated] Top FIFA Film Analysis on YouTube Infographics</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customizing-file-settings-for-signature-tabs/"><u>Customizing File Settings for Signature Tabs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-audiotrack-removal-discover-the-ultimate-3-strategies-for-dvd-sound-extraction/"><u>Effortless Audiotrack Removal: Discover the Ultimate 3 Strategies for DVD Sound Extraction</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-perfectly-capture-your-google-hangouts-on-windowsmac-expert-tips-and-tricks/"><u>How to Perfectly Capture Your Google Hangouts on Windows/Mac: Expert Tips & Tricks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-premier-football-vids-key-youtube-infographic-data/"><u>In 2024, Premier Football Vids Key YouTube Infographic Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-and-dependable-methods-for-adding-subtitles-to-avi-files/"><u>Quick & Dependable Methods for Adding Subtitles to AVI Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-kernel-memory-page-faults-a-step-by-step-guide/"><u>Solving Kernel Memory Page Faults: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-ksuserdll-not-detected-a-step-by-step-guide/"><u>Solving the 'ksuser.dll' Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-top-methods-for-successful-pdf-file-restoration/"><u>Ultimate Guide: Top Methods for Successful PDF File Restoration</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-the-essential-attributes-in-unit-construction-and-arrangement/"><u>Understanding the Essential Attributes in Unit Construction and Arrangement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionary-choices-best-apps-for-live-basketball-and-olympic-events-streaming-for-2024/"><u>Visionary Choices Best Apps for Live Basketball & Olympic Events Streaming for 2024</u></a></li>
 </ul></div>
 

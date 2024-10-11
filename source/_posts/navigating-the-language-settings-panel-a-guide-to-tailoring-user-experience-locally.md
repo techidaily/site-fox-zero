@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally"
-date: 2024-10-03T19:29:29.865Z
-updated: 2024-10-05T18:13:50.903Z
+date: 2024-10-08T00:19:36.496Z
+updated: 2024-10-10T21:40:10.596Z
 tags:
   - user-guide
 categories:
@@ -83,10 +83,10 @@ Table of Contents
 Translating every single localizable string is seldom necessary as many strings have language-independent values which should be used as such in all packages. This is why Advanced Installer allows you to specify which project parts you want to translate. You can do that at the high-level, for entire project segments or low level, for individual project elements.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Coarse granularity
@@ -94,10 +94,10 @@ Translating every single localizable string is seldom necessary as many strings 
  At this level, you can select entire project segments to translate. Just click on the check-box next to it to switch the translation of a project segment on and off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fine granularity
@@ -105,10 +105,10 @@ Translating every single localizable string is seldom necessary as many strings 
  Advanced Installer also allows you to specify the translation options for each localizable project element in the [Localization Dialog](https://tools.techidaily.com/advancedinstaller/products/). The fine granularity setting will take precedence over the coarse granularity option when deciding if a localizable element should be translated or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,14 +149,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-your-pathway-to-perfect-igtv-footage-from-phone-to-dslr/"><u>[New] 2024 Approved Your Pathway to Perfect IGTV Footage From Phone to DSLR</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-united-experts-easeus-expert-reviews-for-2024/"><u>[New] United Experts EaseUS Expert Reviews for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-video-cutting-techniques-to-boost-your-content/"><u>[Updated] 2024 Approved Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/become-a-squid-champion-achieving-over-456-points-on-your-computer/"><u>Become a Squid Champion: Achieving Over 456 Points on Your Computer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/guidelines-for-legally-reposting-on-insta-for-2024/"><u>Guidelines for Legally Reposting on Insta for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-writing-and-editing-text-within-pdf-files-a-comprehensive-tutorial/"><u>Mastering the Art of Writing and Editing Text Within PDF Files: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simple-guide-mastering-the-art-of-recording-seamless-live-streams-on-ustream/"><u>Simple Guide: Mastering the Art of Recording Seamless Live Streams on Ustream</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-file-associations-how-your-computer-identifies-programs/"><u>Understanding File Associations: How Your Computer Identifies Programs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-zero-to-hero-downloading-and-setting-up-obs-for-macos-for-2024/"><u>[Updated] From Zero to Hero Downloading and Setting up OBS for macOS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-visual-wonders-in-lightrooms-hdr-workflow/"><u>2024 Approved Crafting Visual Wonders in Lightroom's HDR Workflow</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-ringtone-repository-prime-picks-for-downloadable-calls/"><u>2024 Approved Ringtone Repository Prime Picks for Downloadable Calls</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-c67-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme C67 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fixing-corrupted-itunes-backups-step-by-step-guide-for-iphone-x-8-7-and-6s-users/"><u>Fixing Corrupted iTunes Backups: Step-by-Step Guide for iPhone X, 8, 7, and 6S Users</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guia-completa-para-eliminar-adware-y-anuncios-emergentes-en-windows-11-con-soluciones-de-malwarefox/"><u>Guía Completa Para Eliminar Adware Y Anuncios Emergentes en Windows 11 Con Soluciones De MalwareFox</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-11-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 11 Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-implement-nvidias-nvenc-in-handbrake-a-step-by-step-guide/"><u>How to Implement NVIDIA's NVENC in HandBrake - A Step-by-Step Guide!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-oppo-find-n3-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo Find N3 Phone that is Locked?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-permission-windows-in-web-interactions/"><u>Navigating Permission Windows in Web Interactions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-online-tone-generators-can-be-very-useful-while-calibrating-the-audio-equipment-testing-your-hearing-or-tuning-music-instruments-etc-lets-check-for-2024/"><u>New Online Tone Generators Can Be Very Useful While Calibrating the Audio Equipment, Testing Your Hearing or Tuning Music Instruments, Etc. Lets Check for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-and-effective-techniques-for-integrating-audio-into-video-content/"><u>Quick & Effective Techniques for Integrating Audio Into Video Content</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/revolutionize-communication-through-advanced-ai-voice-duplication-tech/"><u>Revolutionize Communication Through Advanced AI Voice Duplication Tech!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-methods-for-seamless-photo-transfer-from-iphone-to-windows-11-without-using-itunes/"><u>Top Methods for Seamless Photo Transfer From iPhone to Windows 11 Without Using iTunes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-mystery-dark-web-vs-deep-web-simplified-insights-from-malwarefox/"><u>Unveiling the Mystery: Dark Web vs Deep Web Simplified - Insights From MalwareFox</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unlock-pro-quality-sound-top-10-audio-editing-software-tools/"><u>Updated Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/what-you-need-to-know-about-http/"><u>What You Need to Know About HTTP/</u></a></li>
 </ul></div>
 

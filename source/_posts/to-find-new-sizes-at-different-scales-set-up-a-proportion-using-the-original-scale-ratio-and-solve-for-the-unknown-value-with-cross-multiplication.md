@@ -1,7 +1,7 @@
 ---
 title: To Find New Sizes at Different Scales, Set up a Proportion Using the Original Scale Ratio and Solve for the Unknown Value with Cross-Multiplication.
-date: 2024-09-30T17:47:21.500Z
-updated: 2024-10-05T16:08:26.339Z
+date: 2024-10-07T20:44:55.605Z
+updated: 2024-10-11T03:03:05.811Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,20 +54,19 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mastering-facebook-giveaways-a-step-by-step-guide-for-2024/"><u>[New] Mastering Facebook Giveaways A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-share-and-record-with-the-best-mac-video-capture-tools/"><u>[Updated] Capture, Share, and Record with the Best Mac Video Capture Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-essential-insights-on-youtube-tvs-unique-features/"><u>2024 Approved Essential Insights on YouTube TV's Unique Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-meta-versus-omni-the-future-of-digital-worlds/"><u>2024 Approved Meta versus Omni The Future of Digital Worlds</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/create-your-own-script-adding-a-batch-file-for-personalized-events/"><u>Create Your Own Script: Adding a Batch File for Personalized Events</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/download-and-convert-your-ogvs-to-mp3-at-no-cost-using-our-simple-tools/"><u>Download and Convert Your OGVs to MP3 at No Cost Using Our Simple Tools!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725285670002-dvdpc/"><u>DVDファイル移行無PC – スマートフォン用に簡単コピー</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-remake-resolving-resident-evil-4-game-crashes/"><u>Fixing the Remake: Resolving 'Resident Evil 4' Game Crashes</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transformez-facilement-vos-photos-arw-au-format-jpeg-sans-frais-a-laide-de-movavi-en-ligne/"><u>Transformez Facilement Vos Photos ARW Au Format JPEG Sans Frais À L'aide De Movavi en Ligne</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/uncovering-stealthy-strategies-the-top-8-secret-methods-for-cable-free-mobile-charging/"><u>Uncovering Stealthy Strategies: The Top 8 Secret Methods for Cable-Free Mobile Charging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-hdr-software-showdown-sns-vs-others-for-2024/"><u>[Updated] HDR Software Showdown SNS vs Others for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-ps5-profile-saved-credentials/"><u>Deleting PS5 Profile Saved Credentials</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/find-the-perfect-mediacoder-replacement-with-these-highly-rated-file-transformers/"><u>Find the Perfect MediaCoder Replacement with These Highly Rated File Transformers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-access-a-locked-drive-installation-folder-in-windows-11/"><u>How to Access a Locked Drive Installation Folder in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-fb-instream-ad-techniques-to-boost-engagement/"><u>Leveraging FB Instream Ad Techniques to Boost Engagement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/michael-kors-gen-5e-mkgo-revealed-a-perfect-blend-of-opulence-and-intelligence-in-design/"><u>Michael Kors Gen 5E MKGO Revealed: A Perfect Blend of Opulence and Intelligence in Design</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
+<li><a href="https://article-files.techidaily.com/primeplay-videoapp-inspection/"><u>PrimePlay VideoApp Inspection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-pathfinder-wrath-of-the-righteous-launch-failures/"><u>Troubleshooting Guide: Resolving Issues with Pathfinder: Wrath of the Righteous Launch Failures</u></a></li>
 </ul></div>
 

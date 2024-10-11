@@ -1,7 +1,7 @@
 ---
 title: Mastering XML File Creation and Management for Beginners
-date: 2024-09-30T17:40:14.663Z
-updated: 2024-10-05T19:08:58.378Z
+date: 2024-10-07T22:27:53.656Z
+updated: 2024-10-10T16:42:34.232Z
 tags:
   - user-guide
 categories:
@@ -104,16 +104,16 @@ The XML File functionality allows you to achieve the following installation task
 
 The XML file support can be used for configuring XML files that are part of the installation package or that are already present on the target system. This feature is very useful if you are deploying an application which requires user specific information, like username or password. The information must be collected during install and must be store in the same XML file installed by the package. Another case scenario is when an application is upgraded and one or more XML files must be updated as well, without the need to delete and copy their newer version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update files that are part of the installation package
 
 In this case you have an XML file that you want to install and then update it, all done in the same install package. This is possible because a _regular_ XML file is installed on the target machine before the XML changes are applied. In order to achieve this behaviour, first add the XML file as a _"regular file"._ Then, simply add the same XML file in the _Windows Installer_ format and by using the [XML Editor](https://tools.techidaily.com/advancedinstaller/products/) modify the elements that you want to create, update or remove.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Update files that are present on the target machine
 
@@ -125,35 +125,41 @@ In this case the XML file is present on the target machine. Simply add the XML f
 
 ![New XML File](https://cdn.advancedinstaller.com/img/toolbar/xml-new.png "New XML File")Use the \[New XML File \] toolbar button or the “New XML File” tree/list context menu item.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing an existing XML File
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” list context menu item, press theEnter key while an XML file is selected in the “Files” panel or double click on an XML file.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)XML files can be renamed, moved or removed just like regular [Files](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Testing an XML File Operation
 
  It is possible [**to test**](https://tools.techidaily.com/advancedinstaller/products/) a previously defined XML File operation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -196,19 +202,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/udget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] In 2024, Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-launching-a-zoom-session-on-android/"><u>[New] The Essential Guide to Launching a Zoom Session on Android</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-spy-on-fb-chronicles-unseen/"><u>[Updated] In 2024, Spy on FB Chronicles, Unseen</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/free-linguistic-learning-mondly-aids-ukrainian-multitudes/"><u>Free Linguistic Learning: Mondly Aids Ukrainian Multitudes</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed-for-2024/"><u>Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-camera-for-video-enthusiasts-nikons-j5-review-for-2024/"><u>The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2023-discover-the-best-no-cost-fb-visual-creation-platforms/"><u>[New] 2024 Approved 2023 Discover the Best, No-Cost FB Visual Creation Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-profit-with-these-top-10-simplified-youtube-business-channels/"><u>[New] Elevate Your Profit with These Top 10 Simplified YouTube Business Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-exquisite-solution-for-vr-adventures/"><u>[New] Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>[Updated] Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-11-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 11 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-8-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 8 - 4 Easy Ways</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/any-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-a-world-of-movies-captions-in-windows-media-player/"><u>In 2024, Unlock a World of Movies Captions in Windows Media Player</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-natures-potential-discover-the-benefits-of-advanced-herbal-nutrition-iverbenhanced/"><u>Unlock Nature's Potential: Discover the Benefits of Advanced Herbal Nutrition (IVerbEnhanced)</u></a></li>
 </ul></div>
 

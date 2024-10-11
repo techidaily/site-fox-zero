@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design"
-date: 2024-09-30T16:40:10.993Z
-updated: 2024-10-05T19:55:33.517Z
+date: 2024-10-03T21:58:37.883Z
+updated: 2024-10-11T01:25:51.301Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ The frame is split into parts, and each part has a predefined property and image
  The image format is bitmap. RGB(255, 0, 255) color is considered as transparent color. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customizing a dialog window
@@ -126,10 +126,10 @@ The frame is split into parts, and each part has a predefined property and image
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg) To set this types of properties go to [Custom Actions](https://tools.techidaily.com/advancedinstaller/products/) page and sequence a "Set installer property" custom action before "Wizard Dialogs Stage > Searches". 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To customize the frame of a dialog, follow these steps:
@@ -181,19 +181,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tricks-for-smooth-animation-with-movie-maker/"><u>[New] Tricks for Smooth Animation with Movie Maker</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-expanding-reach-fb-live-on-broadcast-networks/"><u>2024 Approved Expanding Reach FB Live on Broadcast Networks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/d-the-scenes-filmmaking-tips-from-youtube-experts/"><u>Behind-the-Scenes Filmmaking Tips From YouTube Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-the-ultimate-guide-to-creating-a-musical-picture-presentation-application/"><u>Discover the Ultimate Guide to Creating a Musical Picture Presentation Application</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-methods-for-streamlining-videos/"><u>Easy Methods for Streamlining Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-for-samsung-m2070fw-printers-download-the-right-drivers-now/"><u>Effortless Setup for Samsung M2070FW Printers - Download the Right Drivers Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>In 2024, The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-your-audio-visual-journey-with-these-6-apps/"><u>Perfect Your Audio Visual Journey with These 6 Apps</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamlessly-share-and-sync-how-to-move-files-from-your-mac-onto-your-iphone-or-ipad/"><u>Seamlessly Share & Sync: How to Move Files From Your Mac Onto Your iPhone or iPad</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simplified-guide-step-by-step-instructions-for-securely-backing-up-your-ipad-without-using-itunes/"><u>Simplified Guide: Step-by-Step Instructions for Securely Backing Up Your iPad Without Using iTunes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/steps-for-successful-extraction-of-fb-content/"><u>Steps for Successful Extraction of FB Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ros-playbook-for-top-10-music-videos-that-define-genres/"><u>The Pros' Playbook for Top 10 Music Videos That Define Genres</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-the-app-v-settings-panel-managing-configuration-through-registry-keys/"><u>Understanding the App-V Settings Panel: Managing Configuration Through Registry Keys</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unwind-with-our-top-10-serene-games/"><u>[Updated] In 2024, Unwind With Our Top 10 Serene Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-v30-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo V30 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-volume-attributes-in-geometry-and-calculus-an-essential-overview/"><u>Exploring Volume Attributes in Geometry and Calculus: An Essential Overview</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadget-unveiling-top-youtube-channels-to-watch/"><u>Gadget Unveiling Top YouTube Channels to Watch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-manually-update-drivers-in-windows-vista/"><u>How to Manually Update Drivers in Windows Vista</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-f25-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo F25 Pro 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picking-your-perfect-pair-dji-drones-face-off-with-gopro-and-insta360-cameras/"><u>In 2024, Picking Your Perfect Pair DJi Drones Face-Off With GoPro and Insta360 Cameras</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/instamp4ify-swift-and-easy-rmvb-to-mp4-video-conversion/"><u>InstaMP4ify: Swift and Easy RMVB-to-MP4 Video Conversion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-iphone-timelapses-efficient-recording-tips-for-2024/"><u>Master iPhone Timelapses Efficient Recording Tips for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimal-java-runtime-enablement-jre-selection-window/"><u>Optimal Java Runtime Enablement (JRE) Selection Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-updating-stuck-systems-mastering-windows-11-upgrades-and-installations/"><u>Successfully Updating Stuck Systems: Mastering Windows 11 Upgrades and Installations</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/temporary-file-storage-solutions-an-it-guide/"><u>Temporary File Storage Solutions: An IT Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-essentials-of-a-repackers-role-and-responsibnilities-explained/"><u>The Essentials of a Repacker's Role and Responsibnilities Explained</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-ultimate-guide-to-mastering-machine-bios-settings/"><u>The Ultimate Guide to Mastering Machine BIOS Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-file-3gp-in-mjpeg-gratuitamente-tramite-movavi-tutorial-completo/"><u>Trasforma I Tuoi File 3GP in MJPEG Gratuitamente Tramite Movavi - Tutorial Completo</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-component-features-and-attributes/"><u>Understanding Component Features and Attributes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Mirillis' Usage Guidelines: A Comprehensive Guide"
-date: 2024-09-29T18:28:04.326Z
-updated: 2024-10-05T16:39:02.068Z
+date: 2024-10-08T03:04:10.398Z
+updated: 2024-10-10T17:56:54.210Z
 tags:
   - product
 categories:
@@ -24,10 +24,10 @@ Terms - this terms and conditions of sale
 Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP: 973-097-55-52, REGON: 080432823, Captial: 30000pln, KRS: 0000356397 - Sąd Rejonowy w Zielonej Górze, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General conditions
@@ -41,10 +41,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 1.4 You acknowledge that you have read specified Mirillis product End User License Agreement and you accept terms and conditions of this agreement. If you do not agree with the terms of this End User License Agreement you must remove specified Mirillis product files from your storage devices, cease to use the product, discontinue purchase and discountinue creating Mirillis account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -56,16 +56,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 4.3 Your account password is stored in encrypted form and we do not have any access or knowlegde about your password. We cannot remind you your password, the only option if you lost the password is to reset a password to a new one. 
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy Policy
@@ -81,16 +75,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
  5.5 Your e-mail address information may be used by Mirillis Ltd. for contact purposes on important matters. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General information
@@ -112,22 +100,18 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/trategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>[New] Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-5-minute-timelapse-video-maker-top/"><u>[Updated] Best 5-Minute Timelapse Video Maker #Top</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-exploring-roku-watching-facebook-live-effortlessly/"><u>[Updated] Exploring Roku Watching Facebook Live Effortlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>2024 Approved Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-power-packed-film-titles-for-inner-growth-and-strength/"><u>2024 Approved Power-Packed Film Titles for Inner Growth & Strength</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/create-your-own-script-adding-a-batch-file-for-personalized-events/"><u>Create Your Own Script: Adding a Batch File for Personalized Events</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/custom-file-management-via-property-actions/"><u>Custom File Management via Property Actions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-digital-gestures-understanding-what-swipe-left-and-swipe-right-really-signify/"><u>Decoding Digital Gestures: Understanding What 'Swipe Left' And 'Swipe Right' Really Signify</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-overcome-msvcr71dll-errors-on-your-computer/"><u>Effective Techniques to Overcome Msvcr71.dll Errors on Your Computer</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-streaming-excellence-top-1enas-comparative-analysis/"><u>In 2024, Unmatched Streaming Excellence Top 1Enas Comparative Analysis</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/leading-free-internet-tools-for-turning-videos-into-songs-and-podcasts/"><u>Leading Free Internet Tools for Turning Videos Into Songs and Podcasts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/setting-up-your-preferences-a-detailed-guide-to-the-configuration-panel/"><u>Setting Up Your Preferences: A Detailed Guide to the Configuration Panel</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-converting-spotify-streams-to-high-quality-mp3-with-the-best-free-tools-available/"><u>Step-by-Step Tutorial on Converting Spotify Streams to High-Quality MP3 with the Best Free Tools Available</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[New] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elite-meme-design-software/"><u>[New] Elite Meme Design Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478244002-airpods-troubleshooting-guide-fix-no-sound-problem-in-just-9-simple-methods/"><u>AirPods Troubleshooting Guide: Fix No Sound Problem in Just 9 Simple Methods!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/become-a-squid-champion-achieving-over-456-points-on-your-computer/"><u>Become a Squid Champion: Achieving Over 456 Points on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-connoisseurs-clash-can-chatgpt-outperform-gemini-for-developers-needs/"><u>Coding Connoisseurs Clash: Can ChatGPT Outperform Gemini for Developers' Needs?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/from-zero-to-hero-how-to-generate-fb-trends/"><u>From Zero to Hero How to Generate Fb Trends</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-dev-issue-in-activisions-battlefield-game-series/"><u>How to Resolve Severe Dev Issue in Activision's Battlefield Game Series</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-writing-and-editing-text-within-pdf-files-a-comprehensive-tutorial/"><u>Mastering the Art of Writing and Editing Text Within PDF Files: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-guide-mastering-the-art-of-recording-seamless-live-streams-on-ustream/"><u>Simple Guide: Mastering the Art of Recording Seamless Live Streams on Ustream</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-performing-tools-for-quick-and-effective-mkv-file-decompression/"><u>Top Performing Tools for Quick and Effective MKV File Decompression</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-file-associations-how-your-computer-identifies-programs/"><u>Understanding File Associations: How Your Computer Identifies Programs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unleash-your-full-potential-in-tiktok-video-making-with-templates/"><u>Unleash Your Full Potential in TikTok Video Making with Templates</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Managing Project Dependencies: Interactive Configuration Guide"
-date: 2024-09-28T16:34:21.553Z
-updated: 2024-10-05T18:23:59.487Z
+date: 2024-10-05T19:53:05.629Z
+updated: 2024-10-10T22:15:25.978Z
 tags:
   - user-guide
 categories:
@@ -97,10 +97,10 @@ Additionally you can display the system modules dependencies by selecting the â€
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Dependencies which cannot be accessed (for example assemblies in the GAC) can only be displayed (a checkbox is not showed next to them). If you want to add them to your project you can add the package which installs them as a prerequisite or you can add them from another location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Automatic dependency management
@@ -143,24 +143,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-creating-convincing-news-final-buzzes-for-2024/"><u>[New] Creating Convincing News Final Buzzes for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-quick-setup-for-hosting-online-seminars-on-pcmac/"><u>[New] In 2024, Quick Setup for Hosting Online Seminars on PC/Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites-for-2024/"><u>[Updated] The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-successful-interactions-with-gpt-3-5-essential-tips-for-writing-compelling-prompts/"><u>Crafting Successful Interactions with GPT-3: 5 Essential Tips for Writing Compelling Prompts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-guide-to-understanding-your-health-the-condition-section-explained/"><u>Easy Guide to Understanding Your Health: The Condition Section Explained</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-the-right-software-brother-mfc-j480dw-printer-drivers-enhanced-for-windows-users/"><u>Find the Right Software: Brother MFC-J480DW Printer Drivers Enhanced for Windows Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-avatar-asymmetry-artistry-sketching-distorted-images/"><u>In 2024, Avatar Asymmetry Artistry Sketching Distorted Images</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-administrative-communication-insights-and-techniques/"><u>Mastering the Art of Administrative Communication: Insights and Techniques</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
-<li><a href="https://discover-community.techidaily.com/unlocking-digital-restrictions-for-dvd-playback-on-pc-and-mac-with-winxdvd/"><u>Unlocking Digital Restrictions for DVD Playback on PC and Mac with WinXDVD</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/user-friendly-file-selection-interface/"><u>User-Friendly File Selection Interface</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-clearing-up-that-persistent-green-tint-in-youtube-videos-on-mac/"><u>[New] In 2024, Clearing Up that Persistent Green Tint in YouTube Videos on Mac</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ceasing-noise-during-obs-recordings-for-2024/"><u>[Updated] Ceasing Noise During OBS Recordings for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quick-musical-notes-understanding-youtube-shorts-for-2024/"><u>[Updated] Quick Musical Notes Understanding YouTube Shorts for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-transfer-youtube-content-for-enhanced-playback-on-your-ipad-device/"><u>Effortlessly Transfer YouTube Content for Enhanced Playback on Your iPad Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-inserting-new-words-into-your-android-keyboards-personal-dictionary/"><u>Guide: Inserting New Words Into Your Android Keyboard's Personal Dictionary</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-escapes-androidioss-favorite-ar-games/"><u>Immersive Escapes Android/iOS's Favorite AR Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-7-audio-capturers-2023-edition/"><u>In 2024, Top 7 Audio Capturers 2023 Edition</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mac-user-guide-completing-and-saving-forms-in-adobe-acrobat/"><u>Mac User Guide: Completing and Saving Forms in Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/modify-trail-fork-interface-managing-route-settings-easily/"><u>Modify Trail Fork Interface: Managing Route Settings Easily</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-information-on-dropbox-can-it-withstand-hacks-and-ransomware-attacks/"><u>Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-red-dead-redemption-2-fixes-for-frame-rate-drops-and-performance-lags/"><u>Resolved: Red Dead Redemption 2 - Fixes for Frame Rate Drops & Performance Lags</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-the-best-4k-screencast-software-on-desktop-pcs/"><u>Ultimate List of the Best 4K Screencast Software on Desktop PCs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
 </ul></div>
 

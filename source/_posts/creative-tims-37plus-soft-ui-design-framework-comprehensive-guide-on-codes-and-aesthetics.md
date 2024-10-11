@@ -1,7 +1,7 @@
 ---
 title: "Creative Tim's 37+ Soft UI Design Framework: Comprehensive Guide on Codes and Aesthetics"
-date: 2024-10-04T18:36:01.797Z
-updated: 2024-10-05T20:30:48.882Z
+date: 2024-10-06T16:19:31.944Z
+updated: 2024-10-10T16:03:18.478Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-initiate-a-collaborative-skype-group-discussion/"><u>[New] 2024 Approved How to Initiate a Collaborative Skype Group Discussion</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-customizing-your-website-mastering-the-theme-configuration-panel/"><u>1. Customizing Your Website: Mastering the Theme Configuration Panel</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-newly-released-free-full-hd-songs-in-hindi-watch-the-best-tracks-of-2021-video-quality-videos/"><u>Download Newly Released Free Full HD Songs in Hindi – Watch the Best Tracks of 2021 Video Quality Videos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-techniques-for-converting-your-music-collection-from-mp3-files-to-compact-discs/"><u>Effective Techniques for Converting Your Music Collection: From MP3 Files to Compact Discs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-nord-n30-se-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Nord N30 SE Phones with/without a PC</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/library-editor-interface-a-comprehensive-guide/"><u>Library Editor Interface: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/quick-methods-to-accelerate-playback-of-mp3-tracks-and-audio-books/"><u>Quick Methods to Accelerate Playback of MP3 Tracks and Audio Books</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-your-imessage-steps-to-correct-signed-out-notifications-on-ios-devices/"><u>Resolving Your iMessage: Steps to Correct 'Signed Out' Notifications on iOS Devices</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simple-guide-mastering-the-art-of-recording-seamless-live-streams-on-ustream/"><u>Simple Guide: Mastering the Art of Recording Seamless Live Streams on Ustream</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-file-associations-how-your-computer-identifies-programs/"><u>Understanding File Associations: How Your Computer Identifies Programs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlock-retro-classics-on-android-choose-the-best-ps2-emulators-for-2024/"><u>Unlock Retro Classics on Android – Choose the Best PS2 Emulators for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y100t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y100t Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-12-essential-websites-for-stunning-fb-profile-pictures/"><u>In 2024, 12 Essential Websites for Stunning FB Profile Pictures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-13t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 13T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-asus-rog-phone-8-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Asus ROG Phone 8 Is Unlocked</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-use-of-environment-variables-on-your-webpage/"><u>Mastering the Use of Environment Variables on Your Webpage</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/select-folder-with-ease-mastering-the-folder-selection-dialog/"><u>Select Folder with Ease: Mastering the Folder Selection Dialog</u></a></li>
+<li><a href="https://network-issues.techidaily.com/techniques-to-prevent-lenovo-screen-shakes/"><u>Techniques to Prevent Lenovo Screen Shakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unique-excel-skills-no-chatgpt-has/"><u>The Unique Excel Skills No ChatGPT Has</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-10-free-photoshop-alternatives-available-on-the-web/"><u>Top 10 Free Photoshop Alternatives Available on the Web</u></a></li>
 </ul></div>
 

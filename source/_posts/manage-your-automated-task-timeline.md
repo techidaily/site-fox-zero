@@ -1,7 +1,7 @@
 ---
 title: Manage Your Automated Task Timeline
-date: 2024-09-28T17:57:56.570Z
-updated: 2024-10-05T18:31:26.117Z
+date: 2024-10-06T16:01:07.670Z
+updated: 2024-10-10T18:21:28.696Z
 tags:
   - user-guide
 categories:
@@ -85,10 +85,10 @@ This page allows you to add an application from your project to the Windows Task
 ![New Task](https://cdn.advancedinstaller.com/img/toolbar/new-task.png "New Task")Use the \[New Task \] toolbar button, the “New Task” context menu item or press the Insert key while the list is focused. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Importing a new task
@@ -100,10 +100,17 @@ This page allows you to add an application from your project to the Windows Task
 ![Edit Task](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Edit Task")Use the\[Properties \] toolbar button, the “Properties” context menu item or press theEnter key while a task is selected. The [Edit Task](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to specify the task settings.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Deleting a task
@@ -113,17 +120,10 @@ This page allows you to add an application from your project to the Windows Task
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Using this feature requires to have Task Scheduler service installed on the target computer. If not an warning message will appear explaining to the user why the command fails. If the Task Scheduler service is installed but not running when this command is called the service is started automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -170,21 +170,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-premium-panzoid-structure-packs/"><u>[New] Premium Panzoid Structure Packs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-winning-at-windows-11-image-tweaking-tricks/"><u>[Updated] 2024 Approved Winning at Window's 11 Image Tweaking Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-asmr-insights-understanding-its-health-benefits-for-2024/"><u>[Updated] ASMR Insights Understanding Its Health Benefits for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[Updated] In 2024, Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-11-proipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 11 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-getting-your-keyboards-built-in-microphone-audio-back-online/"><u>Expert Tips for Getting Your Keyboard's Built-In Microphone Audio Back Online</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-11-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 11 Pro</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-video-format-transformations-on-windows-10-the-ultimate-list/"><u>Top Video Format Transformations on Windows 10: The Ultimate List</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-connecting-and-reflecting-your-mac-display-onto-the-tv/"><u>Ultimate Guide: Connecting & Reflecting Your Mac Display Onto the TV</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-creating-lyrics-videos-with-top-music-software-for-free/"><u>Ultimate Guide: Creating Lyrics Videos with Top Music Software for FREE!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-basics-your-comprehensive-guide-to-understanding-heic-file-formats/"><u>Unveiling the Basics: Your Comprehensive Guide to Understanding HEIC File Formats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-video-snippets-turn-into-dynamic-shareable-gifs-for-2024/"><u>[New] Vimeo Video Snippets Turn Into Dynamic, Shareable GIFs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-command-your-tech-not-money-needed-for-2024/"><u>[Updated] Command Your Tech, Not Money Needed for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-free-methods-to-bypass-an-ipad-lockout-no-itunes-no-passcode-required/"><u>1. Free Methods to Bypass an iPad Lockout: No iTunes, No Passcode Required</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-and-reliable-techniques-to-download-audio-from-facebook-videos-as-mp3-players/"><u>Easy and Reliable Techniques to Download Audio From Facebook Videos as MP3 Players</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-nokia-c12-plus-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Nokia C12 Plus Quickly | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-honor-100-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor 100 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470832814-iphone-owners-say-goodbye-to-late-text-alerts-with-these-nine-efficient-remedies/"><u>Iphone Owners: Say Goodbye to Late Text Alerts With These Nine Efficient Remedies!</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-play-8t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Play 8T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/pornhubs-safety-navigating-adult-content-without-risk-a-comprehensive-guide/"><u>Pornhub's Safety: Navigating Adult Content Without Risk – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/practical-steps-for-configuring-automated-message-dispatches-on-apples-smartphone/"><u>Practical Steps for Configuring Automated Message Dispatches on Apple's Smartphone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-modifying-cabinet-access-block-cab-options-in-system-setup/"><u>Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/turn-any-video-into-psp-playback-quality-with-these-simple-conversion-tips/"><u>Turn Any Video Into PSP Playback Quality with These Simple Conversion Tips!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-top-slideshow-creation-tools-available-on-android-devices/"><u>Ultimate Top Slideshow Creation Tools Available on Android Devices</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-programmatic-identifier-progid-usage-in-component-based-software-engineering/"><u>Understanding Programmatic Identifier (ProgID) Usage in Component-Based Software Engineering</u></a></li>
 </ul></div>
 

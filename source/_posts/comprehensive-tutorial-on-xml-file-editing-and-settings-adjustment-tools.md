@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools
-date: 2024-09-29T18:29:39.905Z
-updated: 2024-10-05T18:11:41.685Z
+date: 2024-10-10T01:48:55.480Z
+updated: 2024-10-11T02:06:19.538Z
 tags:
   - user-guide
 categories:
@@ -99,20 +99,33 @@ This dialog enables you to make configurations to an XML File. You can create an
 
 ![XML Dialog](https://cdn.advancedinstaller.com/img/dialog/xml-file.png "XML Dialog")  
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Manage general XML file settings
 
 Select the XML file in the left tree and you will be able to edit general file settings in the [File Settings Tab](https://tools.techidaily.com/advancedinstaller/products/). 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Manage XML file install parameters
 
  Select the XML file in the left tree. The install parameters can be modified from the [Install](https://tools.techidaily.com/advancedinstaller/products/) tab. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating a new XML element
 
@@ -125,10 +138,10 @@ Use the “New Comment” context menu option. The newly created element has a "
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This string is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new XML element removal
@@ -138,13 +151,6 @@ Use the “New Element Removal” context menu option. You can configure this op
 ### Renaming an XML element or comment
 
 Use the “Rename” context menu option or press theF2 key while a tree item is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing an XML element or comment
 
@@ -162,10 +168,10 @@ Use the “Move Up”, “Move Down”, “Move Left” or “Move Right” tree
 * You can bulk edit or delete elements by selecting them in the tree using Ctrl+Click orShift+Click shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Escaping special XML characters
@@ -173,10 +179,10 @@ Use the “Move Up”, “Move Down”, “Move Left” or “Move Right” tree
 Read more in [XML escaped characters](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -231,18 +237,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-expert-6-tech-for-cross-lingual-content-shift/"><u>[Updated] 2024 Approved Expert 6 Tech for Cross-Lingual Content Shift</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-end-your-active-discord-association-for-2024/"><u>[Updated] End Your Active Discord Association for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-monetization-does-youtube-pay-monthly-for-2024/"><u>[Updated] YouTube Monetization Does YouTube Pay Monthly for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-smart-meter-bus-controller-drivers-for-windows-11-10-8-and-7/"><u>Download Smart Meter Bus Controller Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-fix-win32kfullsys-causing-system-crashes/"><u>How to Troubleshoot and Fix 'Win32kfull.sys' Causing System Crashes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-bikers-camera-companion-top-hats-reviewed-and-ranked-2023/"><u>In 2024, The Ultimate Biker's Camera Companion – Top Hats Reviewed & Ranked 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-financial-frontier-maximizing-your-content-revenue/"><u>In 2024, YouTube's Financial Frontier Maximizing Your Content Revenue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-iphones-top-watermarking-software-choices-for-2024/"><u>In-Depth Look at iPhone's Top Watermarking Software Choices for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimizing-site-velocity-a-guide-to-enhanced-webpage-efficiency/"><u>Optimizing Site Velocity: A Guide to Enhanced Webpage Efficiency</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-virtual-realities-shortcomings/"><u>[New] Exploring Virtual Realities' Shortcomings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-audiophiles-guide-to-superior-9-online-mic-tools/"><u>[Updated] In 2024, Audiophile's Guide to Superior 9 Online Mic Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hand-tracking-deciphered-a-users-guide/"><u>2024 Approved Hand Tracking Deciphered A User's Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-captioning-on-youtube/"><u>2024 Approved Mastering Video Captioning on YouTube</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/customizing-file-settings-for-signature-tabs/"><u>Customizing File Settings for Signature Tabs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-audiotrack-removal-discover-the-ultimate-3-strategies-for-dvd-sound-extraction/"><u>Effortless Audiotrack Removal: Discover the Ultimate 3 Strategies for DVD Sound Extraction</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/expert-tips-for-permanent-deletion-of-every-message-on-your-iphone-device/"><u>Expert Tips for Permanent Deletion of Every Message on Your iPhone Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-tracking-your-gpus-capabilities-with-2024-ddu-guide/"><u>Fast-Tracking Your GPU's Capabilities with 2024 DDU Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-perfectly-capture-your-google-hangouts-on-windowsmac-expert-tips-and-tricks/"><u>How to Perfectly Capture Your Google Hangouts on Windows/Mac: Expert Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-asuss-proart-pa-329q-a-comprehensive-evaluation-of-a-top-tier-monitoring-solution/"><u>In 2024, Asus’s ProArt PA 329Q A Comprehensive Evaluation of a Top-Tier Monitoring Solution</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-highlighting-prime-3ds-emulation-software-pc/"><u>In 2024, Highlighting Prime 3Ds Emulation Software PC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-and-reliable-methods-for-iphone-picture-transfers-to-your-windows-10-system-no-need-for-itunes/"><u>Quick and Reliable Methods for iPhone Picture Transfers to Your Windows 10 System - No Need for iTunes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-clearing-your-password-history-on-mozilla-firefox/"><u>Step-by-Step Guide: Clearing Your Password History on Mozilla Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-function-keys-on-your-keyboard/"><u>Troubleshooting Non-Responsive Function Keys on Your Keyboard</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-top-methods-for-successful-pdf-file-restoration/"><u>Ultimate Guide: Top Methods for Successful PDF File Restoration</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-the-essential-attributes-in-unit-construction-and-arrangement/"><u>Understanding the Essential Attributes in Unit Construction and Arrangement</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-ease-remedying-windows-10-touchpad-scrolling-hiccups-in-minutes/"><u>Unstuck with Ease: Remedying Windows 10 Touchpad Scrolling Hiccups in Minutes!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-basics-your-comprehensive-guide-to-understanding-heic-file-formats/"><u>Unveiling the Basics: Your Comprehensive Guide to Understanding HEIC File Formats</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-nvidia-rtx-2060-driver-software-for-various-windows-versions-including-windows-11-10-8-and-7/"><u>Updated NVIDIA RTX 2060 Driver Software for Various Windows Versions Including Windows 11, 10, 8, and 7</u></a></li>
 </ul></div>
 

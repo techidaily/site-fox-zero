@@ -1,7 +1,7 @@
 ---
 title: Custom File Management via Property Actions
-date: 2024-09-28T19:18:28.164Z
-updated: 2024-10-05T17:27:56.338Z
+date: 2024-10-07T18:37:34.226Z
+updated: 2024-10-11T00:19:46.091Z
 tags:
   - user-guide
 categories:
@@ -126,16 +126,10 @@ Table of Contents
 ## IFileFromPropertyCustomAction
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -143,10 +137,16 @@ Table of Contents
 IFileFromPropertyCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +154,10 @@ IFileFromPropertyCustomAction: ICustomAction
 This interface facilitates editing custom action that allows the launching executable file into execution using a property to specify the executable file path.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -167,10 +167,10 @@ This interface facilitates editing custom action that allows the launching execu
 **String CommandLine** \- Gets the command line arguments for launching executable file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -212,16 +212,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>[Updated] 2024 Approved Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snappy-stories-how-to-record-snapchat-mobilely-for-2024/"><u>[Updated] Snappy Stories - How to Record Snapchat Mobilely for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[Updated] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-unveiling-the-secrets-of-editing-registry-values-a-comprehensive-guide/"><u>1. Unveiling the Secrets of Editing Registry Values: A Comprehensive Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-lexternalisation-avec-abbyy-flexicapture-reduit-les-couts-de-production-pour-une-entreprise-specialisee/"><u>Comment L'externalisation Avec ABBYY FlexiCapture Réduit Les Coûts De Production Pour Une Entreprise Spécialisée</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-user-manual-mastering-apoweredit/"><u>Comprehensive User Manual: Mastering ApowerEdit</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-reducing-video-file-size-without-compromising-quality/"><u>Effective Strategies for Reducing Video File Size Without Compromising Quality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-real-time-response-on-windows-discord/"><u>Enhancing Real-Time Response on Windows Discord</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-civi-3-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Civi 3 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>In 2024, Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-no-cost-yield-assessment-apps-for-videos/"><u>[New] 2024 Approved No-Cost Yield Assessment Apps for Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-fast-track-uncovering-erased-reddit-conversations/"><u>[Updated] Fast Track Uncovering Erased Reddit Conversations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-reel-of-triumph-celebrating-fig-skaters-in-22/"><u>2024 Approved Reel of Triumph - Celebrating Fig Skaters in '22</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-and-most-dependable-screen-capture-software-compatible-with-windows-11/"><u>Best & Most Dependable Screen Capture Software Compatible with Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/"><u>Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-guide-to-adjusting-system-preferences-panel/"><u>Easy Guide to Adjusting System Preferences Panel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-your-ideal-investment-with-our-iproperty-solutions/"><u>Explore Your Ideal Investment with Our IProperty Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Lava .</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/innovative-approaches-to-infusing-sound-into-avi-files-post-update/"><u>Innovative Approaches to Infusing Sound Into AVI Files Post-Update</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-iregistrykey-essential-techniques-and-strategies-for-optimization/"><u>Mastering IRegistryKey: Essential Techniques and Strategies for Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-win1011s-network-maze-exiting-error-code-0x800704b3/"><u>Navigating Win10/11's Network Maze: Exiting Error Code: 0X800704B3</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/organizational-guide-comprehensive-insights-into-the-strings-segment-task-force/"><u>Organizational Guide: Comprehensive Insights Into the Strings Segment Task Force</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-walkthrough-altering-the-default-pdf-application-for-windows-11-users/"><u>Step-by-Step Walkthrough: Altering the Default PDF Application for Windows 11 Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora/"><u>Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-youtube-post-upload-process-for-2024/"><u>Understanding YouTube Post-Upload Process for 2024</u></a></li>
 </ul></div>
 

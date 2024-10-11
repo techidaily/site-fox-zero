@@ -1,7 +1,7 @@
 ---
 title: Effortless Folder Discovery Using Advanced Search Tool
-date: 2024-10-02T16:23:11.056Z
-updated: 2024-10-05T18:31:50.050Z
+date: 2024-10-03T23:33:20.737Z
+updated: 2024-10-10T22:25:43.044Z
 tags:
   - user-guide
 categories:
@@ -125,10 +125,16 @@ Table of Contents
 ## ISearchFolderLocator
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +142,10 @@ Table of Contents
 ISearchFolderLocator : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,10 +153,10 @@ ISearchFolderLocator : IDispatch
 This interface is meant to edit the folder locator.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +169,10 @@ This interface is meant to edit the folder locator.
 **Example**: "Path" field value: \[ProgramFilesFolder\]MY\_FOLDER will return: 1: C:\\Program Files\\MY\_FOLDER\\
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,24 +214,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-5-tools-for-capturing-facebook-live-videos/"><u>[New] Top 5 Tools for Capturing Facebook Live Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-compilation-best-tools-for-vimeo-files-for-2024/"><u>[New] Ultimate Compilation Best Tools for Vimeo Files for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-7-premium-android-adblocking-tools/"><u>[Updated] 2024 Approved Discover 7 Premium Android AdBlocking Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unnoticed-yet-there-watching-instagram-livestreams-undetected/"><u>[Updated] Unnoticed Yet There Watching Instagram Livestreams Undetected</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-whats-different-on-facebook-a-comprehensive-overview-for-2024/"><u>[Updated] What's Different on Facebook? - A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-new-era-of-mac-os-embracing-big-sur/"><u>2024 Approved The New Era of Mac OS Embracing Big Sur</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-video-compression-apps-for-android-top-5-picks/"><u>Best Video Compression Apps for Android: Top 5 Picks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-techniques-for-adding-annotations-into-your-pdf-documents/"><u>Easy Techniques for Adding Annotations Into Your PDF Documents</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevating-your-show-with-expert-rss-feed-craftsmanship-for-2024/"><u>Elevating Your Show with Expert RSS Feed Craftsmanship for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-business-analysis-through-structured-management-info-tabs/"><u>Enhanced Business Analysis Through Structured Management Info Tabs</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-sharing-your-youtube-content-with-ease-perfecting-your-instagram-stories-and-igtv/"><u>Guide: Sharing Your YouTube Content with Ease - Perfecting Your Instagram Stories and IGTV</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on C55</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus 12R FRP In 3 Different Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 12 5G Device</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/personalizing-your-experience-tailoring-installation-interfaces-with-custom-frame-design/"><u>Personalizing Your Experience: Tailoring Installation Interfaces with Custom Frame Design</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/preserve-your-favorite-movies-how-to-download-video-clips-from-tango/"><u>Preserve Your Favorite Movies: How To Download Video Clips From Tango</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-top-10-free-android-file-management-tools/"><u>Ultimate List of Top 10 Free Android File Management Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-stop-fbs-persistent-video-ad-popups/"><u>[New] 2024 Approved How to Stop FB's Persistent Video Ad Popups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-an-edge-access-these-top-8-sites-for-free-eco-screen-backdrops-and-clips-for-2024/"><u>[Updated] Gain an Edge - Access These Top 8 Sites for FREE Eco-Screen Backdrops and Clips for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>[Updated] Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-speedy-methods-for-shrinking-your-pdf-documents/"><u>1. Speedy Methods for Shrinking Your PDF Documents</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-dazzling-design-discovering-three-instagram-highlight-hacks/"><u>2024 Approved Dazzling Design Discovering Three Instagram Highlight Hacks</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-mini-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 mini Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-pro-top-manycam-features-and-online-webcam-solutions/"><u>Live Streaming Pro: Top ManyCam Features and Online Webcam Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/maximizing-your-experience-a-guide-to-understanding-the-sign-up-section/"><u>Maximizing Your Experience: A Guide to Understanding the Sign-Up Section</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/setting-up-your-preferences-a-detailed-guide-to-the-configuration-panel/"><u>Setting Up Your Preferences: A Detailed Guide to the Configuration Panel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/syncing-your-android-device-with-panasonic-tv-a-step-by-step-guide/"><u>Syncing Your Android Device with Panasonic TV: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

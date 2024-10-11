@@ -1,7 +1,7 @@
 ---
 title: Customizing File Settings for Signature Tabs
-date: 2024-10-01T20:06:12.319Z
-updated: 2024-10-05T17:06:29.480Z
+date: 2024-10-05T19:44:39.634Z
+updated: 2024-10-11T03:19:26.010Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ In this tab you can configure which files contained by your package will be sign
 ![Digital signature files tab](https://cdn.advancedinstaller.com/img/ui/digital-signature-files-tab.png "Digital signature files tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Configured for Signing
@@ -128,19 +128,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-picart-a-guide-to-clear-backgrounds/"><u>[New] Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-stop-quittime-video-capture-procedures-for-2024/"><u>[New] Stop QuitTime Video Capture Procedures for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-edge-explained-6-key-differences/"><u>ChatGPT's iOS Edge Explained: 6 Key Differences</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-guide-to-a-flawless-tunein-radio-installation/"><u>Effortless Guide to a Flawless TuneIn Radio Installation</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhanced-icomplus-upgrading-your-internet-experience/"><u>Enhanced IComPlus: Upgrading Your Internet Experience</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/expert-guide-mastering-advanced-powershell-techniques-in-system-installers/"><u>Expert Guide: Mastering Advanced PowerShell Techniques in System Installers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-mac-os-x-configuration-options-in-the-settings-dashboard/"><u>Exploring Mac OS X Configuration Options in the Settings Dashboard</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-waters-understanding-iphone-15s-resistance-levels/"><u>Exploring the Waters: Understanding iPhone 15'S Resistance Levels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-updated-nvidia-quadro-rtx-8000-graphics-card-drivers-for-windows-xp-vista-10-and-8/"><u>Get Updated Nvidia Quadro RTX #8000 Graphics Card Drivers for Windows XP, Vista, 10, and 8</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimal-pc-protection-limiting-multiple-antiviruses/"><u>Optimal PC Protection: Limiting Multiple Antiviruses</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimizing-data-management-with-customizable-formatting-tabs/"><u>Optimizing Data Management with Customizable Formatting Tabs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premium-quality-computers-at-your-desk/"><u>Premium Quality Computers at Your Desk</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-inactive-graphics-card-not-found/"><u>Screen Inactive: Graphics Card Not Found</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-propel-your-social-media-success-best-6-apps-for-instagram-reels/"><u>[New] 2024 Approved Propel Your Social Media Success Best 6 Apps for Instagram Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-crafting-your-perfect-minecraft-shelter/"><u>[New] Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtubes-secrets-for-profound-visibility-gains/"><u>[New] Unlocking YouTube's Secrets for Profound Visibility Gains</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-11-most-innovative-sound-recording-options-for-2024/"><u>[New] Unveiling the 11 Most Innovative Sound Recording Options for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-5-excellent-external-hdd-recommendations-for-xbox/"><u>[Updated] 2024 Approved 5 Excellent External HDD Recommendations for Xbox</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevating-your-channel-youtube-backlink-basics/"><u>[Updated] In 2024, Elevating Your Channel YouTube Backlink Basics</u></a></li>
+<li><a href="https://common-error.techidaily.com/ending-taskbar-troubles-in-windows-10-effective-solutions-and-tips/"><u>Ending Taskbar Troubles in Windows 10: Effective Solutions & Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-of-garmin-venu-the-fitness-companion-for-every-moment/"><u>Exploring the Features of Garmin Venu - The Fitness Companion for Every Moment</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fixing-corrupted-itunes-backups-step-by-step-guide-for-iphone-x-8-7-and-6s-users/"><u>Fixing Corrupted iTunes Backups: Step-by-Step Guide for iPhone X, 8, 7, and 6S Users</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-permission-windows-in-web-interactions/"><u>Navigating Permission Windows in Web Interactions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/organizational-guide-comprehensive-insights-into-the-strings-segment-task-force/"><u>Organizational Guide: Comprehensive Insights Into the Strings Segment Task Force</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/revolutionize-communication-through-advanced-ai-voice-duplication-tech/"><u>Revolutionize Communication Through Advanced AI Voice Duplication Tech!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/what-you-need-to-know-about-http/"><u>What You Need to Know About HTTP/</u></a></li>
 </ul></div>
 

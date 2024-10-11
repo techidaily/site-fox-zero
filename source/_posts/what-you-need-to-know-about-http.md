@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About HTTP/
-date: 2024-10-04T17:59:54.738Z
-updated: 2024-10-05T20:49:52.819Z
+date: 2024-10-06T22:39:24.435Z
+updated: 2024-10-10T16:40:01.608Z
 tags:
   - product
   - antivirus
@@ -72,13 +72,6 @@ This reliability, however, makes this this less than an ideal solution when send
 
 And this is exactly where UDP comes in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Out with the old, in with the new
 
 Getting back to QUIC, these bottlenecks are what this new technology solves. Think of this as sort of a next generation TCP, offering the same level of reliability and usage, but doing away with most of the slowdowns of that aging technology.
@@ -92,10 +85,10 @@ In contrast, QUIC can perform both these actions simultaneously.
 [![QUIC Illustration](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/quic-illustration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As Google [illustrates](https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html) in this image above, the signals bounce back and forth between your computer and the server, which eats up precious milliseconds. In comparison, QUIC only needs to send one signal to get the job done, without faffing around by transmitting data on multiple occasion.
@@ -110,6 +103,19 @@ This independent organization was founded by the US government in 1986, and is m
 
 [![IETF logo](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf_logo.png)](https://www.malwarefox.com/wp-content/uploads/2019/03/ietf%5Flogo.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Admittedly, development on this end has been slow, with HTTP/1.1 seeing a release in 1999, and HTTP/2 being officially out in 2015\. But things are picking up pace with the release of the HTTP/3 due in 2019.
 
 As of this writing, just 1.3% of the 10 million [most popular websites](https://w3techs.com/technologies/history%5Foverview/site%5Felement/all) in the world use HTTP/3, compared to 31% using the older, HTTP/2 technology. That’s about 130,000 sites that are transmitting data over this new standard right now.
@@ -117,10 +123,10 @@ As of this writing, just 1.3% of the 10 million [most popular websites](https://
 But this number should change in the coming months and years, as adoption of the technology increases after it has now officially become a standard. Companies and developers have started to add support for HTTP/3 into their products and services — including browser makers, [online services](https://blog.cloudflare.com/the-road-to-quic/), and firms that create server solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Brower support for HTTP/3
@@ -147,16 +153,10 @@ And while it changes how users and devices access the Internet a lot, HTTP/3 is 
 Gwyneth Llewelyn  
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [June 25, 2021 at 6:58 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -190,17 +190,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown/"><u>[New] 2024 Approved Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-complete-review-of-logitechs-advanced-4k-video-camera-for-2024/"><u>[New] Complete Review of Logitech's Advanced 4K Video Camera for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>[Updated] 2024 Approved The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>2024 Approved Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/create-your-own-script-adding-a-batch-file-for-personalized-events/"><u>Create Your Own Script: Adding a Batch File for Personalized Events</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-strategies-to-restore-icloud-sync-functionality-efficiently/"><u>Effective Strategies to Restore iCloud Sync Functionality Efficiently</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/evolucion-del-controler-de-gpu-para-la-inteligencia-artificial-winxvideo-ultima-guia-de-actualizacion-oficial/"><u>Evolución Del Controler De GPU Para La Inteligencia Artificial WinxVideo: Última Guía De Actualización Oficial</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-xs-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone XS Max Smoothly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-converting-spotify-streams-to-high-quality-mp3-with-the-best-free-tools-available/"><u>Step-by-Step Tutorial on Converting Spotify Streams to High-Quality MP3 with the Best Free Tools Available</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-enhance-visibility-youtube-thumbnails-made-simple/"><u>[New] Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/discover-your-latest-fb-watch-list-for-2024/"><u>Discover Your Latest FB Watch List for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-techniques-for-converting-your-music-collection-from-mp3-files-to-compact-discs/"><u>Effective Techniques for Converting Your Music Collection: From MP3 Files to Compact Discs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficient-pc-management-software-the-ultimate-guide-to-remote-desktop-tools/"><u>Efficient PC Management Software: The Ultimate Guide to Remote Desktop Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-journey-through-the-metaverse-landscape/"><u>Facebook's Journey Through the Metaverse Landscape</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/library-editor-interface-a-comprehensive-guide/"><u>Library Editor Interface: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-arlo-security-suite-a-practical-installation-walkthrough/"><u>Navigating the Arlo Security Suite: A Practical Installation Walkthrough</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-methods-to-accelerate-playback-of-mp3-tracks-and-audio-books/"><u>Quick Methods to Accelerate Playback of MP3 Tracks and Audio Books</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-setup-downloading-and-configuring-vrecord/"><u>Quick Setup Downloading & Configuring VRecord</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-full-potential-of-android-through-windows-subsystem/"><u>Unlocking Full Potential of Android Through Windows Subsystem</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
 </ul></div>
 

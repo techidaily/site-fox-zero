@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Modifying Cabinet Access Block (CAB) Options in System Setup"
-date: 2024-09-28T16:10:28.968Z
-updated: 2024-10-05T19:25:27.755Z
+date: 2024-10-09T16:10:49.144Z
+updated: 2024-10-10T18:37:14.934Z
 tags:
   - user-guide
 categories:
@@ -93,10 +93,10 @@ Table of Contents
 ![Edit Cab Size](https://cdn.advancedinstaller.com/img/dialog/edit-cab-size.png "Edit Cab Size")  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decide automatically
@@ -104,10 +104,10 @@ Table of Contents
 The CAB file's size is automatically computed, depending on the size you have specified for the media volumes. The CAB file will have the volume size if the volume size is smaller than 2 GB. Otherwise, the CAB size is computed this way: the volume size (in bytes) is divided by 650 MB (in bytes). This will give the number of CABs per volume. The remaining space is then equally distributed among the CABs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom CAB size
@@ -119,16 +119,10 @@ You have the possibility to specify your CAB size. There are however some restri
 * The CAB size cannot exceed the media volume size.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fixed number of CABs per volume
@@ -168,21 +162,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-video-magic-techniques-to-elevate-your-social-media-impact/"><u>[New] In 2024, Instagram Video Magic Techniques to Elevate Your Social Media Impact</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premier-apple-products-mimicking-old-ps2-games-for-2024/"><u>[Updated] Premier Apple Products Mimicking Old PS2 Games for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-volume-attributes-in-geometry-and-calculus-an-essential-overview/"><u>Exploring Volume Attributes in Geometry and Calculus: An Essential Overview</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>From Chat Room to Global Stage Broadcast Google Meet on YouTube for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-by-drfone-android/"><u>How to Bypass FRP on Samsung?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/instamp4ify-swift-and-easy-rmvb-to-mp4-video-conversion/"><u>InstaMP4ify: Swift and Easy RMVB-to-MP4 Video Conversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-3d-text-in-adobe-photoshop-for-2024/"><u>Mastering 3D Text in Adobe Photoshop for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-installation-woes-heres-how-you-can-get-it-running-smoothly-on-windows-11/"><u>Minecraft Installation Woes? Here's How You Can Get It Running Smoothly on Windows 11!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/navigating-the-language-settings-panel-a-guide-to-tailoring-user-experience-locally/"><u>Navigating the Language Settings Panel: A Guide to Tailoring User Experience Locally</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-uploading-your-iphone-images-to-a-windows-7-computer/"><u>Step-by-Step Guide: Uploading Your iPhone Images to a Windows 7 Computer</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/temporary-file-storage-solutions-an-it-guide/"><u>Temporary File Storage Solutions: An IT Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-100-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/the-ultimate-guide-to-mastering-machine-bios-settings/"><u>The Ultimate Guide to Mastering Machine BIOS Settings</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-video-editor-apps-for-enhancing-your-youtube-content/"><u>Top Video Editor Apps for Enhancing Your YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>[New] 2024 Approved Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectrum-savvy-the-filmmakers-guide-to-color/"><u>[New] Spectrum Savvy The Filmmaker's Guide to Color</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-best-practices-for-engaging-with-facebook-live-content/"><u>[Updated] Best Practices for Engaging with Facebook Live Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-discovering-vimeo-home-for-high-quality-films-for-2024/"><u>[Updated] Discovering Vimeo Home for High-Quality Films for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigate-new-horizons-discovering-the-top-10-pc-virtual-playback-devices/"><u>[Updated] In 2024, Navigate New Horizons Discovering the Top 10 PC Virtual Playback Devices</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-guide-to-understanding-your-health-the-condition-section-explained/"><u>Easy Guide to Understanding Your Health: The Condition Section Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-podcast-entrances-eye-catching-scripts/"><u>Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-administrative-communication-insights-and-techniques/"><u>Mastering the Art of Administrative Communication: Insights and Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-use-of-environment-variables-on-your-webpage/"><u>Mastering the Use of Environment Variables on Your Webpage</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-xml-file-creation-and-management-for-beginners/"><u>Mastering XML File Creation and Management for Beginners</u></a></li>
+<li><a href="https://win-online.techidaily.com/movavis-collection-of-no-cost-graphics-illustrations-and-photographs-your-ultimate-resource-for-creative-assets/"><u>Movavi's Collection of No-Cost Graphics, Illustrations & Photographs: Your Ultimate Resource for Creative Assets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-chatbot-interaction-on-ubuntu-via-the-power-of-shellgpt/"><u>Seamless Chatbot Interaction on Ubuntu via the Power of ShellGPT</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/select-folder-with-ease-mastering-the-folder-selection-dialog/"><u>Select Folder with Ease: Mastering the Folder Selection Dialog</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-10-free-photoshop-alternatives-available-on-the-web/"><u>Top 10 Free Photoshop Alternatives Available on the Web</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unfollow-patterns-on-instagram-explored/"><u>Unfollow Patterns on Instagram Explored</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/user-friendly-file-selection-interface/"><u>User-Friendly File Selection Interface</u></a></li>
 </ul></div>
 

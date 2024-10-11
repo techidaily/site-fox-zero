@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Your Preferences: A Detailed Guide to the Configuration Panel"
-date: 2024-10-02T17:03:22.290Z
-updated: 2024-10-05T18:54:53.815Z
+date: 2024-10-04T02:49:30.515Z
+updated: 2024-10-11T00:10:56.431Z
 tags:
   - user-guide
 categories:
@@ -87,45 +87,37 @@ In this tab, you can configure a Microsoft APPX/MSIX package which you can use t
 
 ![Builds1](https://cdn.advancedinstaller.com/img/ui/Builds1.png "Builds1")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Output
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
 
 Select the folder where the APPX/MSIX package will be created.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
 The name of APPX/MSIX file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Package
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Architectures
 
@@ -147,6 +139,13 @@ After packaging your app, there are three possibilities to distribute it:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Advanced Installer's behavior regarding _Publisher ID_ and_signing options_ is different depending on the selected package distribution type. For more information please see this article : [How to build MSIX packages for Windows Store and sideloading from the same project.](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Target Platforms
 
 Select the target platforms for the current build.
@@ -162,6 +161,13 @@ Select the target platforms for the current build.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to deploy your MSIX package with MSIX Core, you have to install [_msixmngr_](https://learn.microsoft.com/en-us/windows/msix/msix-core/deploy-with-msix-core) tool. You can download the latest version from the [official release page](https://github.com/microsoft/msix-packaging/releases).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Creating MSIX packages for earlier versions of Windows brings some limitations:
 
 * [appCompat](https://tools.techidaily.com/advancedinstaller/products/) incompatibility
@@ -173,27 +179,14 @@ Creating MSIX packages for earlier versions of Windows brings some limitations:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If your package is configured with any of the above features, a warning will be displayed at build time and the resulting package will be stripped of any of incompatible resources.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Content
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Allow UWP specific options
 
@@ -209,6 +202,13 @@ The supported settings that can be automatically transferred are:
 You can access each UWP specific view by clicking one of theApplications, Visual Assets orDeclarations link buttons.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you change settings in the UWP views, they will overwrite the settings from the MSI-based views/pages. This means that only the settings from the UWP views will be included in the final build.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -243,20 +243,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-optimize-video-production-with-adobe-presenter-for-2024/"><u>[New] How to Optimize Video Production with Adobe Presenter for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-step-up-your-gameplay-our-list-of-top-12-pc-clicker-games/"><u>[New] In 2024, Step Up Your Gameplay Our List of Top 12 PC Clicker Games</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-techniques-for-converting-your-music-collection-from-mp3-files-to-compact-discs/"><u>Effective Techniques for Converting Your Music Collection: From MP3 Files to Compact Discs</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficient-pc-management-software-the-ultimate-guide-to-remote-desktop-tools/"><u>Efficient PC Management Software: The Ultimate Guide to Remote Desktop Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-apples-vision-pro-eyewear-during-an-extended-workday-a-detailed-review/"><u>Evaluating Apple's Vision Pro Eyewear During an Extended Workday - A Detailed Review</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-mini-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 mini</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/library-editor-interface-a-comprehensive-guide/"><u>Library Editor Interface: A Comprehensive Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-treats-guide-child-health-champion-in-2017s-top-apps/"><u>Mondly Kids Treats Guide: Child Health Champion in 2017'S Top Apps</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-5-best-free-mov-video-joiners/"><u>New 2024 Approved 5 Best Free MOV Video Joiners</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/quick-methods-to-accelerate-playback-of-mp3-tracks-and-audio-books/"><u>Quick Methods to Accelerate Playback of MP3 Tracks and Audio Books</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/rapid-install-new-geforce-rtx-3080-ti-drivers-available-for-windows-operating-systems-win-10-8-7/"><u>Rapid Install: New GeForce RTX 3080 Ti Drivers Available for Windows Operating Systems (Win 10, 8, 7)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-hot-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Hot 30 5G</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamless-steps-successful-downloading-of-tunein-radio-app/"><u>Seamless Steps: Successful Downloading of TuneIn Radio App</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-creating-your-own-custom-calendar-in-microsoft-excel/"><u>Step-by-Step Guide: Creating Your Own Custom Calendar in Microsoft Excel</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/teamfight-tactics-unleashed-expert-tips-for-dominating-lols-strategic-game-mode/"><u>Teamfight Tactics Unleashed: Expert Tips for Dominating LoL's Strategic Game Mode</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-speak-and-record-iphone-voice-memo-basics/"><u>[Updated] Speak and Record IPhone Voice Memo Basics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-11-key-steps-for-perfect-color-grading-in-photography/"><u>2024 Approved 11 Key Steps for Perfect Color Grading in Photography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-brands-of-steadicams-for-professional-drones-in-film/"><u>2024 Approved Leading Brands of Steadicams for Professional Drones in Film</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/best-top-rated-photography-editors-for-showcasing-your-products/"><u>Best Top-Rated Photography Editors for Showcasing Your Products</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-efficiency-with-slack-mastering-the-apps-top-features-for-enhanced-workflow-zdnet/"><u>Boost Your Efficiency with Slack: Mastering the App's Top Features for Enhanced Workflow | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-v30t-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 7 Plus</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-hibernate-a-comprehensive-guide-for-windows-8-users/"><u>Mastering Hibernate: A Comprehensive Guide for Windows 8 Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/sims-4-immersion-how-to-record-successfully/"><u>Sims 4 Immersion How to Record Successfully</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-instructional-guide-to-navigating-and-utilizing-apowerrescue-features/"><u>Step-by-Step Instructional Guide to Navigating and Utilizing ApowerRescue Features</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-5-popular-white-backdrop-fashion-apps-your-ultimate-guide/"><u>Top 5 Popular White Backdrop Fashion Apps : Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-methods-for-seamless-photo-transfer-from-iphone-to-windows-11-without-using-itunes/"><u>Top Methods for Seamless Photo Transfer From iPhone to Windows 11 Without Using iTunes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-mystery-dark-web-vs-deep-web-simplified-insights-from-malwarefox/"><u>Unveiling the Mystery: Dark Web vs Deep Web Simplified - Insights From MalwareFox</u></a></li>
 </ul></div>
 

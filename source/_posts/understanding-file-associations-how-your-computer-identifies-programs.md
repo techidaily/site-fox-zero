@@ -1,7 +1,7 @@
 ---
 title: "Understanding File Associations: How Your Computer Identifies Programs"
-date: 2024-10-04T16:47:06.268Z
-updated: 2024-10-05T17:08:41.566Z
+date: 2024-10-10T00:54:44.329Z
+updated: 2024-10-10T21:29:15.440Z
 tags:
   - user-guide
 categories:
@@ -108,13 +108,6 @@ Table of Contents
 
 ## IFileAssociations
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IFileAssociations : IDispatch
@@ -124,10 +117,10 @@ IFileAssociations : IDispatch
 This interface is meant to manage file associations 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -144,6 +137,13 @@ Creates a new ProgId setup.
 **RemoveProgId(IProgIdFA ProgId)**   
 Removes a new ProgId setup. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Properties
 
 **Array<IDefaultProgramFA> DefaultPrograms**  
@@ -153,10 +153,10 @@ Gets the collection of default programs setups.
 Gets the collection of ProgId setups. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -173,10 +173,10 @@ $defaultProgrram.AddExtension($extension)
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -218,15 +218,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovate-your-images-video-enhancer-v22-workflow/"><u>[New] Innovate Your Images Video Enhancer V2.2 Workflow</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/eamless-internet-experience-try-these-7-best-android-apps/"><u>[New] Seamless Internet Experience? Try These 7 Best Android Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premier-list-of-affordable-virtual-meetings-and-live-desktop-sharing/"><u>[Updated] 2024 Approved Premier List of Affordable Virtual Meetings & Live Desktop Sharing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/15-types-of-camera-shots-in-film-beginners-need-to-know-for-2024/"><u>15 Types of Camera Shots in Film Beginners Need to Know for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-tutorial-seamless-synchronization-between-ios-devices-and-your-personal-laptop-for-enhanced-productivity/"><u>Complete Tutorial: Seamless Synchronization Between iOS Devices and Your Personal Laptop for Enhanced Productivity</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-itext-solutions-for-automatic-file-updates-and-creation/"><u>Effective iText Solutions for Automatic File Updates and Creation</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-roblox-experience-achieve-higher-fps-using-latest-techniques/"><u>Elevate Your Roblox Experience: Achieve Higher FPS Using Latest Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/explore-best-selections-for-youtube-ringtone-downloads/"><u>Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimizing-site-velocity-a-guide-to-enhanced-webpage-efficiency/"><u>Optimizing Site Velocity: A Guide to Enhanced Webpage Efficiency</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamless-video-transfer-from-iphone-to-your-samsung-galaxy-device/"><u>Seamless Video Transfer From iPhone to Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-proven-methods-to-perfectly-capture-iptv-broadcasts/"><u>[Updated] 2024 Approved Proven Methods to Perfectly Capture IPTV Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-maximizing-gaming-experience-record-games-on-win10/"><u>[Updated] Maximizing Gaming Experience Record Games on Win10</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-advanced-settings-for-ixml-configuration-files/"><u>1. Advanced Settings for iXML Configuration Files</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-guide-to-understanding-your-health-the-condition-section-explained/"><u>Easy Guide to Understanding Your Health: The Condition Section Explained</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-steps-to-remove-people-from-images-no-photoshop-needed/"><u>Easy Steps to Remove People From Images - No Photoshop Needed</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-xml-based-data-retrieval-options-a-deep-dive-into-advanced-search-attributes/"><u>Exploring XML-Based Data Retrieval Options: A Deep Dive Into Advanced Search Attributes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>In 2024, Blueprint for Buzz Elevating Your Profile on FB</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-the-use-of-environment-variables-on-your-webpage/"><u>Mastering the Use of Environment Variables on Your Webpage</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/select-folder-with-ease-mastering-the-folder-selection-dialog/"><u>Select Folder with Ease: Mastering the Folder Selection Dialog</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-batch-upgrading-mkv-videos-to-high-efficiency-mp4-streams/"><u>Step-by-Step Tutorial on Batch Upgrading MKV Videos to High Efficiency MP4 Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swift-solution-for-clownfish-vocal-alteration-on-pc-systems/"><u>Swift Solution for Clownfish Vocal Alteration on PC Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies-for-2024/"><u>The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-10-free-photoshop-alternatives-available-on-the-web/"><u>Top 10 Free Photoshop Alternatives Available on the Web</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722213116531-tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/user-friendly-file-selection-interface/"><u>User-Friendly File Selection Interface</u></a></li>
 </ul></div>
 

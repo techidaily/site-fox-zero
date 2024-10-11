@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Recording Individual Audio Tracks with a Single Mic"
-date: 2024-10-03T18:48:07.349Z
-updated: 2024-10-05T17:11:19.112Z
+date: 2024-10-06T22:12:48.542Z
+updated: 2024-10-10T18:32:58.048Z
 tags:
   - product
 categories:
@@ -47,22 +47,15 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introduction 
 
  With Action! you can easily record your microphone into separate audio file while recording game or your PC screen. This can be very useful if you would like to edit your commentary in 3rd party audio editing software.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Tutorial for Action! 3.x versions: 
 
@@ -75,16 +68,10 @@ Action Tutorials
 ![Mirillis Action! - Mic Settings popup](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_mic_settings_popup.jpg "Mic settings popup") 
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Tutorial for Action! 2.x versions: 
@@ -95,20 +82,27 @@ Action Tutorials
 
 ![Mirillis Action! - Hotkeys Settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_hotkeys.jpg "Hotkeys settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open Action! Audio Recording tab 
 
  Open Action! Audio Recording tab and select your microphone from **Audio device** dropdown.
 
 ![Select your microphone device](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_audio_settings.jpg "Selecting microphone device for recording") 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you would like to record any other device to separate audio file, please select appropriate device fromt the list. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Check Video recording tab settings
 
@@ -117,10 +111,10 @@ Action Tutorials
 ![Mirillis Action! - Microphone recording disabled](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_mic_separate_audio_track_video_tab.jpg "Microphone recording disabled") 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Video recording 
@@ -153,20 +147,15 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-covert-composition-of-private-recordings/"><u>[New] Covert Composition of Private Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[Updated] In 2024, High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-ten-lady-gamers-on-youtube-rising/"><u>[Updated] Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-speedy-methods-for-shrinking-your-pdf-documents/"><u>1. Speedy Methods for Shrinking Your PDF Documents</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic-5-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic 5 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/best-3-iphone-music-organizers-top-picks-for-seamless-tunes-management/"><u>Best 3 iPhone Music Organizers: Top Picks for Seamless Tunes Management</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/comprehensive-tutorial-on-xml-file-editing-and-settings-adjustment-tools/"><u>Comprehensive Tutorial on XML File Editing and Settings Adjustment Tools</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exe-details-configuration-panel/"><u>EXE Details Configuration Panel</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-8t-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 8T 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-top-iosandroid-apps-for-creative-photo-captions/"><u>In 2024, Top iOS/Android Apps for Creative Photo Captions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/key-approaches-to-elevate-handp-facebook-campaigns-for-2024/"><u>Key Approaches to Elevate H&P Facebook Campaigns for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/maximizing-your-experience-a-guide-to-understanding-the-sign-up-section/"><u>Maximizing Your Experience: A Guide to Understanding the Sign-Up Section</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-privacy-in-bespoke-gpt-scenarios/"><u>Protecting Privacy in Bespoke GPT Scenarios</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simple-strategies-for-seamlessly-mirroring-your-android-device-onto-an-ipad/"><u>Simple Strategies for Seamlessly Mirroring Your Android Device Onto an iPad</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/syncing-your-android-device-with-panasonic-tv-a-step-by-step-guide/"><u>Syncing Your Android Device with Panasonic TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-earths-richest-digital-content-wizard/"><u>[New] 2024 Approved Earth's Richest Digital Content Wizard</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-good-youtube-banner-dos-and-donts/"><u>[New] In 2024, How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-unveiling-the-secrets-of-editing-registry-values-a-comprehensive-guide/"><u>1. Unveiling the Secrets of Editing Registry Values: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-user-manual-mastering-apoweredit/"><u>Comprehensive User Manual: Mastering ApowerEdit</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-reducing-video-file-size-without-compromising-quality/"><u>Effective Strategies for Reducing Video File Size Without Compromising Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/google-translate-strategies-for-excellent-audio-to-text/"><u>Google Translate Strategies for Excellent Audio to Text</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x9a-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X9a Black and White | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-8-essential-concerns-surrounding-the-use-of-chatgpt-by-openai/"><u>The 8 Essential Concerns Surrounding the Use of ChatGPT by OpenAI</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-guide-catch-all-formula-e-races-without-costs-usa-edition/"><u>Ultimate Guide: Catch All Formula E Races Without Costs - USA Edition</u></a></li>
 </ul></div>
 

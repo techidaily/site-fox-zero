@@ -1,7 +1,7 @@
 ---
 title: 1. Advanced Settings for iXML Configuration Files
-date: 2024-09-29T17:36:42.868Z
-updated: 2024-10-05T17:03:22.917Z
+date: 2024-10-07T02:50:45.544Z
+updated: 2024-10-11T02:01:23.057Z
 tags:
   - user-guide
 categories:
@@ -114,10 +114,10 @@ Table of Contents
 This interface represents the XML file settings from Advanced Installer graphical interface.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -125,10 +125,10 @@ This interface represents the XML file settings from Advanced Installer graphica
 IXmlFileSettings : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -148,17 +148,23 @@ IXmlFileSettings : IDispatch
 ![Ixmlfilesettings](https://cdn.advancedinstaller.com/img/powershell-automation/ixmlfilesettings.png "Ixmlfilesettings")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -204,17 +210,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-next-level-vr-tools-top-8-selection/"><u>[Updated] In 2024, Next-Level VR Tools Top 8 Selection</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-revolutionary-capturing-best-5-cameras-for-slow-mo/"><u>[Updated] In 2024, Revolutionary Capturing Best 5 Cameras for Slow Mo</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-itops-expert-selection-best-windows-screencasters/"><u>[Updated] ITop's Expert Selection Best Windows Screencasters</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tailoring-your-youtube-videos-with-customized-text-and-link-embeddings/"><u>[Updated] Tailoring Your YouTube Videos with Customized Text & Link Embeddings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-14-pro-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 14 Pro? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/create-your-own-script-adding-a-batch-file-for-personalized-events/"><u>Create Your Own Script: Adding a Batch File for Personalized Events</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-deletion-on-ipads-the-ultimate-guide/"><u>Effortless Video Deletion on iPads: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/google-ditches-smartglasses-ambition-targets-expansive-xr-software-frontier-tech-news-on-zdnet/"><u>Google Ditches Smartglasses Ambition, Targets Expansive XR Software Frontier | Tech News on ZDNet</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/grouping-pages-effectively-a-guide-to-optimizing-user-interfaces/"><u>Grouping Pages Effectively: A Guide to Optimizing User Interfaces</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-enhancement-for-dells-2330d-and-2330dn-mono-laser-printing-units/"><u>Latest Firmware Enhancement for Dell's 2330D and 2330DN Mono Laser Printing Units</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-converting-spotify-streams-to-high-quality-mp3-with-the-best-free-tools-available/"><u>Step-by-Step Tutorial on Converting Spotify Streams to High-Quality MP3 with the Best Free Tools Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-inventory-of-facebook-video-ratios-for-2024/"><u>[New] Inventory of Facebook Video Ratios for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-film-like-a-pro-with-macbook-webcam-tutorial-for-2024/"><u>[Updated] Film Like a Pro with MacBook Webcam Tutorial for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-reducing-sound-interference-in-video-meetings/"><u>[Updated] In 2024, Reducing Sound Interference in Video Meetings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/easy-ways-to-edit-text-within-a-pdf-document-using-adobe-acrobat/"><u>Easy Ways to Edit Text Within a PDF Document Using Adobe Acrobat</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-sql-query-substitution-interfaces-enhancing-data-management/"><u>Effective SQL Query Substitution Interfaces: Enhancing Data Management</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-reducing-video-file-size-without-compromising-quality/"><u>Effective Strategies for Reducing Video File Size Without Compromising Quality</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortlessly-move-your-iphone-pictures-to-windows-11-pc-no-itunes-required/"><u>Effortlessly Move Your iPhone Pictures to Windows 11 PC - No iTunes Required!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-the-versatile-world-of-icomponents-in-software-design/"><u>Explore the Versatile World of IComponents in Software Design</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-complete-guide-to-lightroom/"><u>In 2024, Android's Complete Guide to Lightroom</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>In 2024, Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g04-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G04 Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-the-glitch-effect-shows-errors-and-flaws-in-the-image-or-a-video-the-write-up-presents-the-complete-procedure-of-adding-premiere-pros-glitch-eff/"><u>New In 2024, The Glitch Effect Shows Errors and Flaws in the Image or a Video. The Write-Up Presents the Complete Procedure of Adding Premiere Pros Glitch Effect and Introduces Eight Free Glitch Effects</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/protecting-your-email-a-five-step-guide-to-thwart-gmail-hackers-and-enhance-privacy-with-malwarefox-insights/"><u>Protecting Your Email: A Five-Step Guide to Thwart Gmail Hackers and Enhance Privacy with MalwareFox Insights</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-and-reliable-methods-for-iphone-picture-transfers-to-your-windows-10-system-no-need-for-itunes/"><u>Quick and Reliable Methods for iPhone Picture Transfers to Your Windows 10 System - No Need for iTunes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-selection-of-free-video-editing-tools-compatible-with-both-pc-and-mac-systems/"><u>Ultimate Selection of FREE Video Editing Tools Compatible with Both PC and Mac Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/zooming-into-better-visuals-implementing-video-effects-for-2024/"><u>Zooming Into Better Visuals Implementing Video Effects for 2024</u></a></li>
 </ul></div>
 

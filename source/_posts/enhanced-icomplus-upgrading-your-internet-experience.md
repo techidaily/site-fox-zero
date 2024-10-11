@@ -1,7 +1,7 @@
 ---
 title: "Enhanced IComPlus: Upgrading Your Internet Experience"
-date: 2024-09-29T18:29:52.403Z
-updated: 2024-10-05T20:10:07.080Z
+date: 2024-10-04T22:08:02.443Z
+updated: 2024-10-10T19:02:00.046Z
 tags:
   - user-guide
 categories:
@@ -114,22 +114,15 @@ Table of Contents
 
 ## IComPlus
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IComPlus: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -137,10 +130,10 @@ IComPlus: IDispatch
 This interface is meant to allow you to specify the information needed to register a COM+.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -149,6 +142,19 @@ This interface is meant to allow you to specify the information needed to regist
 
 **UINT Flags** \- Gets or sets the the flags used when the MSI file is created.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Methods
 
 **AddFile(IFile aFile)** \- Adds file to the collection of COM+'s files.
@@ -156,10 +162,10 @@ This interface is meant to allow you to specify the information needed to regist
 **RemoveFile(IFile aFile)** \- Removes file from the collection of COM+'s files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -199,19 +205,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-rhythm-revivers-10-androidios-audio-challengers/"><u>[New] 2024 Approved Rhythm Revivers 10 Android/iOS Audio Challengers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unraveling-the-magic-of-mixed-reality/"><u>[New] Unraveling the Magic of Mixed Reality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>[Updated] In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/effortless-preservation-of-your-loved-instagram-reels-for-2024/"><u>Effortless Preservation of Your Loved Instagram Reels for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-huawei-nova-y71-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Huawei Nova Y71 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/o-youtube-how-to-skip-the-top-8-common-errors-on-your-platform-journey-for-2024/"><u>New to YouTube How to Skip the Top 8 Common Errors on Your Platform Journey for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/pornhubs-safety-navigating-adult-content-without-risk-a-comprehensive-guide/"><u>Pornhub's Safety: Navigating Adult Content Without Risk – A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/protecting-information-on-dropbox-can-it-withstand-hacks-and-ransomware-attacks/"><u>Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simple-methods-for-effective-audio-speed-reduction/"><u>Simple Methods for Effective Audio Speed Reduction</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-power-manager-why-cant-it-access-contacts-and-messages-in-ios/"><u>Troubleshooting Power Manager: Why Can't It Access Contacts and Messages in iOS?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-list-of-the-best-4k-screencast-software-on-desktop-pcs/"><u>Ultimate List of the Best 4K Screencast Software on Desktop PCs</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-secrets-of-iregistryvalue-a-comprehensive-guide-to-its-usage-in-programming/"><u>Unveiling the Secrets of IRegistryValue - A Comprehensive Guide to Its Usage in Programming</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-note-30-vip-racing-edition-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Note 30 VIP Racing Edition? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-maximizing-impact-strategies-for-going-viral-on-instagram-for-2024/"><u>[New] Maximizing Impact Strategies for Going Viral on Instagram for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>[Updated] Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[Updated] Staying Legal in the Digital Space YouTube's Copyright Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-primeplay-videoapp-inspection/"><u>2024 Approved PrimePlay VideoApp Inspection</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/breaking-up-with-facebook-a-comprehensive-malwarefox-method-for-a-clean-break/"><u>Breaking Up With Facebook: A Comprehensive MalwareFox Method for a Clean Break</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/discover-your-ideal-drawing-tool-chromebooks-finest-list-for-2024/"><u>Discover Your Ideal Drawing Tool Chromebook's Finest List for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficiently-taking-screenshots-of-tweets-for-reference-and-evidence/"><u>Efficiently Taking Screenshots of Tweets for Reference and Evidence</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-play-7t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor Play 7T Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-6-tools-to-remove-signature-backgrounds-effortlessly/"><u>In 2024, Prime 6 Tools to Remove Signature Backgrounds Effortlessly</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/seamless-steps-successful-downloading-of-tunein-radio-app/"><u>Seamless Steps: Successful Downloading of TuneIn Radio App</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-creating-your-own-custom-calendar-in-microsoft-excel/"><u>Step-by-Step Guide: Creating Your Own Custom Calendar in Microsoft Excel</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/teamfight-tactics-unleashed-expert-tips-for-dominating-lols-strategic-game-mode/"><u>Teamfight Tactics Unleashed: Expert Tips for Dominating LoL's Strategic Game Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-safe-and-secure-email-providers/"><u>Top 5 Safe and Secure Email Providers</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-application-space-allocation-on-pcs/"><u>Understanding Application Space Allocation on PCs</u></a></li>
 </ul></div>
 
