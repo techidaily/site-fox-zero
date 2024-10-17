@@ -1,7 +1,7 @@
 ---
 title: 如何自由且免費進行Windows中CF卡克隆 - 10/8/7版本指南
-date: 2024-10-03T21:22:43.048Z
-updated: 2024-10-10T18:28:27.518Z
+date: 2024-10-14T03:26:17.254Z
+updated: 2024-10-16T20:04:27.201Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3a3db1628b8f2814d2040ecfe00634d164ea4b5f3058a85b825026993cb96502.jpg
@@ -42,13 +42,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -58,10 +51,10 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About winload.efi file
@@ -104,20 +97,34 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -133,29 +140,9 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -168,13 +155,6 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -242,6 +222,13 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -261,10 +248,10 @@ You just need to download this software and install it. Open it and navigate to 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -304,10 +291,10 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -317,6 +304,13 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -335,18 +329,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-deciphering-numbers-an-introduction-to-facebook-insight-for-2024/"><u>[New] Deciphering Numbers An Introduction to Facebook Insight for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-screen-capture-tools-explored-apowersoft-and-others-compared/"><u>[New] Top Screen Capture Tools Explored - Apowersoft and Others Compared</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-chic-looks-the-ultimate-cosmetic-compendium/"><u>[Updated] 2024 Approved Crafting Chic Looks The Ultimate Cosmetic Compendium</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screenrec-for-lactops-your-step-by-step-guide/"><u>[Updated] In 2024, ScreenRec for Lactops Your Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-showtime-anywhere-episodes-in-multiple-formats-mp4-mov-avi/"><u>Download Showtime Anywhere Episodes in Multiple Formats: MP4, MOV, AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-videos-from-kelby-training-course-professional-learning-software/"><u>Download Videos From Kelby Training Course - Professional Learning Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-your-favorite-cartoons-in-high-quality-how-to-convert-and-save-from-kimcartoon-as-mp4-or-avi/"><u>Download Your Favorite Cartoons in High Quality: How to Convert & Save From KIMCartoon as MP4 or AVI</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/downloading-gamespot-content-how-to-convert-trailers-and-gameplays-into-mp4-or-avi-formats/"><u>Downloading GameSpot Content: How to Convert Trailers and Gameplays Into MP4 or AVI Formats</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/efficient-multi-format-downloaders-transform-f4m-files-into-mp4-avi-etc/"><u>Efficient Multi-Format Downloaders: Transform F4M Files Into MP4, AVI, Etc.</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effortless-video-retrieval-streamline-your-downloads-from-vidzitv-with-our-cross-platform-mac-and-pc-guide/"><u>Effortless Video Retrieval: Streamline Your Downloads From Vidzi.tv with Our Cross-Platform Mac & PC Guide!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/galaxy-evolution-benchmarking-s24-ultra-against-its-predecessor-the-s23-ultra/"><u>Galaxy Evolution: Benchmarking S24 Ultra Against Its Predecessor, the S23 Ultra</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-much-money-can-you-score-with-youtube-short-videos-in-2024/"><u>How Much Money Can You Score with YouTube Short Videos, In 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-text-generator/"><u>What Is an AI Text Generator?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-5-excellent-gaming-keyboards-within-a-100-budget/"><u>[New] 2024 Approved 5 Excellent Gaming Keyboards Within a $100 Budget</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-best-of-the-best-curated-list-of-spectacular-offline-ios-titles/"><u>[New] 2024 Approved Best of the Best Curated List of Spectacular Offline iOS Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimize-content-collaboration-in-youtube-for-increased-engagement/"><u>[New] 2024 Approved Optimize Content Collaboration in YouTube for Increased Engagement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views/"><u>[New] 2024 Approved Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-eluding-digital-footprints-while-enjoying-instagram-stories-online/"><u>[Updated] 2024 Approved Eluding Digital Footprints While Enjoying Instagram Stories Online</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/5-samsung/"><u>5効果的な解決策: Samsungデータ移行の速度を改善する</u></a></li>
+<li><a href="https://win11.techidaily.com/7-common-concerns-against-moving-to-windows-11/"><u>7 Common Concerns Against Moving to Windows 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/como-copiar-la-tabla-mbr-entre-discos-diferentes-incluidos-ssd-y-usb-en-sistema-operativo-windows/"><u>Cómo Copiar La Tabla MBR Entre Discos Diferentes, Incluidos SSD Y USB, en Sistema Operativo Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/erstellen-sie-ihre-datenbestande-sichern-professionelle-tipps-fur-den-einsatz-von-aomei-centralized-backupper/"><u>Erstellen Sie Ihre Datenbestände Sichern: Professionelle Tipps Für Den Einsatz Von AOMEI Centralized Backupper</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-the-power-of-luts-color-grading-made-easy-in-pro/"><u>Exploring the Power of LUTs Color Grading Made Easy in Pro</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fehlermeldung-gelost-neueiphone-kontaktubertragung-fehlt-problemlosungsanleitungen/"><u>Fehlermeldung Gelöst: Neueiphone-Kontaktübertragung Fehlt – Problemlösungsanleitungen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keeping-cool-under-pressure-easy-ways-to-check-your-cpus-temperature-in-windows-11/"><u>Keeping Cool Under Pressure: Easy Ways to Check Your CPU's Temperature in Windows 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/onedrivepc2/"><u>OneDriveを使ってPC2台間でスムーズなファイル同期 - 手軽ガイド</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerhouse-performance-assessment-of-alienware-aurora-r7-a-high-cost-high-value-gaming-pc/"><u>Powerhouse Performance Assessment of Alienware Aurora R7: A High-Cost, High-Value Gaming PC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quick-guide-resolving-roblox-error-279-without-hitches/"><u>Quick Guide: Resolving Roblox Error 279 Without Hitches</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/retrieve-your-lost-memories-top-4-free-methods-for-restoring-deleted-pictures-on-facebook/"><u>Retrieve Your Lost Memories: Top 4 Free Methods for Restoring Deleted Pictures on Facebook</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/robocopy-strategies-pour-le-mode-de-preservation-des-fichiers-tutoriel-complet-et-methodes-substituts/"><u>Robocopy : Stratégies Pour Le Mode De Préservation Des Fichiers – Tutoriel Complet Et Méthodes Substituts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-guide-restoring-deleted-files-in-sharepoint-before-theyre-overwritten/"><u>Simple Guide: Restoring Deleted Files in SharePoint Before They're Overwritten</u></a></li>
 </ul></div>
 
