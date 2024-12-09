@@ -1,7 +1,7 @@
 ---
 title: "Part Two of Our Visual Evolution Series: Mastering Dex 3 and LYRX's Advanced Shaders for Pro-Level Mixes"
-date: 2024-11-26T19:08:37.948Z
-updated: 2024-11-30T19:38:02.596Z
+date: 2024-12-06T01:39:34.770Z
+updated: 2024-12-08T22:41:02.184Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,19 +110,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-tips-for-adding-captions-and-text-in-microsoft-photos-app/"><u>[New] 2024 Approved Essential Tips for Adding Captions & Text in Microsoft Photos App</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-elite-meme-conceptualization-tools/"><u>[Updated] 2024 Approved Elite Meme Conceptualization Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-save-and-share-mastering-playstation-4-recordings-for-2024/"><u>[Updated] Capture, Save & Share Mastering PlayStation 4 Recordings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-underwater-photographys-leading-seven-cams/"><u>[Updated] Underwater Photography's Leading Seven Cams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726223412593-dng-jpeg-movavi/"><u>網路直接免費 DNG-JPEG 轉換 - 使用 Movavi 編輯工具</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Blaze 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-digital-canvas-unveiled-top-8-ipados-creators-choice/"><u>In 2024, Digital Canvas Unveiled Top 8 iPadOS Creators' Choice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 12 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/installare-una-gui-iso-di-windows-10-per-uefi-con-metodi-semplici-e-sicuri/"><u>Installare Una GUI ISO Di Windows 10 per UEFI Con Metodi Semplici E Sicuri</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/soporte-cruzado-de-desempeno-en-la-informatica-respaldo-e-instalacion-multi-hardware-por-aomei-backupper/"><u>Soporte Cruzado De Desempeño en La Informática: Respaldo E Instalación Multi-Hardware Por AOMEI Backupper</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-transferring-iphone-data-to-your-computer-without-using-itunes/"><u>Step-by-Step Guide: Transferring iPhone Data to Your Computer Without Using iTunes</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/try-aomei-backupper-for-free-with-30-day-test-version-secure-your-files-without-costs/"><u>Try AOMEI Backupper for Free with 30-Day Test Version - Secure Your Files Without Costs</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/two-effective-methods-to-backup-your-cpanel-email-accounts-plus-an-added-option/"><u>Two Effective Methods to Backup Your cPanel Email Accounts – Plus an Added Option!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windows-10-dell/"><u>Windows 10のリカバリーパーティション作成説明: Dell機にて手順集</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-timelapse-recording-via-ipad/"><u>[Updated] 2024 Approved Efficient Timelapse Recording via iPad</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-achieve-synchronicity-with-your-browser-and-fbs-autoplay-feature/"><u>2024 Approved Achieve Synchronicity with Your Browser and FB's Autoplay Feature</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhancing-connection-speeds-should-you-update-your-network-card-yl-computing-expert-analysis/"><u>Enhancing Connection Speeds: Should You Update Your Network Card? [YL Computing Expert Analysis]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-neo-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/is-the-malware-removal-tool-part-of-windows-defender-protection-suite-insights-by-yl-computing/"><u>Is the Malware Removal Tool Part of Windows Defender Protection Suite? - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revealing-the-celestial-spectacle-top-hdr-sky-sites-ranking-for-2024/"><u>Revealing the Celestial Spectacle - Top HDR Sky Sites Ranking for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-star-citizen-no-longer-crashing-on-your-windows-pc/"><u>Troubleshooting Success: Star Citizen No Longer Crashing on Your Windows PC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-your-ultimate-singing-experience-subscribe-for-exclusive-access-to-pcdjs-newest-karaoke-collection-party-tyme-steam-and-download/"><u>Unlock Your Ultimate Singing Experience! Subscribe for Exclusive Access to PCDJ's Newest Karaoke Collection | Party Tyme, Steam & Download</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-gpt-vs-bert-a-comprehensive-guide/"><u>Unveiling the Distinctions: GPT Vs. BERT - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgraded-noctua-nh-d15-g2-enhanced-silence-and-efficiency-with-additional-heatpipes/"><u>Upgraded Noctua NH-D15 G2: Enhanced Silence and Efficiency with Additional Heatpipes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-parent-friendly-settings-installation-a-step-by-step-course-with-yl-software-insights/"><u>Windows Parent-Friendly Settings Installation: A Step-by-Step Course with YL Software Insights</u></a></li>
 </ul></div>
 

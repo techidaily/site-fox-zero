@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2024-11-27T19:37:51.383Z
-updated: 2024-11-30T16:11:15.287Z
+date: 2024-12-03T23:00:33.674Z
+updated: 2024-12-08T18:50:33.938Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,16 +78,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-capture-flawless-underwater-images-easily-in-7-steps-for-2024/"><u>[Updated] Capture Flawless Underwater Images Easily in 7 Steps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exporting-and-sharing-made-easy-4-must-have-apps-for-chatgpt-conversation-management/"><u>Exporting & Sharing Made Easy: 4 Must-Have Apps for ChatGPT Conversation Management</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nhl-19-review/"><u>NHL 19 Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rectifying-taskbar-icon-anomalies/"><u>Rectifying Taskbar Icon Anomalies</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/singsnap-your-all-in-one-musicvideo-downloader-for-multiple-file-types-including-mp4-avi-wmv/"><u>SingSnap: Your All-in-One Music/Video Downloader for Multiple File Types Including MP4, AVI, WMV</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/tasty-tales-ideal-naming-for-culinary-broadcasts-for-2024/"><u>Tasty Tales Ideal Naming for Culinary Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-5-superior-alternatives-to-4k-video-downloader-for-macos-and-windows-users/"><u>Top 5 Superior Alternatives to 4K Video Downloader for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-allavsoft-replacement-ideal-for-both-mac-and-windows/"><u>Top Allavsoft Replacement: Ideal for Both Mac & Windows</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transform-it-course-footage-from-ehacking-into-compatible-mp4-and-avi-files-for-easy-downloads/"><u>Transform IT Course Footage From eHacking Into Compatible MP4 and AVI Files for Easy Downloads</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-tips-for-when-spotifydownload-fails-on-your-computer-or-laptop/"><u>Troubleshooting Tips for When SpotifyDownload Fails on Your Computer or Laptop</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-file-deletion-solution-stellar-mac-edition-version-5-with-auto-erase-schedule-feature/"><u>Ultimate File Deletion Solution: Stellar Mac Edition, Version 5 with Auto-Erase Schedule Feature</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-high-impact-workout-videos-that-engage-and-energize-audiences-for-2024/"><u>[New] 7 High-Impact Workout Videos That Engage and Energize Audiences for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[New] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[New] In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-ios-resources-for-enjoying-psp-games/"><u>[Updated] In 2024, Essential iOS Resources for Enjoying PSP Games</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/boost-your-computers-efficiency-post-hardware-enhancements-expert-advice-from-yl-computing/"><u>Boost Your Computer's Efficiency Post-Hardware Enhancements: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-the-cybersecurity-capabilities-of-windows-defender-against-viruses-and-online-menaces/"><u>Exploring the Cybersecurity Capabilities of Windows Defender Against Viruses and Online Menaces</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/navigating-to-power-management-options-in-your-systems-control-panel-a-guide-by-yl-computing/"><u>Navigating to Power Management Options in Your System's Control Panel: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/relish-free-movie-playback-pc-and-mac-style-for-2024/"><u>Relish Free Movie Playback, PC & Mac Style for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/solving-the-problem-of-a-non-bootable-pc-expert-advice-from-yl-computing/"><u>Solving the Problem of a Non-Bootable PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/stop-the-loop-overcome-your-windows-11-restart-cycles-with-these-5-remedies-after-updating/"><u>Stop the Loop - Overcome Your Windows 11 Restart Cycles with These 5 Remedies After Updating</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-a2plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi A2+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlock-your-voice-with-our-expanded-karaoke-selection-celebrate-fifty-song-friday-and-elevate-your-home-concerts/"><u>Unlock Your Voice with Our Expanded Karaoke Selection - Celebrate 'Fifty-Song-Friday' And Elevate Your Home Concerts!</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/wie-man-daten-sichert-uberblick-uber-den-datentragerwechselschutz-in-windows-betriebssystemen-111087/"><u>Wie Man Daten Sichert: Überblick Über Den Datenträgerwechselschutz in Windows Betriebssystemen (11/10/8/7)</u></a></li>
 </ul></div>
 
