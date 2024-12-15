@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2024-12-03T23:00:33.674Z
-updated: 2024-12-08T18:50:33.938Z
+date: 2024-12-12T02:14:59.126Z
+updated: 2024-12-14T22:17:19.097Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,18 +78,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-high-impact-workout-videos-that-engage-and-energize-audiences-for-2024/"><u>[New] 7 High-Impact Workout Videos That Engage and Energize Audiences for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-exclusive-list-of-premium-online-and-desktop-gif-makers-for-2024/"><u>[New] Exclusive List of Premium Online & Desktop GIF Makers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-conquer-profits-on-the-go-youtube-studio-monetization-explained/"><u>[New] In 2024, Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-ios-resources-for-enjoying-psp-games/"><u>[Updated] In 2024, Essential iOS Resources for Enjoying PSP Games</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/boost-your-computers-efficiency-post-hardware-enhancements-expert-advice-from-yl-computing/"><u>Boost Your Computer's Efficiency Post-Hardware Enhancements: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-the-cybersecurity-capabilities-of-windows-defender-against-viruses-and-online-menaces/"><u>Exploring the Cybersecurity Capabilities of Windows Defender Against Viruses and Online Menaces</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/navigating-to-power-management-options-in-your-systems-control-panel-a-guide-by-yl-computing/"><u>Navigating to Power Management Options in Your System's Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/relish-free-movie-playback-pc-and-mac-style-for-2024/"><u>Relish Free Movie Playback, PC & Mac Style for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/solving-the-problem-of-a-non-bootable-pc-expert-advice-from-yl-computing/"><u>Solving the Problem of a Non-Bootable PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/stop-the-loop-overcome-your-windows-11-restart-cycles-with-these-5-remedies-after-updating/"><u>Stop the Loop - Overcome Your Windows 11 Restart Cycles with These 5 Remedies After Updating</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-a2plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi A2+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlock-your-voice-with-our-expanded-karaoke-selection-celebrate-fifty-song-friday-and-elevate-your-home-concerts/"><u>Unlock Your Voice with Our Expanded Karaoke Selection - Celebrate 'Fifty-Song-Friday' And Elevate Your Home Concerts!</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/wie-man-daten-sichert-uberblick-uber-den-datentragerwechselschutz-in-windows-betriebssystemen-111087/"><u>Wie Man Daten Sichert: Überblick Über Den Datenträgerwechselschutz in Windows Betriebssystemen (11/10/8/7)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-legalities-in-sharing-musical-works/"><u>[New] Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-joyous-film-loader-assessment/"><u>[Updated] In 2024, Joyous Film Loader Assessment</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/anger-explodes-as-japan-releases-fukushima-tainted-water-chinese-calls-to-avoid-japanese-merchandise-and-stock-up-on-supplies-analysis-from-yl-software-solu5/"><u>Anger Explodes as Japan Releases Fukushima-Tainted Water; Chinese Calls to Avoid Japanese Merchandise and Stock Up on Supplies – Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/create-spooky-vibes-with-the-ultimate-halloween-music-selection-on-tidal/"><u>Create Spooky Vibes with the Ultimate Halloween Music Selection on Tidal</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/high-definition-acrylic-wallpaper-designs-and-imagery-by-yl-computing-your-ultimate-digital-canvas/"><u>High-Definition Acrylic Wallpaper Designs & Imagery by YL Computing - Your Ultimate Digital Canvas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nubia Red Magic 8S Pro+?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/is-your-pc-protected-from-ransomware-with-windows-defender-discover-how-tips-and-insights-by-yl-computing/"><u>Is Your PC Protected From Ransomware with Windows Defender? Discover How - Tips & Insights by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/locating-target-files-in-windows-explorer-a-step-by-step-guide-yl-computing-tips/"><u>Locating Target Files in Windows Explorer: A Step-by-Step Guide - YL Computing Tips</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-dailymotion-video-converter/"><u>New In 2024, Top-Rated Free Dailymotion Video Converter</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimize-your-display-clarity-with-simple-steps-by-yl-software-solutions/"><u>Optimize Your Display Clarity with Simple Steps by YL Software Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/overcoming-obstacles-in-device-recognition-tackling-new-hard-drive-installation-issues-with-yl-software/"><u>Overcoming Obstacles in Device Recognition: Tackling New Hard Drive Installation Issues with YL Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/stunning-audi-a3-2019-hd-wallpaper-collection-high-resolution-backgrounds-and-inspiring-photo-gallery/"><u>Stunning Audi A3 2019 HD Wallpaper Collection: High-Resolution Backgrounds and Inspiring Photo Gallery</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-a-health-monitoring-wristband/"><u>Top 5 Essential Factors to Evaluate When Shopping for a Health Monitoring Wristband</u></a></li>
 </ul></div>
 

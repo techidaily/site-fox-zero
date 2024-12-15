@@ -1,7 +1,7 @@
 ---
 title: "Pioneers of Chinese Currency: The Introduction of Paper Money in the 10Th Century"
-date: 2024-12-02T21:11:48.401Z
-updated: 2024-12-08T17:28:45.628Z
+date: 2024-12-12T19:31:18.442Z
+updated: 2024-12-15T02:56:19.429Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>[New] Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-editors-arsenal-advanced-techniques-in-chromatic-tuning/"><u>[Updated] 2024 Approved The Editor's Arsenal Advanced Techniques in Chromatic Tuning</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-game-day-to-hollywood-sports-video-success-story/"><u>[Updated] From Game Day to Hollywood Sports Video Success Story</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-stream-to-screen-how-to-download-youtube-on-iphoneipad/"><u>[Updated] In 2024, From Stream to Screen How to Download Youtube on iPhone/iPad</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-ultimate-collection-of-high-resolution-wallpapers-and-desktop-backgrounds-yl-computings-premium-visual-library/"><u>1. Ultimate Collection of High-Resolution Wallpapers & Desktop Backgrounds - YL Computing's Premium Visual Library</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-motorola-moto-e13-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Motorola Moto E13 FRP Bypass Instantly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players-for-2024/"><u>Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-moto-g34-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Moto G34 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-poetic-craft-using-chatgpt-wisdom/"><u>Elevate Your Poetic Craft Using ChatGPT Wisdom</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/end-monitor-fluctuation-issues-with-these-simple-tips-from-yl-software-pros/"><u>End Monitor Fluctuation Issues with These Simple Tips From YL Software Pros</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-varied-landscapes-in-digital-currency-how-each-type-stacks-up-guided-by-yl-technology-solutions/"><u>Exploring Varied Landscapes in Digital Currency: How Each Type Stacks Up - Guided by YL Technology Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-can-switching-to-a-solid-state-drive-accelerate-your-computers-speed/"><u>How Can Switching to a Solid-State Drive Accelerate Your Computer's Speed?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-properly-uninstall-apps-on-windows-a-comprehensive-guide-by-yl-computing/"><u>How to Properly Uninstall Apps on Windows: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/is-my-graphics-card-suitable-for-my-computer-detailed-steps-by-tech-experts-at-yl-computing/"><u>Is My Graphics Card Suitable for My Computer? Detailed Steps by Tech Experts at YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/serene-meditation-scenes-inspiring-desktops-walls-and-screenscapes-by-yl-computings-artistic-library/"><u>Serene Meditation Scenes: Inspiring Desktops, Walls & Screenscapes by YL Computing's Artistic Library</u></a></li>
-<li><a href="https://fox-within.techidaily.com/trovata-la-chiave-per-riavere-indietro-le-tue-file-perduti-in-windows-11-segui-questi-passaggi/"><u>Trovata La Chiave per Riavere Indietro Le Tue File Perduti in Windows 11 - Segui Questi Passaggi!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unraveling-malware-species-with-expertise-from-yl-software/"><u>Unraveling Malware Species with Expertise From YL Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>[New] 2024 Approved Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-go-viral-or-not-at-all-mobile-live-streaming-without-millions-of-subscribers-for-2024/"><u>[New] Go Viral or Not at All Mobile Live-Streaming Without Millions of Subscribers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/upercharge-your-content-key-seo-elements-for-youtube-for-2024/"><u>[New] Supercharge Your Content Key SEO Elements for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capturing-moments-expert-tips-on-downloading-social-media-lives/"><u>[Updated] 2024 Approved Capturing Moments Expert Tips on Downloading Social Media Lives</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-brand-visibility-boosted-by-instagram-photowatermarking-for-2024/"><u>[Updated] Brand Visibility Boosted by Instagram Photowatermarking for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/h265-hevc4k8k/"><u>无限量提取H.265 HEVC编解码器：确保优雅播放4k和8k影片内容</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed-for-2024/"><u>Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/detecting-bad-ram-in-your-computer-tips-and-tricks-from-yl-systems-analysis/"><u>Detecting Bad RAM in Your Computer: Tips and Tricks From YL Systems Analysis</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-identify-warning-signs-of-memory-problems-expert-advice-by-yl-software/"><u>How To Identify Warning Signs Of Memory Problems - Expert Advice by YL Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immerse-in-world-heritage-through-vr/"><u>Immerse in World Heritage Through VR</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-break-the-synergy-onedrive-and-microsoft-profile-split/"><u>Learn to Break the Synergy: OneDrive and Microsoft Profile Split</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-navigating-to-windows-control-panel-options-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Control Panel Options - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/stunning-female-portraits-collection-for-full-screen-hd-backgrounds-professional-imagery-from-yl-computings-image-library/"><u>Stunning Female Portraits Collection for Full Screen HD Backgrounds | Professional Imagery From YL Computing's Image Library</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/the-legacy-of-drugs-in-diplomacy-exploring-how-the-chinese-opium-wars-shaped-history-educational-perspectives-from-yl-systems/"><u>The Legacy of Drugs in Diplomacy: Exploring How the Chinese Opium Wars Shaped History - Educational Perspectives From YL Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/uncovering-installed-programs-expert-tips-for-navigating-through-the-control-panel-yl-solutions/"><u>Uncovering Installed Programs: Expert Tips for Navigating Through the Control Panel - YL Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-role-of-computer-systems-registries-a-deep-dive-by-yl-computing/"><u>Unveiling the Role of Computer Systems Registries: A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

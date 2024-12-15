@@ -1,7 +1,7 @@
 ---
 title: "Part Two of Our Visual Evolution Series: Mastering Dex 3 and LYRX's Advanced Shaders for Pro-Level Mixes"
-date: 2024-12-06T01:39:34.770Z
-updated: 2024-12-08T22:41:02.184Z
+date: 2024-12-12T01:33:35.776Z
+updated: 2024-12-15T00:37:43.643Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,17 +110,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-efficient-timelapse-recording-via-ipad/"><u>[Updated] 2024 Approved Efficient Timelapse Recording via iPad</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-achieve-synchronicity-with-your-browser-and-fbs-autoplay-feature/"><u>2024 Approved Achieve Synchronicity with Your Browser and FB's Autoplay Feature</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-moto-g-stylus-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhancing-connection-speeds-should-you-update-your-network-card-yl-computing-expert-analysis/"><u>Enhancing Connection Speeds: Should You Update Your Network Card? [YL Computing Expert Analysis]</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-neo-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Neo Device</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/is-the-malware-removal-tool-part-of-windows-defender-protection-suite-insights-by-yl-computing/"><u>Is the Malware Removal Tool Part of Windows Defender Protection Suite? - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revealing-the-celestial-spectacle-top-hdr-sky-sites-ranking-for-2024/"><u>Revealing the Celestial Spectacle - Top HDR Sky Sites Ranking for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-success-star-citizen-no-longer-crashing-on-your-windows-pc/"><u>Troubleshooting Success: Star Citizen No Longer Crashing on Your Windows PC</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlock-your-ultimate-singing-experience-subscribe-for-exclusive-access-to-pcdjs-newest-karaoke-collection-party-tyme-steam-and-download/"><u>Unlock Your Ultimate Singing Experience! Subscribe for Exclusive Access to PCDJ's Newest Karaoke Collection | Party Tyme, Steam & Download</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-distinctions-gpt-vs-bert-a-comprehensive-guide/"><u>Unveiling the Distinctions: GPT Vs. BERT - A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgraded-noctua-nh-d15-g2-enhanced-silence-and-efficiency-with-additional-heatpipes/"><u>Upgraded Noctua NH-D15 G2: Enhanced Silence and Efficiency with Additional Heatpipes</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windows-parent-friendly-settings-installation-a-step-by-step-course-with-yl-software-insights/"><u>Windows Parent-Friendly Settings Installation: A Step-by-Step Course with YL Software Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-video-chatting-techniques-a-complete-resource/"><u>[New] 2024 Approved Instagram’s Video Chatting Techniques A Complete Resource</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-breakdown-chilled-delights-on-your-screen/"><u>[New] Detailed Breakdown Chilled Delights on Your Screen</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deciphering-the-codex-of-meta-and-omni-worlds/"><u>2024 Approved Deciphering the Codex of Meta and Omni Worlds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/detecting-bots-amongst-your-brands-facebook-supporters/"><u>Detecting Bots Amongst Your Brand's Facebook Supporters</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-visual-delights-a-review-of-the-kobo-clara-colour-e-reader/"><u>Exploring the Visual Delights: A Review of the Kobo Clara Colour E-Reader</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fix-your-hardware-issues-what-to-do-when-your-input-devices-fail-according-to-yl-software-solutions/"><u>Fix Your Hardware Issues: What to Do When Your Input Devices Fail, According to YL Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/key-events-defining-chinas-cultural-revolution-an-in-depth-analysis-by-yl-computing/"><u>Key Events Defining China's Cultural Revolution: An In-Depth Analysis - By YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/pcdj-unveils-latest-update-to-enhance-karaoke-experience-with-state-of-the-art-features/"><u>PCDJ Unveils Latest Update to Enhance Karaoke Experience with State-of-the-Art Features</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/riding-the-bull-and-bear-of-gold-prices-essential-considerations-for-smart-purchases-advice-by-yl-software/"><u>Riding the Bull and Bear of Gold Prices? Essential Considerations for Smart Purchases – Advice by YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-complimentary-ai-applications-enhancing-email-creation-with-chatgpt-and-organizing-messages-efficiently/"><u>Top 5 Complimentary AI Applications: Enhancing Email Creation with ChatGPT and Organizing Messages Efficiently</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-guide-how-to-fix-ram-issues-effectively-expert-tips-by-yl-computing/"><u>Troubleshooting Guide: How to Fix RAM Issues Effectively - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-your-computers-temperature-control-a-guide-from-yl-computing-and-yl-software/"><u>Understanding Your Computer’s Temperature Control - A Guide From YL Computing and YL Software</u></a></li>
 </ul></div>
 

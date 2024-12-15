@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2024-12-02T19:05:42.104Z
-updated: 2024-12-08T18:36:46.940Z
+date: 2024-12-14T02:21:56.087Z
+updated: 2024-12-14T23:07:57.672Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,18 +59,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-into-a-tiktok-realm-a-guide-for-joining-lives/"><u>[New] Step Into a TikTok Realm A Guide for Joining Lives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-secrets-to-keeping-online-interactions-safe/"><u>[Updated] In 2024, Secrets to Keeping Online Interactions Safe</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>[Updated] In 2024, Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-partner-program-2024-how-to-join-and-monetize-your-channel/"><u>[Updated] YouTube Partner Program 2024 How to Join and Monetize Your Channel</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/cpu-showdown-intelligence-assessment-of-intel-versus-amd-offerings/"><u>CPU Showdown: Intelligence Assessment of Intel versus AMD Offerings</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/exciting-development-from-stellar-as-they-launch-user-friendly-version-of-their-popular-recovery-software/"><u>Exciting Development From Stellar as They Launch User-Friendly Version of Their Popular Recovery Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-s18-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo S18 Face Lock?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-definition-artificial-flower-wallpaper-collection-premium-backgrounds-and-decorative-images-yl-design-suite/"><u>High-Definition Artificial Flower Wallpaper Collection: Premium Backgrounds & Decorative Images - YL Design Suite</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Phone Network-Ready</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/restoring-access-to-data-on-a-secured-drive-expert-tips-from-yl-computings-guide/"><u>Restoring Access to Data on a Secured Drive: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-trending-digital-assets-unveiling-the-leading-cryptocurrencies-insights-from-yl-computing/"><u>Top Trending Digital Assets: Unveiling the Leading Cryptocurrencies - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlock-the-ultimate-singing-experience-exclusive-karaoke-selection-from-party-tyme-may-5th-2019-subscription/"><u>Unlock the Ultimate Singing Experience: Exclusive Karaoke Selection From Party Tyme - May 5Th, 2019 Subscription</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-newest-songbookdb-tools-pro-tips-for-your-next-dj-session/"><u>Unveiling the Newest SongBookDB Tools: Pro Tips For Your Next DJ Session</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-direct-to-device-converting-youtube-tracks-for-idevices/"><u>[New] 2024 Approved Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-mac-screen-snapper-free/"><u>[New] In 2024, Exclusive Mac Screen Snapper - Free</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-complete-kinetics-exploration/"><u>[Updated] 2024 Approved Complete Kinetics Exploration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-minimal-time-maximum-effect/"><u>[Updated] 2024 Approved Minimal Time, Maximum Effect</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-perfecting-fbs-360-streams-for-2024/"><u>[Updated] Step-by-Step Perfecting FB's 360 Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-manual-for-earning-facebooks-coveted-verification/"><u>[Updated] The Ultimate Manual for Earning Facebook's Coveted Verification</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-utilizing-digital-assets-a-guide-on-buying-items-with-cryptocurrency-innovations-by-yl-computing/"><u>1. Utilizing Digital Assets: A Guide on Buying Items with Cryptocurrency - Innovations by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>2024 Approved Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-picks-a-list-of-6-premier-websites-for-tv-shopping/"><u>Discover The Ultimate Picks: A List of 6 Premier Websites For TV Shopping</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/discovering-the-inaugural-ruler-unveiling-the-original-emperors-identity-in-ming-history/"><u>Discovering the Inaugural Ruler: Unveiling the Original Emperors' Identity in Ming History</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/founder-of-the-peoples-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>Founder of the People's Republic of China: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-accessing-and-reviewing-your-installed-applications-via-windows-control-panel-yl-computing/"><u>Guide: Accessing and Reviewing Your Installed Applications via Windows Control Panel - YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/karaoke-cloud-pro-upgrade-alert-from-february-3rd-2017-a-fresh-batch-of-50-songs-weekly-for-your-subscription-service-delight/"><u>Karaoke Cloud Pro Upgrade Alert: From February 3Rd, 2017 - A Fresh Batch of 50 Songs Weekly for Your Subscription Service Delight!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/new-party-tyme-karaoke-collection-now-available-subscribe-and-enjoy-endless-sing-alongs/"><u>New Party Tyme Karaoke Collection Now Available - Subscribe and Enjoy Endless Sing-Alongs!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-imovie-for-windows-10-no-here-are-the-top-alternatives-for-2024/"><u>Updated IMovie for Windows 10? No! Here Are the Top Alternatives for 2024</u></a></li>
 </ul></div>
 
