@@ -1,7 +1,7 @@
 ---
 title: "Pioneers of Chinese Currency: The Introduction of Paper Money in the 10Th Century"
-date: 2024-12-12T19:31:18.442Z
-updated: 2024-12-15T02:56:19.429Z
+date: 2024-12-23T01:08:00.939Z
+updated: 2024-12-23T17:35:49.383Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>[New] 2024 Approved Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-go-viral-or-not-at-all-mobile-live-streaming-without-millions-of-subscribers-for-2024/"><u>[New] Go Viral or Not at All Mobile Live-Streaming Without Millions of Subscribers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/upercharge-your-content-key-seo-elements-for-youtube-for-2024/"><u>[New] Supercharge Your Content Key SEO Elements for YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-capturing-moments-expert-tips-on-downloading-social-media-lives/"><u>[Updated] 2024 Approved Capturing Moments Expert Tips on Downloading Social Media Lives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-brand-visibility-boosted-by-instagram-photowatermarking-for-2024/"><u>[Updated] Brand Visibility Boosted by Instagram Photowatermarking for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/h265-hevc4k8k/"><u>无限量提取H.265 HEVC编解码器：确保优雅播放4k和8k影片内容</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-power-packs-for-black-gopro-hero5-cameras-authenticity-confirmed-for-2024/"><u>Best Power Packs for Black GoPro Hero5 Cameras – Authenticity Confirmed for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/detecting-bad-ram-in-your-computer-tips-and-tricks-from-yl-systems-analysis/"><u>Detecting Bad RAM in Your Computer: Tips and Tricks From YL Systems Analysis</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-identify-warning-signs-of-memory-problems-expert-advice-by-yl-software/"><u>How To Identify Warning Signs Of Memory Problems - Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/immerse-in-world-heritage-through-vr/"><u>Immerse in World Heritage Through VR</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-to-break-the-synergy-onedrive-and-microsoft-profile-split/"><u>Learn to Break the Synergy: OneDrive and Microsoft Profile Split</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-navigating-to-windows-control-panel-options-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Navigating to Windows Control Panel Options - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/stunning-female-portraits-collection-for-full-screen-hd-backgrounds-professional-imagery-from-yl-computings-image-library/"><u>Stunning Female Portraits Collection for Full Screen HD Backgrounds | Professional Imagery From YL Computing's Image Library</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/the-legacy-of-drugs-in-diplomacy-exploring-how-the-chinese-opium-wars-shaped-history-educational-perspectives-from-yl-systems/"><u>The Legacy of Drugs in Diplomacy: Exploring How the Chinese Opium Wars Shaped History - Educational Perspectives From YL Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/uncovering-installed-programs-expert-tips-for-navigating-through-the-control-panel-yl-solutions/"><u>Uncovering Installed Programs: Expert Tips for Navigating Through the Control Panel - YL Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unveiling-the-role-of-computer-systems-registries-a-deep-dive-by-yl-computing/"><u>Unveiling the Role of Computer Systems Registries: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delving-into-new-iphone-photography-paradigms-with-ios-11/"><u>Delving Into New iPhone Photography Paradigms with iOS 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhance-image-quality-expert-tips-for-higher-resolution-output-using-any-standard-scanner-guidance-by-yl-software-experts/"><u>Enhance Image Quality: Expert Tips for Higher Resolution Output Using Any Standard Scanner – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-latest-personalization-features-what-can-you-tailor-in-windows-10-insights-from-yl-computing/"><u>Exploring Latest Personalization Features: What Can You Tailor in Windows 10? - Insights From YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/filmoras-pathway-to-convert-video-avi-files-into-image-gif-for-2024/"><u>Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF) for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook/"><u>In 2024, Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c51-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C51 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/latest-hit-songs-streaming-service-unlock-weekly-updates-from-party-tyme-june-6-2019/"><u>Latest Hit Songs Streaming Service: Unlock Weekly Updates From Party Tyme - June 6, 2019</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-methods-for-determining-necessary-buttons-in-flipbuilder-designs/"><u>Quick Methods for Determining Necessary Buttons in FlipBuilder Designs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-unrecognized-gpu-issues-in-windows-expert-tips-and-solutions-yl-computings-guide/"><u>Resolving Unrecognized GPU Issues in Windows: Expert Tips & Solutions - YL Computing's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-playstation-5-tactics-for-achieving-a-buttery-smooth-120-fps-experience/"><u>Revolutionize Your PlayStation 5: Tactics for Achieving a Buttery-Smooth 120 FPS Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/transform-your-home-into-a-star-studded-venue-start-the-best-karaoke-journey-now-with-our-premium-karaoke-songs-package-from-karaoki-and-karaoke-cloud-pro-s81/"><u>Transform Your Home Into a Star-Studded Venue – Start the Best Karaoke Journey Now with Our Premium Karaoke Songs Package From Karaoki and Karaoke Cloud Pro (Subscribers Only)</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-installing-new-tech-devices-with-yl-software-assistance/"><u>Ultimate Guide to Installing New Tech Devices with YL Software Assistance</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-motocross-visuals-for-your-screen-premium-hd-backgrounds-photos-and-wallpapers-from-yl-software/"><u>Ultimate Motocross Visuals for Your Screen: Premium HD Backgrounds, Photos, and Wallpapers From YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2024-12-14T02:21:56.087Z
-updated: 2024-12-14T23:07:57.672Z
+date: 2024-12-21T20:38:48.618Z
+updated: 2024-12-23T21:24:24.469Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-direct-to-device-converting-youtube-tracks-for-idevices/"><u>[New] 2024 Approved Direct to Device Converting YouTube Tracks for iDevices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-mac-screen-snapper-free/"><u>[New] In 2024, Exclusive Mac Screen Snapper - Free</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-complete-kinetics-exploration/"><u>[Updated] 2024 Approved Complete Kinetics Exploration</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-minimal-time-maximum-effect/"><u>[Updated] 2024 Approved Minimal Time, Maximum Effect</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-perfecting-fbs-360-streams-for-2024/"><u>[Updated] Step-by-Step Perfecting FB's 360 Streams for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-manual-for-earning-facebooks-coveted-verification/"><u>[Updated] The Ultimate Manual for Earning Facebook's Coveted Verification</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-utilizing-digital-assets-a-guide-on-buying-items-with-cryptocurrency-innovations-by-yl-computing/"><u>1. Utilizing Digital Assets: A Guide on Buying Items with Cryptocurrency - Innovations by YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>2024 Approved Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-picks-a-list-of-6-premier-websites-for-tv-shopping/"><u>Discover The Ultimate Picks: A List of 6 Premier Websites For TV Shopping</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discovering-the-inaugural-ruler-unveiling-the-original-emperors-identity-in-ming-history/"><u>Discovering the Inaugural Ruler: Unveiling the Original Emperors' Identity in Ming History</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/founder-of-the-peoples-republic-of-china-insights-from-yl-computing-and-yl-software/"><u>Founder of the People's Republic of China: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-accessing-and-reviewing-your-installed-applications-via-windows-control-panel-yl-computing/"><u>Guide: Accessing and Reviewing Your Installed Applications via Windows Control Panel - YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/karaoke-cloud-pro-upgrade-alert-from-february-3rd-2017-a-fresh-batch-of-50-songs-weekly-for-your-subscription-service-delight/"><u>Karaoke Cloud Pro Upgrade Alert: From February 3Rd, 2017 - A Fresh Batch of 50 Songs Weekly for Your Subscription Service Delight!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/new-party-tyme-karaoke-collection-now-available-subscribe-and-enjoy-endless-sing-alongs/"><u>New Party Tyme Karaoke Collection Now Available - Subscribe and Enjoy Endless Sing-Alongs!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-imovie-for-windows-10-no-here-are-the-top-alternatives-for-2024/"><u>Updated IMovie for Windows 10? No! Here Are the Top Alternatives for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-windows-hdplus-excellence-navigating-through-high-dynamic-range-worlds/"><u>[New] 2024 Approved Windows HD+ Excellence Navigating Through High Dynamic Range Worlds</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-glance-at-stars-contribution/"><u>[New] Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-selective-enhancements-for-optimal-gopro-use-for-2024/"><u>[Updated] Selective Enhancements for Optimal Gopro Use for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-images-mastering-the-art-of-motion-blur-in-ps/"><u>2024 Approved Captivating Images Mastering the Art of Motion Blur in PS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-and-broccoli-collision-the-ultimate-game-changer-patch-of-2024/"><u>Destiny 2 & Broccoli Collision: The Ultimate Game-Changer Patch of 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/discover-dj-and-videography-with-dexterity-exploring-the-versatility-of-dex-version-38-for-music-producers/"><u>Discover DJ & Videography with Dexterity: Exploring the Versatility of DEX Version 3.8 for Music Producers</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/get-your-hands-on-free-professional-dj-programs-from-pcdj-download-now/"><u>Get Your Hands on FREE Professional DJ Programs From PCDJ – Download Now!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/host-a-memorable-christmas-bash-with-karaoke-cloud-pro-perfect-dj-service/"><u>Host a Memorable Christmas Bash with Karaoke Cloud Pro: Perfect DJ Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-reigning-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>In 2024, Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/master-your-monitor-display-expert-guide-to-adjusting-screen-settings-via-control-panel-tips-by-yl-computing/"><u>Master Your Monitor Display: Expert Guide to Adjusting Screen Settings via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211446011--the-kriya-serpent-yogi/"><u>The Kriya Serpent Yogi | Free Book</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/yl-software-optimize-your-windows-system-by-eliminating-unnecessary-files-and-regaining-storage/"><u>YL Software: Optimize Your Windows System by Eliminating Unnecessary Files & Regaining Storage</u></a></li>
 </ul></div>
 

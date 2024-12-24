@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2024-12-12T02:14:59.126Z
-updated: 2024-12-14T22:17:19.097Z
+date: 2024-12-19T22:34:49.523Z
+updated: 2024-12-23T19:52:57.498Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,20 +78,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-navigating-legalities-in-sharing-musical-works/"><u>[New] Navigating Legalities in Sharing Musical Works</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-joyous-film-loader-assessment/"><u>[Updated] In 2024, Joyous Film Loader Assessment</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/anger-explodes-as-japan-releases-fukushima-tainted-water-chinese-calls-to-avoid-japanese-merchandise-and-stock-up-on-supplies-analysis-from-yl-software-solu5/"><u>Anger Explodes as Japan Releases Fukushima-Tainted Water; Chinese Calls to Avoid Japanese Merchandise and Stock Up on Supplies – Analysis From YL Software Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/create-spooky-vibes-with-the-ultimate-halloween-music-selection-on-tidal/"><u>Create Spooky Vibes with the Ultimate Halloween Music Selection on Tidal</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-definition-acrylic-wallpaper-designs-and-imagery-by-yl-computing-your-ultimate-digital-canvas/"><u>High-Definition Acrylic Wallpaper Designs & Imagery by YL Computing - Your Ultimate Digital Canvas</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nubia Red Magic 8S Pro+?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/is-your-pc-protected-from-ransomware-with-windows-defender-discover-how-tips-and-insights-by-yl-computing/"><u>Is Your PC Protected From Ransomware with Windows Defender? Discover How - Tips & Insights by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/locating-target-files-in-windows-explorer-a-step-by-step-guide-yl-computing-tips/"><u>Locating Target Files in Windows Explorer: A Step-by-Step Guide - YL Computing Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-free-dailymotion-video-converter/"><u>New In 2024, Top-Rated Free Dailymotion Video Converter</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimize-your-display-clarity-with-simple-steps-by-yl-software-solutions/"><u>Optimize Your Display Clarity with Simple Steps by YL Software Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/overcoming-obstacles-in-device-recognition-tackling-new-hard-drive-installation-issues-with-yl-software/"><u>Overcoming Obstacles in Device Recognition: Tackling New Hard Drive Installation Issues with YL Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-connectivity-issues-with-live-config-servers/"><u>Step-by-Step Solutions: Connectivity Issues with Live Config Servers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/stunning-audi-a3-2019-hd-wallpaper-collection-high-resolution-backgrounds-and-inspiring-photo-gallery/"><u>Stunning Audi A3 2019 HD Wallpaper Collection: High-Resolution Backgrounds and Inspiring Photo Gallery</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-a-health-monitoring-wristband/"><u>Top 5 Essential Factors to Evaluate When Shopping for a Health Monitoring Wristband</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>[New] Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-the-course-for-your-youtube-music-narrative/"><u>[Updated] In 2024, Charting the Course for Your YouTube Music Narrative</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/decoding-digital-currency-systems-insights-into-how-crypto-functions-by-yl-software-experts/"><u>Decoding Digital Currency Systems: Insights Into How Crypto Functions by YL Software Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/high-definition-dodge-viper-desktop-wallpapers-and-imagery-curated-by-yl-software/"><u>High-Definition Dodge Viper Desktop Wallpapers & Imagery - Curated by YL Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pop-7-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pop 7 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/is-windows-defender-capable-of-auto-detecting-and-eliminating-viruses-and-threats/"><u>Is Windows Defender Capable of Auto-Detecting and Eliminating Viruses & Threats?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-your-pcs-connectivity-a-deep-dive-into-network-settings-on-the-windows-control-panel-with-yl-solutions/"><u>Mastering Your PC's Connectivity: A Deep Dive Into Network Settings on the Windows Control Panel with YL Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/premium-audi-a7-hd-backgrounds-for-your-pc-stunning-photo-collections-and-images-curated-by-yl-software/"><u>Premium Audi A7 HD Backgrounds for Your PC: Stunning Photo Collections & Images Curated by YL Software</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-m14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy M14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-mastering-file-duplication-on-your-pc-with-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Mastering File Duplication on Your PC with Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/understanding-the-root-of-audio-device-malfunctions-a-deep-dive-by-yl-computing/"><u>Understanding the Root of Audio Device Malfunctions: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/yl-computings-guide-to-quickly-shrinking-files-using-yl-software-tools/"><u>YL Computing's Guide to Quickly Shrinking Files Using YL Software Tools</u></a></li>
 </ul></div>
 
