@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2024-12-19T22:34:49.523Z
-updated: 2024-12-23T19:52:57.498Z
+date: 2024-12-24T17:28:59.071Z
+updated: 2024-12-29T18:28:12.244Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,20 +78,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>[New] Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-the-course-for-your-youtube-music-narrative/"><u>[Updated] In 2024, Charting the Course for Your YouTube Music Narrative</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/decoding-digital-currency-systems-insights-into-how-crypto-functions-by-yl-software-experts/"><u>Decoding Digital Currency Systems: Insights Into How Crypto Functions by YL Software Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-definition-dodge-viper-desktop-wallpapers-and-imagery-curated-by-yl-software/"><u>High-Definition Dodge Viper Desktop Wallpapers & Imagery - Curated by YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pop-7-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pop 7 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/is-windows-defender-capable-of-auto-detecting-and-eliminating-viruses-and-threats/"><u>Is Windows Defender Capable of Auto-Detecting and Eliminating Viruses & Threats?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-your-pcs-connectivity-a-deep-dive-into-network-settings-on-the-windows-control-panel-with-yl-solutions/"><u>Mastering Your PC's Connectivity: A Deep Dive Into Network Settings on the Windows Control Panel with YL Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/premium-audi-a7-hd-backgrounds-for-your-pc-stunning-photo-collections-and-images-curated-by-yl-software/"><u>Premium Audi A7 HD Backgrounds for Your PC: Stunning Photo Collections & Images Curated by YL Software</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-m14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy M14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-mastering-file-duplication-on-your-pc-with-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide: Mastering File Duplication on Your PC with Windows - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/understanding-the-root-of-audio-device-malfunctions-a-deep-dive-by-yl-computing/"><u>Understanding the Root of Audio Device Malfunctions: A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/yl-computings-guide-to-quickly-shrinking-files-using-yl-software-tools/"><u>YL Computing's Guide to Quickly Shrinking Files Using YL Software Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sky-cameras-rivalry-dji-m310-vs-gopro-hero5-session-for-2024/"><u>[New] Sky Cameras Rivalry DJI M310 VS GoPro HERO5 Session for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-free-webinar-recorders-manual-for-2024/"><u>[New] The Free Webinar Recorder's Manual for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-gear-for-shooting-top-10-high-res-shoulder-rigs/"><u>[Updated] Best Gear for Shooting Top 10 High-Res Shoulder Rigs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-use-obs-streamlabs-on-mac/"><u>2024 Approved How to Use OBS Streamlabs on Mac？</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aston-martin-dbs-superleggera-cabriolet-high-definition-hd-desktop-wallpaper-downloads-stunning-visuals-and-detailed-graphics-by-yl-computing/"><u>Aston Martin DBS Superleggera Cabriolet High-Definition HD Desktop Wallpaper Downloads: Stunning Visuals and Detailed Graphics by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-of-your-samsung-vevo-960-with-the-latest-drivers-download-guide-for-windows-systems/"><u>Ensure Peak Performance of Your Samsung Vevo 960 with the Latest Drivers - Download Guide for Windows Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-improve-your-pcs-performance-by-cutting-down-loading-times-expert-advice-from-yl-computing/"><u>How to Improve Your PC's Performance by Cutting Down Loading Times: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/key-foreign-languages-taught-globally-in-the-usa/"><u>Key Foreign Languages Taught Globally in the USA</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-undetected-pci-cards-expert-advice-from-yl-computings-leading-solutions/"><u>Resolving Undetected PCI Cards: Expert Advice From YL Computing's Leading Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-guide-resolving-compatibility-issues-between-applications-and-your-sound-card-on-windows-tips-from-yl-software/"><u>Troubleshooting Guide: Resolving Compatibility Issues Between Applications and Your Sound Card on Windows – Tips From YL Software</u></a></li>
 </ul></div>
 

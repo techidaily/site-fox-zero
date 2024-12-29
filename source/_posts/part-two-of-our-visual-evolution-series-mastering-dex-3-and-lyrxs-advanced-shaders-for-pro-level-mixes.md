@@ -1,7 +1,7 @@
 ---
 title: "Part Two of Our Visual Evolution Series: Mastering Dex 3 and LYRX's Advanced Shaders for Pro-Level Mixes"
-date: 2024-12-20T23:06:26.950Z
-updated: 2024-12-24T03:43:54.549Z
+date: 2024-12-26T18:51:28.808Z
+updated: 2024-12-29T17:39:55.154Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-a-guide-to-risk-management-and-mitigation-strategies-in-market-research-for-2024/"><u>[Updated] A Guide to Risk Management and Mitigation Strategies in Market Research for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[Updated] How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://extra-information.techidaily.com/closer-inspection-pro-tips-for-pixelated-play/"><u>Closer Inspection Pro Tips for Pixelated Play</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/conquering-green-hue-fixing-it-on-mac-for-video-editors-for-2024/"><u>Conquering Green Hue Fixing It On Mac For Video Editors for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-strategies-for-diagnosing-and-fixing-pc-hardware-issues-guides-by-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing PC Hardware Issues - Guides by YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-converting-and-managing-images-on-windows-with-yl-software-tips-by-yl-computing/"><u>Guide: Converting & Managing Images on Windows with YL Software - Tips by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-10-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 10 4G Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/premium-full-resolution-naruto-uzumaki-imagery-and-photo-wallpapers-dazzle-your-devices-with-yl-computing/"><u>Premium Full-Resolution Naruto Uzumaki Imagery & Photo Wallpapers – Dazzle Your Devices with YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resolve-your-computers-disk-mistakes-quickly-using-yl-systems-expertise/"><u>Resolve Your Computer's Disk Mistakes Quickly Using YL Systems Expertise</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-updating-your-gpu-drivers-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your GPU Drivers - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-the-potential-hazards-of-bitcoin-and-altcoin-investments-insights-from-yl-computing/"><u>Understanding the Potential Hazards of Bitcoin and Altcoin Investments: Insights From YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unstick-your-stuck-clear-steps-to-fix-discord-installation-errors-with-ease/"><u>Unstick Your Stuck: Clear Steps to Fix Discord Installation Errors with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-equipment-for-starting-your-channel/"><u>[New] In 2024, Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unpacking-the-essentials-mastering-adobes-storage-solutions-and-their-rival-alternatives/"><u>[New] Unpacking The Essentials Mastering Adobe's Storage Solutions & Their Rival Alternatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-live-gaming-decide-on-obsshadowplay/"><u>[Updated] 2024 Approved Capturing Live Gaming - Decide on OBS/ShadowPlay</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-and-secure-disk-cloning-with-hirens-the-ultimate-step-by-step-tutorial/"><u>Easy and Secure Disk Cloning with HIRENS - The Ultimate Step-by-Step Tutorial</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/elevating-twitter-interactions-through-personalized-video-previews-for-2024/"><u>Elevating Twitter Interactions Through Personalized Video Previews for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ensuring-compatibility-how-your-os-supports-scanning-functionality-tips-from-yl-computing/"><u>Ensuring Compatibility: How Your OS Supports Scanning Functionality - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/epic-music-selection-alert-enhance-your-party-tyme-karaoke-with-fresh-tracks-by-dex-3-and-lyrx-over-130-new-songs-added-now/"><u>Epic Music Selection Alert: Enhance Your Party Tyme Karaoke with Fresh Tracks by DEX 3 & LYRX – Over 130 New Songs Added Now!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/high-resolution-kawasaki-backgrounds-stunning-walls-and-more-designed-by-yl-software-solutions/"><u>High-Resolution Kawasaki Backgrounds: Stunning Walls and More - Designed by YL Software Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-can-i-enhance-my-pcs-efficiency-discover-top-techniques-with-yl-computing/"><u>How Can I Enhance My PC's Efficiency? Discover Top Techniques with YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lenovo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lenovo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-high-skies-simple-snaps-vertical-phone-panoramas/"><u>In 2024, High Skies, Simple Snaps Vertical Phone Panoramas</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-upgrade-fresh-arduino-usb-drivers-for-a-smoother-windows-experience/"><u>Mastering the Upgrade: Fresh Arduino USB Drivers for a Smoother Windows Experience</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-your-scanners-capabilities-understanding-multiple-scanning-modes-by-yl-software-experts/"><u>Mastering Your Scanner's Capabilities: Understanding Multiple Scanning Modes by YL Software Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266257-9781644113158-the-chintamani-crystal-matrix/"><u>The Chintamani Crystal Matrix | Free Book</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-scanner-windows-integration-woes-with-tips-from-yl-software-experts/"><u>Troubleshooting Scanner-Windows Integration Woes with Tips From YL Software Experts</u></a></li>
 </ul></div>
 

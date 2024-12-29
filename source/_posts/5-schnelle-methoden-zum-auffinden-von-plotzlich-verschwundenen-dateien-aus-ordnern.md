@@ -1,7 +1,7 @@
 ---
 title: 5 Schnelle Methoden Zum Auffinden Von Plötzlich Verschwundenen Dateien Aus Ordnern
-date: 2024-11-27T19:38:00.591Z
-updated: 2024-11-30T16:42:04.077Z
+date: 2024-12-24T19:03:24.040Z
+updated: 2024-12-29T17:58:25.893Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
@@ -29,7 +29,7 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Table des matières** 
@@ -66,7 +66,7 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
@@ -81,10 +81,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -93,17 +89,21 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -122,11 +122,11 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -177,11 +177,11 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,19 +198,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-seamless-shift-your-path-to-kinemaster-expertise/"><u>[Updated] The Seamless Shift Your Path to Kinemaster Expertise</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-studio-vs-campers-arena/"><u>2024 Approved Studio vs Camper's Arena</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ssdwindows-amohdd/"><u>将数据传输至SSD：在Windows Amo的HDD上实现简便操作（有二种选择）</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/can-you-transfer-multiple-photos-using-airdrop-from-an-iphone-to-another-iphone-or-computer/"><u>Can You Transfer Multiple Photos Using AirDrop From an iPhone to Another iPhone or Computer?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/elevate-your-tech-journey-mastering-the-art-of-installing-windows-10-on-a-new-hardware-platform/"><u>Elevate Your Tech Journey: Mastering the Art of Installing Windows 10 on a New Hardware Platform</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-starting-with-cams-a-beginners-guide/"><u>In 2024, Starting with Cams - A Beginner’s Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/optimice-su-experiencia-con-windows-1187-usando-el-replazo-gratis-y-eficaz-a-xxclone-la-nueva-alternativa/"><u>Optimice Su Experiencia Con Windows 11/8/7 Usando El Replazo Gratis Y Eficaz a XXClone - La Nueva Alternativa</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/schlusselstrategie-zum-wechseln-von-windows-10-auf-eine-kleinere-ssd/"><u>Schlüsselstrategie Zum Wechseln Von Windows 10 Auf Eine Kleinere SSD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smart-setup-for-your-windows-11-journey/"><u>Smart Setup for Your Windows 11 Journey</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-10-entertaining-games-to-beat-boredom/"><u>Top 10 Entertaining Games to Beat Boredom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-text-input-restrictions-bypassing-the-cap/"><u>Understanding ChatGPT's Text Input Restrictions: Bypassing the Cap</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/wykluczanie-i-ograniczenie-pliku-io-w-diskach-twardych-na-serwrisie-windows-server-2012-r2-dwie-effektywne-metody/"><u>Wykluczanie I Ograniczenie Pliku I/O W Diskach Twardych Na Serwrisie Windows Server 2012 (R2) - Dwie Effektywne Metody</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>[New] 2024 Approved Ensuring Thumbnails Show Shorts Video Troubleshooting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-clear-the-way-for-smooth-safari-streaming/"><u>[Updated] Clear the Way for Smooth Safari Streaming</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-estimating-music-video-production-expenses/"><u>[Updated] In 2024, Estimating Music Video Production Expenses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-full-screen-fiasco-resolved-in-obs/"><u>[Updated] In 2024, Full Screen Fiasco Resolved in Obs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-fb-platforms-for-public-health-initiatives/"><u>2024 Approved Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/configuring-print-functionality-on-windows-a-guide-by-yl-software-for-addremove-and-default-printer-setup/"><u>Configuring Print Functionality on Windows: A Guide by YL Software for Add/Remove & Default Printer Setup</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhancing-your-computers-efficiency-effective-strategies-by-yl-software/"><u>Enhancing Your Computer's Efficiency: Effective Strategies by YL Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/join-the-karaoke-revolution-with-a-monthly-subscription-enjoy-abba-hits-and-extensive-song-libraries-with-party-tyme/"><u>Join the Karaoke Revolution with a Monthly Subscription - Enjoy ABBA Hits and Extensive Song Libraries with Party Tyme!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>Metaverse and Multiverse Demystified An In-Depth Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/new-party-tyme-karaoke-collection-now-available-subscribe-and-enjoy-endless-sing-alongs/"><u>New Party Tyme Karaoke Collection Now Available - Subscribe and Enjoy Endless Sing-Alongs!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-step-by-step-tutorial-uploading-videos-on-reddit-from-desktop-and-phone/"><u>Ultimate Step-by-Step Tutorial: Uploading Videos on Reddit From Desktop & Phone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultra-hd-steven-universe-landscapes-for-desktop-and-mobile-captivating-images-curated-by-yl-computing/"><u>Ultra HD Steven Universe Landscapes for Desktop & Mobile - Captivating Images Curated by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-taskbars-timed-features-on-win-1011/"><u>Unlocking Taskbar's Timed Features on Win 10/11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-editor-for-windows-8-advanced-video-editing-features-for-2024/"><u>Updated Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2024-12-21T20:38:48.618Z
-updated: 2024-12-23T21:24:24.469Z
+date: 2024-12-25T18:33:08.359Z
+updated: 2024-12-29T16:17:55.401Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,18 +59,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-windows-hdplus-excellence-navigating-through-high-dynamic-range-worlds/"><u>[New] 2024 Approved Windows HD+ Excellence Navigating Through High Dynamic Range Worlds</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-quick-glance-at-stars-contribution/"><u>[New] Quick Glance at Star's Contribution</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-selective-enhancements-for-optimal-gopro-use-for-2024/"><u>[Updated] Selective Enhancements for Optimal Gopro Use for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-images-mastering-the-art-of-motion-blur-in-ps/"><u>2024 Approved Captivating Images Mastering the Art of Motion Blur in PS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-and-broccoli-collision-the-ultimate-game-changer-patch-of-2024/"><u>Destiny 2 & Broccoli Collision: The Ultimate Game-Changer Patch of 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/discover-dj-and-videography-with-dexterity-exploring-the-versatility-of-dex-version-38-for-music-producers/"><u>Discover DJ & Videography with Dexterity: Exploring the Versatility of DEX Version 3.8 for Music Producers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/get-your-hands-on-free-professional-dj-programs-from-pcdj-download-now/"><u>Get Your Hands on FREE Professional DJ Programs From PCDJ – Download Now!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/host-a-memorable-christmas-bash-with-karaoke-cloud-pro-perfect-dj-service/"><u>Host a Memorable Christmas Bash with Karaoke Cloud Pro: Perfect DJ Service</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-reigning-supreme-top-techniques-for-innovative-youtube-end-screens/"><u>In 2024, Reigning Supreme Top Techniques for Innovative YouTube End Screens</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/master-your-monitor-display-expert-guide-to-adjusting-screen-settings-via-control-panel-tips-by-yl-computing/"><u>Master Your Monitor Display: Expert Guide to Adjusting Screen Settings via Control Panel - Tips by YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211446011--the-kriya-serpent-yogi/"><u>The Kriya Serpent Yogi | Free Book</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/yl-software-optimize-your-windows-system-by-eliminating-unnecessary-files-and-regaining-storage/"><u>YL Software: Optimize Your Windows System by Eliminating Unnecessary Files & Regaining Storage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>[New] 2024 Approved Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-decisional-balance-for-2024/"><u>[New] Decisional Balance for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782227-9781594778148-advanced-sex-magic/"><u>Advanced Sex Magic | Free Book</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-guide-to-refreshing-your-pcs-windows-registry-tips-from-yl-software-experts/"><u>Complete Guide to Refreshing Your PC's Windows Registry - Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/high-resolution-couples-desktop-backgrounds-and-image-collections-premium-quality-by-yl-computing/"><u>High-Resolution Couples Desktop Backgrounds & Image Collections - Premium Quality by YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-fixes-for-stabilizing-windows-10-photos-display/"><u>In 2024, Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12r-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-top-5-techniques-pour-ameliorer-la-qualite-de-vos-images-en-2024-guide-seo/"><u>Les Top 5 Techniques Pour Améliorer La Qualité De Vos Images en 2024 - Guide SEO</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/master-your-monitors-glow-adjust-display-brightness-in-windows-11-with-ease-tips-from-yl-computing-experts/"><u>Master Your Monitor's Glow: Adjust Display Brightness in Windows 11 with Ease – Tips From YL Computing Experts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/protect-your-system-from-hackers-how-to-find-and-delete-spyware-malware-using-yl-computings-anti-malicious-tools/"><u>Protect Your System From Hackers: How to Find and Delete Spyware, Malware Using YL Computing's Anti-Malicious Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/solutions-for-unrecognized-external-drives-on-windows-expert-tips-from-yl-softwares-team/"><u>Solutions for Unrecognized External Drives on Windows - Expert Tips From YL Software's Team</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-to-find-out-your-systems-gpu-by-yl-experts/"><u>Step-by-Step Tutorial to Find Out Your System's GPU by YL Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/stunning-albuquerque-international-hot-air-balloon-festival-images-yl-computings-collection/"><u>Stunning Albuquerque International Hot Air Balloon Festival Images - YL Computing's Collection</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-print-issues-post-windows-10-update-a-guide-by-yl-computing/"><u>Troubleshooting Print Issues Post-Windows 10 Update: A Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-slow-motion-magic-in-instagram-reels-for-2024/"><u>Unlocking Slow Motion Magic in Instagram Reels for 2024</u></a></li>
 </ul></div>
 

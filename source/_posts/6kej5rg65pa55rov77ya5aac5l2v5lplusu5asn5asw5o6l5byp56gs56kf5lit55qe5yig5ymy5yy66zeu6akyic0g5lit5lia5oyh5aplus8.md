@@ -1,7 +1,7 @@
 ---
 title: 解決方法：如何修复外接式硬碟中的分割区问题 - 专业指导
-date: 2024-12-11T03:33:31.983Z
-updated: 2024-12-15T03:16:54.782Z
+date: 2024-12-23T17:50:31.935Z
+updated: 2024-12-29T18:07:37.015Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f75205d6b2dd2ff58f0ec205.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
@@ -43,7 +47,7 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ist es sicher, den Papierkorb zu löschen?
@@ -57,10 +61,6 @@ Vor der dauerhaften Löschung kann der Papierkorb gelöschte Dateien und Ordner 
 Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie werden weiterhin den begrenzten Speicherplatz belegen.
 
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
 
@@ -86,6 +86,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
 Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möchten, folgen Sie diesen klaren Schritten:
@@ -94,16 +98,12 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -126,10 +126,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -139,7 +135,7 @@ Sicherer Download
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -169,6 +165,10 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
@@ -184,6 +184,10 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -235,6 +239,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -243,15 +251,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,18 +268,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-collective-wisdom-on-easeus-products/"><u>[New] In 2024, Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files-for-2024/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/boost-your-computers-efficiency-post-hardware-enhancements-expert-advice-from-yl-computing/"><u>Boost Your Computer's Efficiency Post-Hardware Enhancements: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/complete-guide-downloading-and-saving-images-on-windows-tips-from-yl-computing/"><u>Complete Guide: Downloading & Saving Images on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ver-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming-for-2024/"><u>Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723807876569-discover-your-running-windows-os-quick-guide-in-a-single-step/"><u>Discover Your Running Windows OS: Quick Guide in a Single Step!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-tutorial-on-transforming-dailymotion-songs-into-premium-mp3mp4-downloads-for-free/"><u>Easy Tutorial on Transforming DailyMotion Songs Into Premium MP3/MP4 Downloads for Free!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-compreenhensive-guide-for-youtube-short-video-creators/"><u>In 2024, Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/master-your-monitors-glow-adjust-display-brightness-in-windows-11-with-ease-tips-from-yl-computing-experts/"><u>Master Your Monitor's Glow: Adjust Display Brightness in Windows 11 with Ease – Tips From YL Computing Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-roadblocks-activating-non-functional-scripts-in-windows/"><u>Overcoming Roadblocks: Activating Non-Functional Scripts in Windows</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-to-find-out-your-systems-gpu-by-yl-experts/"><u>Step-by-Step Tutorial to Find Out Your System's GPU by YL Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/stunning-albuquerque-international-hot-air-balloon-festival-images-yl-computings-collection/"><u>Stunning Albuquerque International Hot Air Balloon Festival Images - YL Computing's Collection</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transformative-tactics-for-skyrocketing-subscribers-on-youtube/"><u>[New] Transformative Tactics for Skyrocketing Subscribers on Youtube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-underdogs-playbook-livestream-youtube-on-smartphones-no-million-followers/"><u>[Updated] The Underdog's Playbook Livestream YouTube on Smartphones, No Million Followers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apples-finest-free-apps-to-perfect-your-selfies/"><u>2024 Approved Apple's Finest FREE Apps to Perfect Your Selfies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>2024 Approved How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ylu/"><u>坚定胸怀，前进不息——YL计算机专栏释疑：从U侄兼万亿孤独之路解构</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-missing-airpods-on-find-my-app-try-these-11-tips/"><u>Baffled by Missing AirPods on Find My App? Try These 11 Tips</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/dealing-with-bizarre-sounds-from-your-pcs-cooling-fan-expert-advice-and-solutions-yl-computing/"><u>Dealing with Bizarre Sounds From Your PC's Cooling Fan: Expert Advice & Solutions - YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-hardware-integration-a-step-by-nstep-guide-in-the-system-settings-control-panel-with-yl-computing-solutions/"><u>Exploring Hardware Integration: A Step-by-nStep Guide in the System Settings (Control Panel) with YL Computing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-early-access-ios-1n-software-update-install-instructions-and-tips-for-iphones-techradar/"><u>Get Early Access: IOS 1N Software Update - Install Instructions and Tips for iPhones | TechRadar</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/iphone-lens-exploration-key-angles-to-elevate-your-photo-game/"><u>IPhone Lens Exploration Key Angles to Elevate Your Photo Game</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/is-my-graphics-card-suitable-for-my-computer-detailed-steps-by-tech-experts-at-yl-computing/"><u>Is My Graphics Card Suitable for My Computer? Detailed Steps by Tech Experts at YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/serene-meditation-scenes-inspiring-desktops-walls-and-screenscapes-by-yl-computings-artistic-library/"><u>Serene Meditation Scenes: Inspiring Desktops, Walls & Screenscapes by YL Computing's Artistic Library</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/snap-edit-share-your-initial-guide-to-lunapic/"><u>Snap, Edit, Share Your Initial Guide to LunaPic</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-to-cool-down-your-hot-laptop-or-desktop-with-yls-troubleshooting-techniques/"><u>Step-by-Step Guide to Cool Down Your Hot Laptop or Desktop with YL's Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-to-running-exe-files-on-windows-yl-computing/"><u>Step-by-Step Guide to Running EXE Files on Windows - YL Computing</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unraveling-malware-species-with-expertise-from-yl-software/"><u>Unraveling Malware Species with Expertise From YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-vibrancy-expertise-in-hue-manipulation/"><u>Visual Vibrancy Expertise in Hue Manipulation</u></a></li>
 </ul></div>
 
