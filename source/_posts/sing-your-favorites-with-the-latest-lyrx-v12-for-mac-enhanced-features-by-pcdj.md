@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2024-12-24T17:28:59.071Z
-updated: 2024-12-29T18:28:12.244Z
+date: 2025-01-06T17:45:26.064Z
+updated: 2025-01-09T02:43:37.667Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,17 +78,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-sky-cameras-rivalry-dji-m310-vs-gopro-hero5-session-for-2024/"><u>[New] Sky Cameras Rivalry DJI M310 VS GoPro HERO5 Session for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-free-webinar-recorders-manual-for-2024/"><u>[New] The Free Webinar Recorder's Manual for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-gear-for-shooting-top-10-high-res-shoulder-rigs/"><u>[Updated] Best Gear for Shooting Top 10 High-Res Shoulder Rigs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-use-obs-streamlabs-on-mac/"><u>2024 Approved How to Use OBS Streamlabs on Mac？</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/aston-martin-dbs-superleggera-cabriolet-high-definition-hd-desktop-wallpaper-downloads-stunning-visuals-and-detailed-graphics-by-yl-computing/"><u>Aston Martin DBS Superleggera Cabriolet High-Definition HD Desktop Wallpaper Downloads: Stunning Visuals and Detailed Graphics by YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-peak-performance-of-your-samsung-vevo-960-with-the-latest-drivers-download-guide-for-windows-systems/"><u>Ensure Peak Performance of Your Samsung Vevo 960 with the Latest Drivers - Download Guide for Windows Systems</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-improve-your-pcs-performance-by-cutting-down-loading-times-expert-advice-from-yl-computing/"><u>How to Improve Your PC's Performance by Cutting Down Loading Times: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/key-foreign-languages-taught-globally-in-the-usa/"><u>Key Foreign Languages Taught Globally in the USA</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resolving-undetected-pci-cards-expert-advice-from-yl-computings-leading-solutions/"><u>Resolving Undetected PCI Cards: Expert Advice From YL Computing's Leading Solutions</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-guide-resolving-compatibility-issues-between-applications-and-your-sound-card-on-windows-tips-from-yl-software/"><u>Troubleshooting Guide: Resolving Compatibility Issues Between Applications and Your Sound Card on Windows – Tips From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-to-essential-photo-edits-in-ps/"><u>[New] Beginner's Guide to Essential Photo Edits in PS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-profile-pictures-download-for-free/"><u>[New] In 2024, Profile Pictures - Download for FREE</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transforming-ordinary-interviews-into-impactful-experiences-for-2024/"><u>[New] Transforming Ordinary Interviews Into Impactful Experiences for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-authenticating-your-instagram-photos/"><u>[Updated] In 2024, Authenticating Your Instagram Photos</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhance-image-quality-expert-tips-for-higher-resolution-output-using-any-standard-scanner-guidance-by-yl-software-experts/"><u>Enhance Image Quality: Expert Tips for Higher Resolution Output Using Any Standard Scanner – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-latest-personalization-features-what-can-you-tailor-in-windows-10-insights-from-yl-computing/"><u>Exploring Latest Personalization Features: What Can You Tailor in Windows 10? - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-multiplayer-gaming-with-minecraft-realms/"><u>Navigating the World of Multiplayer Gaming with Minecraft Realms</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-unrecognized-gpu-issues-in-windows-expert-tips-and-solutions-yl-computings-guide/"><u>Resolving Unrecognized GPU Issues in Windows: Expert Tips & Solutions - YL Computing's Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-installing-new-tech-devices-with-yl-software-assistance/"><u>Ultimate Guide to Installing New Tech Devices with YL Software Assistance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/wirecast-vs-obs-which-is-better-in-2024/"><u>Wirecast Vs OBS Which Is Better, In 2024</u></a></li>
 </ul></div>
 
