@@ -1,7 +1,7 @@
 ---
 title: "Part Two of Our Visual Evolution Series: Mastering Dex 3 and LYRX's Advanced Shaders for Pro-Level Mixes"
-date: 2025-01-06T18:26:23.558Z
-updated: 2025-01-09T01:46:40.944Z
+date: 2025-01-12T18:54:32.169Z
+updated: 2025-01-14T18:38:23.005Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,20 +110,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-zero.techidaily.com/1-stunning-scarlet-witch-high-definition-wallpapers-by-yl-computing-ultimate-digital-art-showcase/"><u>1. Stunning Scarlet Witch High-Definition Wallpapers by YL Computing - Ultimate Digital Art Showcase</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-speed-shots-and-stills-quicktime-techniques-for-samsung-users/"><u>2024 Approved Speed Shots & Stills Quicktime Techniques for Samsung Users</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726224456762-movavimp3/"><u>音楽データのビットレート調整: Movaviを使ったMP3形式への変換ガイド</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/accessing-and-customizing-windows-control-panel-options-with-ease-a-yl-software-walkthrough/"><u>Accessing and Customizing Windows Control Panel Options with Ease - A YL Software Walkthrough</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-ais-role-in-crafting-prompts-and-job-market-adaptability/"><u>Delving Into AI's Role in Crafting Prompts & Job Market Adaptability</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-asus-rog-phone-7-ultimate-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Asus ROG Phone 7 Ultimate to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premium-podcast-platter-googlouds-best-series/"><u>In 2024, Premium Podcast Platter GooGloud's Best Series</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/introducing-songbookdbs-enhanced-features-for-distance-vocalists-and-live-song-selections/"><u>Introducing SongbookDB's Enhanced Features for Distance Vocalists & Live Song Selections</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/passive-income-opportunity-with-karaoke-cloud-pro-exclusive-affiliate-program/"><u>Passive Income Opportunity with Karaoke Cloud Pro - Exclusive Affiliate Program</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/simple-strategies-for-removing-unwanted-icloud-storage/"><u>Simple Strategies for Removing Unwanted iCloud Storage</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/solving-scanner-compatibility-issues-understanding-why-media-isnt-recognizing-insights-by-yl-software/"><u>Solving Scanner Compatibility Issues: Understanding Why Media Isn't Recognizing - Insights by YL Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-setting-up-security-features-through-your-windows-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Setting Up Security Features Through Your Windows Control Panel - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-updating-your-device-drivers-in-windows-os-with-yl-software-solutions/"><u>Step-by-Step Guide: Updating Your Device Drivers in Windows OS with YL Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-14-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 14 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators/"><u>Updated In 2024, Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/avigating-the-creator-space-a-comprehensible-guide-for-2024/"><u>[New] Navigating the Creator Space A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funnygenius-create-and-share-memes/"><u>[Updated] FunnyGenius Create and Share Memes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-narratives-galore-top-20-storytelling-channels-of-the-year-for-2024/"><u>[Updated] Narratives Galore Top 20 Storytelling Channels of the Year for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1728503197072-dropbox/"><u>「Dropbox」で消去されたデータを完全復元: 最新手法トップ３</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-restore-missing-partitions-on-your-system-a-step-by-step-guide-for-windows-11/"><u>1. Restore Missing Partitions on Your System: A Step-by-Step Guide for Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fying-your-content-free-techniques-to-boost-youtube-views/"><u>Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/come-eseguire-il-salvataggio-delle-tue-posta-di-microsoft-outlook-due-metodi-complessivi/"><u>Come Eseguire Il Salvataggio Delle Tue Posta Di Microsoft Outlook: Due Metodi Complessivi</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comment-regler-les-erreurs-excel-ne-repond-pas-un-guide-complet/"><u>Comment Régler Les Erreurs 'Excel Ne Répond Pas' ? - Un Guide Complet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-and-crack-the-wi-fi-passphrase-in-windows-11-with-these-simple-tricks/"><u>Find and Crack the Wi-Fi Passphrase in Windows 11 with These Simple Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722871644252-macos-15-sequoia-discover-when-its-releasing-and-check-out-its-amazing-new-capabilities/"><u>MacOS 15 (Sequoia): Discover When It's Releasing & Check Out Its Amazing New Capabilities!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1728505652281-microsoft-word/"><u>Microsoft Wordで文書がフリーズした時の解決策とデータ再生手順</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/professionelles-verfahren-fur-backups-von-laptop-daten-zur-externen-speicherung/"><u>Professionelles Verfahren Für Backups Von Laptop-Daten Zur Externen Speicherung</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/reset-your-iphone-to-factory-settings-everything-gets-deleted/"><u>Reset Your iPhone to Factory Settings - Everything Gets Deleted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/significant-upgrades-for-a-smarter-more-intuitive-plugin-store/"><u>Significant Upgrades for a Smarter, More Intuitive Plugin Store</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/strategie-da-pro-a-excellence-come-liberarsi-dei-vecchi-file-di-aggiorna-in-windows-nella-cattedra/"><u>Strategie Da Pro a Excellence: Come Liberarsi Dei Vecchi File Di Aggiorna in Windows Nella Cattedra</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/subcultures-may-exist-within-different-departments-or-teams-but-they-should-complement-the-overarching-organizational-culture/"><u>Subcultures May Exist Within Different Departments or Teams, but They Should Complement the Overarching Organizational Culture.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-1011-pc-hdd/"><u>Windows 10/11 の新PCへ HDD アップグレードと追加 - 旧ハードディスク使いまわしガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover DJ & Videography with Dexterity: Exploring the Versatility of DEX Version 3.8 for Music Producers"
-date: 2025-01-08T00:24:11.823Z
-updated: 2025-01-08T22:49:28.625Z
+date: 2025-01-09T17:32:49.203Z
+updated: 2025-01-14T22:19:41.080Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ A couple other skin tweaks include better sizing to the musical “Key” displa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at skins/tabs included with DEX 3.8 and our opinion on their best individual uses:
@@ -40,25 +40,21 @@ DJs get 4 full-featured players with the DEX 3 4-Deck Skin and FX Tab. This inte
 
 [4-DECK AUDIO/FX SKIN | VIEW LARGER IMAGE ![4 Deck Mixing software DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1920%2C1080&ssl=1 "4 Deck Mixing software DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4-DECK SKIN | VIDEO TAB**
 
 The 4-Deck Video Tab is widely popular for modern, versatile DJs that may want to mix both music and music videos in a session. Users of this skin/tab typically only require the basics controls for video mixing. DJs get 2-decks for music video mixing (that can be used for audio, too) and 2-decks for audio-only mixing (bottom two decks)
 
 [4-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 DJ mixing software skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1920%2C1080&ssl=1 "DEX 3.8 DJ mixing software skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4-DECK SKIN | SCRATCH/SYNC TAB**
 
 Much like the default 4-Deck FX Tab, this tab is best used for audio-only mixing. The Scratch/Sync Tab is also only suitable for DJs using a DJ controller and/or timecode vinyl to control DEX 3.8 since it’s not equipped with mixer controls like the the other included 4-Deck Tabs. With the stretched vertical waveform’s it’s easier to see upcoming breaks in the track and if your songs are properly synced on-beat.
 
 [4-DECK SCRATCH/SYNC TAB | VIEW LARGER IMAGE ![DEX 3.8 4-deck skin with vertical waveform's](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1920%2C1080&ssl=1 "DEX 3.8 4-deck skin with vertical waveform's")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4-DECK SKIN | SAMPLER TAB**
 
@@ -67,7 +63,7 @@ DEX 3.8 includes 8 full-featured sample deck players, and the Sampler Tab in DEX
 [4-DECK SAMPLER TAB | VIEW LARGER IMAGE ![DEX 3 4-Deck Skin With Sample Players](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3 4-Deck Skin With Sample Players")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2-DECK SKIN | DEFAULT TAB WITH SAMPLER**
@@ -76,15 +72,15 @@ For DJs that only mix two audio tracks (with sampler access) there is no better 
 
 [2-DECK SKIN WITH SAMPLE PLAYERS | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Skin with sample players](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Skin with sample players")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2-DECK SKIN | VIDEO TAB**
 
 If you’re a video mixing DJ (aka VDJ) than this tab is designed for you. Equipped with large preview video displays for each deck, and one large mixed video output window, videos display large and easy to see. Drop down menus for video and transition effects are large and accessible. The 2-Deck Video Tab is also the only tab included with the DEX 3.8 installation that has an on-screen menu for selecting and applying [created text, image and video overlays](https://tools.techidaily.com/pcdj/products/).
 
 [2-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Video Mixing Skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Video Mixing Skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2-DECK SKIN | SIMPLE SKIN**
 
@@ -99,6 +95,10 @@ Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skin
 [VIEW LARGER IMAGE OF DAYTIME SKIN MONTAGE ![DEX 3.8 DayTime Skin Montage](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1538%2C1292&ssl=1 "DEX 3.8 DayTime Skin Montage")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1030%2C865&ssl=1)
 
 _Have questions about our DEX 3.8 **DJ and Video Mixing software**, or the included **skins**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -119,24 +119,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/manyfacesofdex3.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-becoming-a-youtube-guru-essential-production-know-how/"><u>[New] In 2024, Becoming a YouTube Guru Essential Production Know-How</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-maximizing-your-pcs-potential-expert-tips-from-yl-computing-on-enhancing-system-efficiency/"><u>1. Maximizing Your PC's Potential: Expert Tips From YL Computing on Enhancing System Efficiency</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/atassd/"><u>ATASSD快速数据重建秘籍：键动数字资料拯援技巧</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-top-6-classic-mario-adventures-on-pc-an-ultimate-collection/"><u>Best Top 6 Classic Mario Adventures on PC: An Ultimate Collection</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-cryptocurrency-security-mastering-two-step-verification-using-yls-advanced-tech/"><u>Enhance Your Cryptocurrency Security: Mastering Two-Step Verification Using YL's Advanced Tech</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/get-ready-to-rock-the-mic-exclusive-access-to-our-curated-list-of-50-chart-topping-karaoke-songs-for-subscribers-karaoke-cloud-pro-special-offer-on-march-1089/"><u>Get Ready to Rock the Mic: Exclusive Access to Our Curated List of 50 Chart-Topping Karaoke Songs for Subscribers – Karaoke Cloud Pro Special Offer on March 10Th!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-rapide-a-la-duplication-en-miroir-de-dossiers-pc-vers-onedrive-3-methodes-efficaces/"><u>Guide Rapide À La Duplication en Miroir De Dossiers PC Vers OneDrive – 3 Méthodes Efficaces</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-resolve-a-system-crash-caused-by-your-gpu-insights-from-yls-tech-gurus/"><u>How to Resolve a System Crash Caused by Your GPU: Insights From YL's Tech Gurus</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-optimize-your-creativity-with-these-10-chromebook-stores/"><u>In 2024, Optimize Your Creativity with These 10 Chromebook Stores</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/kiddos-best-gaming-delights-top-girls-adventures-in-2024/"><u>Kiddo's Best Gaming Delights - Top Girls' Adventures, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/massive-black-friday-discount-snag-a-dell-xps-15-for-up-to-700-off-tech-bargains-unveiled-gizmosphere/"><u>Massive Black Friday Discount: Snag a Dell XPS 15 for Up To $700 Off - Tech Bargains Unveiled | GizmoSphere</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/stunning-city-landscapes-for-desktop-and-mobile-professional-hd-backdrops-from-yl-software/"><u>Stunning City Landscapes for Desktop and Mobile: Professional HD Backdrops From YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/surpassing-chatgpt-10-new-language-enigmas/"><u>Surpassing ChatGPT: 10 New Language Enigmas</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/transforming-china-the-impacts-and-outcomes-of-the-1980s-economic-reforms-insights-by-yl-computing-and-software/"><u>Transforming China: The Impacts and Outcomes of the 1980'S Economic Reforms - Insights by YL Computing & Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/understanding-chinas-role-in-the-treaty-of-versailles-a-deep-dive-with-yl-computing-and-yl-software/"><u>Understanding China's Role in the Treaty of Versailles: A Deep Dive with YL Computing and YL Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnets-favorite-phones-editorial-choice-and-personal-device-reviews/"><u>ZDNet's Favorite Phones: Editorial Choice and Personal Device Reviews</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726227995988-movavi/"><u>오프라인 제공 무료: Movavi 사용자가 항상 이점을 위해 있는 다리화 편집</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-step-into-success-with-instant-youtube-thumbnail-skills/"><u>[New] 2024 Approved Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tepwise-strategy-for-transforming-your-youtube-videos-with-imovie-for-2024/"><u>[New] Stepwise Strategy for Transforming Your YouTube Videos with iMovie for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-tiktoks-voiceover-landscape/"><u>2024 Approved Navigating TikTok's Voiceover Landscape</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728480890944-windows-server-2012-r2/"><u>刻不容緩的方法：在 Windows Server 2012 R2 中撤銷已經刪除的檔案</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/come-disegnare-con-semplicita-il-tuo-immortale-icona-di-windows-passi-per-windows-10-e-11/"><u>Come Disegnare Con Semplicità Il Tuo Immortale Icona Di Windows: Passi per Windows 10 E 11</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guia-facil-y-paso-a-paso-para-realizar-backups-automaticos-en-microsoft-outlook-201-cuidadosamente/"><u>Guía Fácil Y Paso a Paso Para Realizar Backups Automáticos en Microsoft Outlook 201 Cuidadosamente</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-rapide-pour-solutions-aux-problemes-de-sauvegarde-partielle-dans-windows-11/"><u>Guide Rapide Pour Solutions Aux Problèmes De Sauvegarde Partielle Dans Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone XS Max</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/retrieve-your-lost-memories-top-4-free-methods-for-restoring-deleted-pictures-on-facebook/"><u>Retrieve Your Lost Memories: Top 4 Free Methods for Restoring Deleted Pictures on Facebook</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/robocopy-strategies-pour-le-mode-de-preservation-des-fichiers-tutoriel-complet-et-methodes-substituts/"><u>Robocopy : Stratégies Pour Le Mode De Préservation Des Fichiers – Tutoriel Complet Et Méthodes Substituts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smarter-choices-better-lifestyle-mastering-ai-driven-conversation-skills/"><u>Smarter Choices, Better Lifestyle: Mastering AI-Driven Conversation Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-flight-in-depth-analysis-of-dji-phantom-4-for-2024/"><u>Unveiling Flight In-Depth Analysis of DJI Phantom 4 for 2024</u></a></li>
 </ul></div>
 

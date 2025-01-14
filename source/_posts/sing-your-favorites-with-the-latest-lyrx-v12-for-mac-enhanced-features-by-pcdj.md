@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2025-01-06T17:45:26.064Z
-updated: 2025-01-09T02:43:37.667Z
+date: 2025-01-11T21:36:03.753Z
+updated: 2025-01-14T16:36:54.455Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,15 +78,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-to-essential-photo-edits-in-ps/"><u>[New] Beginner's Guide to Essential Photo Edits in PS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-profile-pictures-download-for-free/"><u>[New] In 2024, Profile Pictures - Download for FREE</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-transforming-ordinary-interviews-into-impactful-experiences-for-2024/"><u>[New] Transforming Ordinary Interviews Into Impactful Experiences for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-authenticating-your-instagram-photos/"><u>[Updated] In 2024, Authenticating Your Instagram Photos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-image-quality-expert-tips-for-higher-resolution-output-using-any-standard-scanner-guidance-by-yl-software-experts/"><u>Enhance Image Quality: Expert Tips for Higher Resolution Output Using Any Standard Scanner – Guidance by YL Software Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-latest-personalization-features-what-can-you-tailor-in-windows-10-insights-from-yl-computing/"><u>Exploring Latest Personalization Features: What Can You Tailor in Windows 10? - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-multiplayer-gaming-with-minecraft-realms/"><u>Navigating the World of Multiplayer Gaming with Minecraft Realms</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resolving-unrecognized-gpu-issues-in-windows-expert-tips-and-solutions-yl-computings-guide/"><u>Resolving Unrecognized GPU Issues in Windows: Expert Tips & Solutions - YL Computing's Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-installing-new-tech-devices-with-yl-software-assistance/"><u>Ultimate Guide to Installing New Tech Devices with YL Software Assistance</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/wirecast-vs-obs-which-is-better-in-2024/"><u>Wirecast Vs OBS Which Is Better, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-budget-for-making-a-music-video/"><u>[New] Total Budget for Making a Music Video</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harmonizing-tracks-in-youtube-music-for-2024/"><u>[Updated] Harmonizing Tracks in YouTube Music for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[Updated] In 2024, Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/5bu656ul6auy5pwi6kaw6ka65yyw6kej5pa55qgi77ya5aac5l2v5lyy6zuf5zyw6z2i5aplus556m66ze05lin6laz/"><u>建立高效視覺化解方案：如何优雅地面对空间不足</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/6kej5rg65pa55rov77ya5aac5l2v5lplusu5asn5asw5o6l5byp56gs56kf5lit55qe5yig5ymy5yy66zeu6akyic0g5lit5lia5oyh5aplus8/"><u>解決方法：如何修复外接式硬碟中的分割区问题 - 专业指导</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728472486981-xcopy/"><u>使用 Xcopy 命令有效移动数据包及其子项目</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aucune-mise-a-jour-les-etapes-pour-arreter-le-nettoyage-auto-des-fichiers-de-norton/"><u>Aucune Mise À Jour : Les Étapes Pour Arrêter Le Nettoyage Auto Des Fichiers De Norton</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/booten-sie-von-einem-usb-stick-einfacher-start-mit-lenovo-thinkpad/"><u>Booten Sie Von Einem USB-Stick - Einfacher Start Mit Lenovo ThinkPad</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/revive-your-file-explorers-sidebar-swift-solutions-for-restoration/"><u>Revive Your File Explorer's Sidebar: Swift Solutions for Restoration!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-video-editing-on-a-budget-top-10-free-editors/"><u>Updated 2024 Approved MP4 Video Editing on a Budget Top 10 Free Editors</u></a></li>
 </ul></div>
 
