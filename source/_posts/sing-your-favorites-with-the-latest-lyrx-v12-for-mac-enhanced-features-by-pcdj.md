@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2025-01-11T21:36:03.753Z
-updated: 2025-01-14T16:36:54.455Z
+date: 2025-01-13T20:44:45.609Z
+updated: 2025-01-20T18:48:05.908Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,17 +78,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rom-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-total-budget-for-making-a-music-video/"><u>[New] Total Budget for Making a Music Video</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-harmonizing-tracks-in-youtube-music-for-2024/"><u>[Updated] Harmonizing Tracks in YouTube Music for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[Updated] In 2024, Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-lava-blaze-2-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/5bu656ul6auy5pwi6kaw6ka65yyw6kej5pa55qgi77ya5aac5l2v5lyy6zuf5zyw6z2i5aplus556m66ze05lin6laz/"><u>建立高效視覺化解方案：如何优雅地面对空间不足</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/6kej5rg65pa55rov77ya5aac5l2v5lplusu5asn5asw5o6l5byp56gs56kf5lit55qe5yig5ymy5yy66zeu6akyic0g5lit5lia5oyh5aplus8/"><u>解決方法：如何修复外接式硬碟中的分割区问题 - 专业指导</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728472486981-xcopy/"><u>使用 Xcopy 命令有效移动数据包及其子项目</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/aucune-mise-a-jour-les-etapes-pour-arreter-le-nettoyage-auto-des-fichiers-de-norton/"><u>Aucune Mise À Jour : Les Étapes Pour Arrêter Le Nettoyage Auto Des Fichiers De Norton</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/booten-sie-von-einem-usb-stick-einfacher-start-mit-lenovo-thinkpad/"><u>Booten Sie Von Einem USB-Stick - Einfacher Start Mit Lenovo ThinkPad</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/revive-your-file-explorers-sidebar-swift-solutions-for-restoration/"><u>Revive Your File Explorer's Sidebar: Swift Solutions for Restoration!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mp4-video-editing-on-a-budget-top-10-free-editors/"><u>Updated 2024 Approved MP4 Video Editing on a Budget Top 10 Free Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-youtube-file-extraction/"><u>[New] In 2024, Effortless YouTube File Extraction</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-clearing-youtubes-stored-videos-for-2024/"><u>[New] Mastering the Art of Clearing YouTube's Stored Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-online-galleries-of-premium-vectors/"><u>[New] Premier Online Galleries of Premium Vectors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-free-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/download-the-paper-kit-v2-ultimate-design-theme-no-cost-professional-bootstrap-4-user-interface-toolkit-by-creative-tim/"><u>Download the Paper Kit v2 Ultimate Design Theme - No Cost, Professional Bootstrap 4 User Interface Toolkit by Creative Tim</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/enhance-your-web-development-with-argon-the-ultimate-cost-free-bootstrap-5-control-panel-by-creative-tim/"><u>Enhance Your Web Development with Argon: The Ultimate, Cost-Free Bootstrap 5 Control Panel by Creative Tim</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exclusive-premium-react-native-design-kit-with-now-ui-pro-by-creative-tim/"><u>Exclusive Premium React Native Design Kit with Now UI Pro by Creative Tim</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-over-40-stunning-nextjs-layouts-and-themes-by-creative-tim/"><u>Explore Over 40 Stunning Next.js Layouts and Themes by Creative Tim</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/explore-the-power-of-argon-dashboard-pro-2-the-ultimate-laravel-admin-panel-by-creative-tim-and-updivision/"><u>Explore the Power of Argon Dashboard Pro 2 - The Ultimate Laravel Admin Panel by Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/free-bootstrap-registration-and-login-dialog-box-innovative-templates-from-creative-tim/"><u>Free Bootstrap Registration & Login Dialog Box - Innovative Templates From Creative Tim</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/free-nextjs-and-tailwind-css-template-for-stunning-marketing-landing-pages-by-creativetim/"><u>Free Next.js and Tailwind CSS Template for Stunning Marketing Landing Pages by CreativeTim</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-spark-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Spark 20 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-your-contents-signature-adding-watermarks-and-logo-to-youtube-videos/"><u>Secure Your Content's Signature Adding Watermarks & Logo to Youtube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-essential-role-of-white-balance-in-achieving-perfect-exposure-and-color-accuracy/"><u>The Essential Role of White Balance in Achieving Perfect Exposure and Color Accuracy</u></a></li>
 </ul></div>
 

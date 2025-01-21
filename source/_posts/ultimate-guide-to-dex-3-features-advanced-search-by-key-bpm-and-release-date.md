@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2025-01-08T17:29:23.787Z
-updated: 2025-01-14T21:08:21.905Z
+date: 2025-01-14T01:25:32.275Z
+updated: 2025-01-21T00:37:50.118Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-clarity-top-methods-for-ppt-videos/"><u>[Updated] In 2024, Capturing Clarity Top Methods for PPT Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-parodic-play-writing-and-producing-humor-videos/"><u>[Updated] In 2024, Parodic Play Writing and Producing Humor Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-for-troubleshooting-and-restoring-rust-mics/"><u>Comprehensive Guide for Troubleshooting and Restoring Rust Mics</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-methods-for-streamlining-videos/"><u>Easy Methods for Streamlining Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-tips-enabling-safe-mode-and-ejecting-video-card-drivers-in-windows-8-for-a-smooth-computing-experience/"><u>Expert Tips: Enabling Safe Mode & Ejecting Video Card Drivers in Windows 8 for a Smooth Computing Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limits-on-character-count-in-chatgpt-responses/"><u>Limits on Character Count in ChatGPT Responses?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/managing-project-dependencies-interactive-configuration-guide/"><u>Managing Project Dependencies: Interactive Configuration Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-organizing-and-accessing-references-efficiently/"><u>Mastering the Art of Organizing and Accessing References Efficiently</u></a></li>
-<li><a href="https://win-hot.techidaily.com/overcoming-azures-unlimited-service-plan-boundaries-strategies-and-solutions/"><u>Overcoming Azure’s Unlimited Service Plan Boundaries: Strategies and Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps5-hard-drive-replacement-step-by-step-guide-on-ssd-upgrade/"><u>PS5 Hard Drive Replacement: Step-by-Step Guide on SSD Upgrade</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/seamlessly-share-and-sync-how-to-move-files-from-your-mac-onto-your-iphone-or-ipad/"><u>Seamlessly Share & Sync: How to Move Files From Your Mac Onto Your iPhone or iPad</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simplified-guide-step-by-step-instructions-for-securely-backing-up-your-ipad-without-using-itunes/"><u>Simplified Guide: Step-by-Step Instructions for Securely Backing Up Your iPad Without Using iTunes</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Sony </u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/winx-dvd-ripper-mac-edition-effizientes-dvd-konvertieren-fur-apple-gerate/"><u>WinX DVD Ripper Mac Edition - Effizientes DVD-Konvertieren Für Apple Geräte</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-iphone-night-snap-strategies-unveiled/"><u>[Updated] 2024 Approved IPhone Night Snap Strategies Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-efficiently-change-zip-to-srt-file-format-for-2024/"><u>[Updated] Efficiently Change ZIP to SRT File Format for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-tutorial-on-3d-lut-tools/"><u>[Updated] Ultimate Tutorial on 3D LUT Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2021digiarty-macx-dvd-ripper-proplusamazon3000/"><u>「2021春節Digiarty MacX DVD Ripper Pro永久驅動器+Amazonギフト款券3,000元大獎：幸福新年抽選！」</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-excellence-with-central-luts-for-films-for-2024/"><u>Achieving Excellence with Central Luts for Films for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aomei-backupper-for-mac/"><u>AOMEI Backupper for Macで信頼性高いミラーリング同期手順を解説する</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/descubre-el-mundo-de-la-exploracion-de-imagenes/"><u>Descubre El Mundo De La Exploración De Imágenes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-youtube-trailer-production-via-filmora-software-for-2024/"><u>DIY YouTube Trailer Production via Filmora Software for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/error-404-unable-to-locate-this-webpage/"><u>Error 404 - Unable To Locate This Webpage</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fixing-network-path-not-found-and-pxe-issues-effective-strategies-for-users/"><u>Fixing 'Network Path Not Found' & PXE Issues: Effective Strategies for Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-idea-to-airwaves-crafting-compelling-podcast-scripts-for-2024/"><u>From Idea to Airwaves Crafting Compelling Podcast Scripts for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-seamlessly-copy-your-hard-drive-using-affordable-software-solutions/"><u>How to Seamlessly Copy Your Hard Drive Using Affordable Software Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nokia G42 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-overcoming-latency-problems-in-guilty-gear-strive/"><u>Resolved: Overcoming Latency Problems in Guilty Gear Strive</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rip-proof-free-online-conversion-of-m4r-to-mp3-by-movavi/"><u>Rip-Proof, Free Online Conversion of M4R to MP3 by Movavi</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-on-migrating-windows-10-settings-via-system-backup-tool/"><u>Step-by-Step Tutorial on Migrating Windows 10 Settings via System Backup Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-and-fixing-the-irqlnotlessorequal-issue-in-windows-11-systems/"><u>Troubleshooting and Fixing the IRQL_NOT_LESS_OR_EQUAL Issue in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-10-m2-ssd/"><u>Windows 10 M.2 SSD 挿入時の迅速なインストール手順</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-11-startup-issue-resolved-error-inaccessible-boot-device-prevents-booting/"><u>Windows 11 Startup Issue: Resolved Error - Inaccessible Boot Device Prevents Booting</u></a></li>
 </ul></div>
 
