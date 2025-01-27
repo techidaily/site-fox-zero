@@ -1,7 +1,7 @@
 ---
 title: "Part Two of Our Visual Evolution Series: Mastering Dex 3 and LYRX's Advanced Shaders for Pro-Level Mixes"
-date: 2025-01-19T19:10:36.766Z
-updated: 2025-01-21T00:04:56.867Z
+date: 2025-01-21T17:59:55.539Z
+updated: 2025-01-26T16:19:31.805Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ It’s the 2nd edition of “Shader Roundup”! Use the following free Shaders w
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What are Shaders?
@@ -41,7 +41,7 @@ The Shaders below will work well in either DEX 3 or LYRX. If you missed the prio
 _**NOTE:** Be sure to test all Shaders before you perform with them live to make sure you’re not experiencing any performance issues._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Shaders for DEX 3 or LYRX Visualizations (Copy/Paste URL to “Add Shader” Menu)
@@ -82,13 +82,13 @@ _**NOTE:** Be sure to test all Shaders before you perform with them live to make
 ![Using Shaders in DEX 3 DJ and Video Mixing Software](https://pcdj.com/vidupload/SHADER-demo.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about using **Shaders** with **DEX 3** or **LYRX** for **visualizations**, or do you have Shaders you wish to share with the DEX 3 community? Please leave them in the comments section below!_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,17 +110,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/shader-cover.jpg?fit=706%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-evade-social-media-shunning-fbs-hidden-dos-and-donts/"><u>[New] 2024 Approved Evade Social Media Shunning FB's Hidden Do's & Don'ts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fishing-footage-kings-select-the-best-camers/"><u>[New] Fishing Footage Kings Select the Best Camers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immediate-access-best-5-convertors-no-download-required/"><u>[New] Immediate Access Best 5 Convertors, No Download Required</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-youtube-exposure-in-156-characters-or-less/"><u>[Updated] 2024 Approved Maximize YouTube Exposure in 156 Characters or Less</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audible-allure-choosing-background-beats-for-videos/"><u>Audible Allure Choosing Background Beats for Videos</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/fixing-warped-photos-after-scanning-solutions-by-yl-software-experts/"><u>Fixing Warped Photos After Scanning: Solutions by YL Software Experts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y27-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y27 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-synthesizing-success-the-power-of-magix-samplitude/"><u>In 2024, Synthesizing Success The Power of Magix Samplitude</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/monitoring-ram-consumption-a-guide-for-windows-users-tips-by-yl-computing/"><u>Monitoring RAM Consumption: A Guide for Windows Users - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/no-visuals-from-gpu-troubleshooting-steps-and-tips-provided-by-yl-software-experts/"><u>No Visuals From GPU: Troubleshooting Steps and Tips Provided by YL Software Experts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/south-korea-tightens-security-measures-on-tech-intellectual-property-amidst-global-rise-in-industry-espionage/"><u>South Korea Tightens Security Measures on Tech Intellectual Property Amidst Global Rise in Industry Espionage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-skyline-drone-cinematography-tips/"><u>[New] Capturing the Skyline Drone Cinematography Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-make-a-game-streaming-video-with-ai-portrait/"><u>[New] In 2024, How to Make a Game Streaming Video With AI Portrait</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/6l275p2plus5pon5l2c77ya5bcg5pen5ly65pyn5zmo56e75yqo5yiw5yw35pyj5lin5zcm56gs5lu255qe5paw6k6plus5ash5oyh5y2x/"><u>轻松操作：将旧伺服器移动到具有不同硬件的新设备指南</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/autosauvegarde-and-synctech-garder-les-copies-de-vos-donnees-a-jour-facilement/"><u>AutoSauvegarde & SyncTech: Garder Les Copies De Vos Données À Jour Facilement</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easy-broadcast-obs-plus-streamlabs-tutorial-for-mac-users/"><u>Easy Broadcast OBS + Streamlabs Tutorial for Mac Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-online/"><u>New In 2024, AI Translation | Online</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/performance-steigerung-fur-hyper-v-virtuelles-rechenzentrum-effiziente-methoden-zur-beschleunigung/"><u>Performance Steigerung Für Hyper-V Virtuelles Rechenzentrum: Effiziente Methoden Zur Beschleunigung</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-using-dism-command-line-to-fix-windows-11-issues/"><u>Step-by-Step Guide: Using DISM Command Line to Fix Windows 11 Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-best-free-cloud-based-video-editing-tools-for-2024/"><u>The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/titre-nos-logiciels-dextraction-de-donnees-images-ghost-les-plus-efficaces/"><u>Titre : « Nos Logiciels D’extraction De Données Images Ghost Les Plus Efficaces »</u></a></li>
 </ul></div>
 

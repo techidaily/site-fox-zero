@@ -1,7 +1,7 @@
 ---
 title: "Discover DJ & Videography with Dexterity: Exploring the Versatility of DEX Version 3.8 for Music Producers"
-date: 2025-01-18T22:38:47.307Z
-updated: 2025-01-20T21:08:31.533Z
+date: 2025-01-24T21:52:35.203Z
+updated: 2025-01-26T18:34:51.284Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJs get 4 full-featured players with the DEX 3 4-Deck Skin and FX Tab. This inte
 [4-DECK AUDIO/FX SKIN | VIEW LARGER IMAGE ![4 Deck Mixing software DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1920%2C1080&ssl=1 "4 Deck Mixing software DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4-DECK SKIN | VIDEO TAB**
@@ -46,15 +46,15 @@ The 4-Deck Video Tab is widely popular for modern, versatile DJs that may want t
 
 [4-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 DJ mixing software skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1920%2C1080&ssl=1 "DEX 3.8 DJ mixing software skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-skin.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4-DECK SKIN | SCRATCH/SYNC TAB**
 
 Much like the default 4-Deck FX Tab, this tab is best used for audio-only mixing. The Scratch/Sync Tab is also only suitable for DJs using a DJ controller and/or timecode vinyl to control DEX 3.8 since it’s not equipped with mixer controls like the the other included 4-Deck Tabs. With the stretched vertical waveform’s it’s easier to see upcoming breaks in the track and if your songs are properly synced on-beat.
 
 [4-DECK SCRATCH/SYNC TAB | VIEW LARGER IMAGE ![DEX 3.8 4-deck skin with vertical waveform's](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1920%2C1080&ssl=1 "DEX 3.8 4-deck skin with vertical waveform's")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-4deck-sync-scratch.png?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4-DECK SKIN | SAMPLER TAB**
 
@@ -63,7 +63,7 @@ DEX 3.8 includes 8 full-featured sample deck players, and the Sampler Tab in DEX
 [4-DECK SAMPLER TAB | VIEW LARGER IMAGE ![DEX 3 4-Deck Skin With Sample Players](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3 4-Deck Skin With Sample Players")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-sampler.png?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2-DECK SKIN | DEFAULT TAB WITH SAMPLER**
@@ -72,19 +72,11 @@ For DJs that only mix two audio tracks (with sampler access) there is no better 
 
 [2-DECK SKIN WITH SAMPLE PLAYERS | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Skin with sample players](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Skin with sample players")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-sampler.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2-DECK SKIN | VIDEO TAB**
 
 If you’re a video mixing DJ (aka VDJ) than this tab is designed for you. Equipped with large preview video displays for each deck, and one large mixed video output window, videos display large and easy to see. Drop down menus for video and transition effects are large and accessible. The 2-Deck Video Tab is also the only tab included with the DEX 3.8 installation that has an on-screen menu for selecting and applying [created text, image and video overlays](https://tools.techidaily.com/pcdj/products/).
 
 [2-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Video Mixing Skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Video Mixing Skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2-DECK SKIN | SIMPLE SKIN**
 
@@ -98,7 +90,15 @@ Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skin
 
 [VIEW LARGER IMAGE OF DAYTIME SKIN MONTAGE ![DEX 3.8 DayTime Skin Montage](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1538%2C1292&ssl=1 "DEX 3.8 DayTime Skin Montage")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1030%2C865&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Have questions about our DEX 3.8 **DJ and Video Mixing software**, or the included **skins**? Please leave them in the comments section below!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -119,24 +119,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/manyfacesofdex3.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-elevating-care-delivery-through-effective-fb-ads-for-2024/"><u>[New] Elevating Care Delivery Through Effective FB Ads for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pixelpatch-artisan-online-design-symphony/"><u>[New] PixelPatch Artisan Online Design Symphony</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-silent-voices-in-the-social-media-arena-ig-live-edition-for-2024/"><u>[New] Silent Voices in the Social Media Arena - IG Live Edition for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-online-recording/"><u>[Updated] The Art of Online Recording</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-boost-your-pcs-performance-by-clearing-up-storage-tips-from-yl-computing/"><u>1. Boost Your PC's Performance by Clearing Up Storage: Tips From YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-easy-steps-installuninstall-printers-on-your-pc-with-windows-tips-from-yl-computing/"><u>1. Easy Steps: Install/Uninstall Printers on Your PC with Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/accelerate-your-systems-speed-by-purging-dormant-programs-tips-from-yl-tech-solutions/"><u>Accelerate Your System's Speed by Purging Dormant Programs - Tips From YL Tech Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-corner-best-funny-content-on-the-planet-web-for-2024/"><u>Comic Corner Best Funny Content on the Planet Web for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-does-windows-security-respond-when-it-finds-malware-on-your-computer-insights-by-yl-computing/"><u>How Does Windows Security Respond When It Finds Malware on Your Computer? - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-fix-low-speaker-volume-from-your-sound-card-solutions-by-yl-computing/"><u>How to Fix Low Speaker Volume From Your Sound Card - Solutions by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/legacy-lines-drawn-unveiling-11-top-strategy-ww2-titles/"><u>Legacy Lines Drawn: Unveiling 11 Top Strategy WW2 Titles</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-challenges-with-rare-encoding-methods/"><u>Overcoming Challenges with Rare Encoding Methods</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/passive-income-opportunity-with-karaoke-cloud-pro-exclusive-affiliate-program/"><u>Passive Income Opportunity with Karaoke Cloud Pro - Exclusive Affiliate Program</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/premium-beach-scenes-and-seaside-landscapes-for-desktop-backgrounds-by-yl-software/"><u>Premium Beach Scenes & Seaside Landscapes for Desktop Backgrounds by YL Software</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/top-rated-ios-8-keyboard-apps-enhance-your-typing-experience/"><u>Top-Rated iOS 8 Keyboard Apps: Enhance Your Typing Experience</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-tutorial-solve-and-mend-bios-glitches-on-your-computer-with-yl-software-insights/"><u>Troubleshooting Tutorial: Solve and Mend BIOS Glitches on Your Computer with YL Software Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883033546-understanding-youtube-policies-limits-on-number-of-your-channels/"><u>Understanding YouTube Policies: Limits On Number Of Your Channels</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-play-40cs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Play 40Cs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/yl-software-a-comprehensive-gallery-of-festive-christmas-background-images-and-photos-for-your-pc-or-mac/"><u>YL Software: A Comprehensive Gallery of Festive Christmas Background Images & Photos for Your PC or Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-clip-of-fame-vimeo-quick-look/"><u>[New] Clip of Fame Vimeo Quick Look</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-watchers-workshop-advanced-guide-to-live-tv-broadcasting-via-windows-pc-for-2024/"><u>[New] The Watcher's Workshop Advanced Guide to Live TV Broadcasting via Windows PC for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-6s-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 6s Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/einfache-schritte-zum-kopieren-von-daten-von-einer-beschadigten-festplatte/"><u>Einfache Schritte Zum Kopieren Von Daten Von Einer Beschädigten Festplatte</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-restore-and-repair-ext4ext3-file-systems-in-windows-environments-effective-strategies/"><u>How to Restore and Repair Ext4/Ext3 File Systems in Windows Environments: Effective Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-upgrade-your-notebooks-system-ram/"><u>How To Upgrade Your Notebook's System Ram</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/maximiza-tu-experiencia-en-email-personaliza-y-organiza-tu-bandeja-de-entrada-con-yahoo-mail/"><u>Maximiza Tu Experiencia en Email: Personaliza Y Organiza Tu Bandeja De Entrada Con Yahoo Mail</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/page-unavailable-access-denied-http-404/"><u>Page Unavailable: Access Denied (HTTP 404)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-to-enhance-screen-brightness-of-youtube-videos-for-2024/"><u>Tips to Enhance Screen Brightness of YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-capture-pro-for-windows-10-ultimate-quality/"><u>Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
 </ul></div>
 

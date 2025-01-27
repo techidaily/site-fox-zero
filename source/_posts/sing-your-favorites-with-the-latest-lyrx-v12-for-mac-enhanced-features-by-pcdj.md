@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2025-01-13T20:44:45.609Z
-updated: 2025-01-20T18:48:05.908Z
+date: 2025-01-23T01:20:18.402Z
+updated: 2025-01-26T19:19:56.880Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,21 +78,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-youtube-file-extraction/"><u>[New] In 2024, Effortless YouTube File Extraction</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-clearing-youtubes-stored-videos-for-2024/"><u>[New] Mastering the Art of Clearing YouTube's Stored Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-premier-online-galleries-of-premium-vectors/"><u>[New] Premier Online Galleries of Premium Vectors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-free-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>[Updated] Best Microphones Ranked Perfect Companions for 4K Cinematography</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/download-the-paper-kit-v2-ultimate-design-theme-no-cost-professional-bootstrap-4-user-interface-toolkit-by-creative-tim/"><u>Download the Paper Kit v2 Ultimate Design Theme - No Cost, Professional Bootstrap 4 User Interface Toolkit by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/enhance-your-web-development-with-argon-the-ultimate-cost-free-bootstrap-5-control-panel-by-creative-tim/"><u>Enhance Your Web Development with Argon: The Ultimate, Cost-Free Bootstrap 5 Control Panel by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exclusive-premium-react-native-design-kit-with-now-ui-pro-by-creative-tim/"><u>Exclusive Premium React Native Design Kit with Now UI Pro by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-over-40-stunning-nextjs-layouts-and-themes-by-creative-tim/"><u>Explore Over 40 Stunning Next.js Layouts and Themes by Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/explore-the-power-of-argon-dashboard-pro-2-the-ultimate-laravel-admin-panel-by-creative-tim-and-updivision/"><u>Explore the Power of Argon Dashboard Pro 2 - The Ultimate Laravel Admin Panel by Creative Tim & UPDIVISION</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-bootstrap-registration-and-login-dialog-box-innovative-templates-from-creative-tim/"><u>Free Bootstrap Registration & Login Dialog Box - Innovative Templates From Creative Tim</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-nextjs-and-tailwind-css-template-for-stunning-marketing-landing-pages-by-creativetim/"><u>Free Next.js and Tailwind CSS Template for Stunning Marketing Landing Pages by CreativeTim</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-spark-20-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Spark 20 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-your-contents-signature-adding-watermarks-and-logo-to-youtube-videos/"><u>Secure Your Content's Signature Adding Watermarks & Logo to Youtube Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-essential-role-of-white-balance-in-achieving-perfect-exposure-and-color-accuracy/"><u>The Essential Role of White Balance in Achieving Perfect Exposure and Color Accuracy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-assessing-the-real-benefits-of-paying-for-youtube-premium/"><u>[Updated] 2024 Approved Assessing the Real Benefits of Paying for YouTube Premium</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators/"><u>[Updated] 2024 Approved Essential Guide to Top 12 Free and Paid Gaming Introduction Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-list-of-free-rippers-for-video-conversion/"><u>[Updated] In 2024, Essential List of Free Rippers For Video Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-balancing-act-volume-control-techniques-for-logic-pro-x/"><u>2024 Approved Balancing Act Volume Control Techniques for Logic Pro X</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/hddintel-ssdwindows1087/"><u>安全地将HDD数据克隆至Intel SSD：如何在Windows系统下(包括10、8和7版本)实现成功备份</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/die-top-6-methoden-zum-hochladen-von-iphone-66s-bildern-auf-ihren-pc/"><u>Die Top 6 Methoden Zum Hochladen Von iPhone 6/6S-Bildern Auf Ihren PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-free-movie-download-pages-top-11-picks/"><u>Discover the Ultimate Free Movie Download Pages – Top 11 Picks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/free-and-easy-laptop-data-exchange-tools-for-users-of-windows-11-10-and-8/"><u>Free and Easy Laptop Data Exchange Tools for Users of Windows 11, 10 & 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insight-southwest-airlines-encourages-a-controversial-request-from-passengers-read-more-on-zdnet/"><u>Insight: Southwest Airlines Encourages a Controversial Request From Passengers - Read More on ZDNet</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resepsi-pilihan-terbaik-dan-proses-memulihkan-partisi-dihilang-ke-dalam-cmd/"><u>Resepsi Pilihan Terbaik Dan Proses Memulihkan Partisi Dihilang Ke Dalam CMD</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/sacre/"><u>Sacre</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/tutorial-passo-passo-per-il-recupero-dei-tuoi-file-eliminati-tutti-i-modalita-su-unacer-portatile/"><u>Tutorial Passo-Passo per Il Recupero Dei Tuoi File Eliminati - Tutti I Modalità Su Un'Acer Portatile</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/zwei-moglichkeiten-mit-einem-usb-laufwerk-bootende-windows-10-startup/"><u>Zwei Möglichkeiten, Mit Einem USB-Laufwerk Bootende Windows 10 Startup</u></a></li>
 </ul></div>
 
