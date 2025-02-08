@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2025-01-23T01:20:18.402Z
-updated: 2025-01-26T19:19:56.880Z
+date: 2025-02-04T20:17:15.152Z
+updated: 2025-02-08T16:17:02.055Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,21 +78,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-assessing-the-real-benefits-of-paying-for-youtube-premium/"><u>[Updated] 2024 Approved Assessing the Real Benefits of Paying for YouTube Premium</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators/"><u>[Updated] 2024 Approved Essential Guide to Top 12 Free and Paid Gaming Introduction Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-list-of-free-rippers-for-video-conversion/"><u>[Updated] In 2024, Essential List of Free Rippers For Video Conversion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-balancing-act-volume-control-techniques-for-logic-pro-x/"><u>2024 Approved Balancing Act Volume Control Techniques for Logic Pro X</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/hddintel-ssdwindows1087/"><u>安全地将HDD数据克隆至Intel SSD：如何在Windows系统下(包括10、8和7版本)实现成功备份</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/die-top-6-methoden-zum-hochladen-von-iphone-66s-bildern-auf-ihren-pc/"><u>Die Top 6 Methoden Zum Hochladen Von iPhone 6/6S-Bildern Auf Ihren PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-free-movie-download-pages-top-11-picks/"><u>Discover the Ultimate Free Movie Download Pages – Top 11 Picks</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/free-and-easy-laptop-data-exchange-tools-for-users-of-windows-11-10-and-8/"><u>Free and Easy Laptop Data Exchange Tools for Users of Windows 11, 10 & 8</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insight-southwest-airlines-encourages-a-controversial-request-from-passengers-read-more-on-zdnet/"><u>Insight: Southwest Airlines Encourages a Controversial Request From Passengers - Read More on ZDNet</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resepsi-pilihan-terbaik-dan-proses-memulihkan-partisi-dihilang-ke-dalam-cmd/"><u>Resepsi Pilihan Terbaik Dan Proses Memulihkan Partisi Dihilang Ke Dalam CMD</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/sacre/"><u>Sacre</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/tutorial-passo-passo-per-il-recupero-dei-tuoi-file-eliminati-tutti-i-modalita-su-unacer-portatile/"><u>Tutorial Passo-Passo per Il Recupero Dei Tuoi File Eliminati - Tutti I Modalità Su Un'Acer Portatile</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/zwei-moglichkeiten-mit-einem-usb-laufwerk-bootende-windows-10-startup/"><u>Zwei Möglichkeiten, Mit Einem USB-Laufwerk Bootende Windows 10 Startup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-excellence-professional-editing-techniques-revealed/"><u>[New] 2024 Approved Instagram Excellence Professional Editing Techniques Revealed</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windowscf-1087/"><u>如何自由且免費進行Windows中CF卡克隆 - 10/8/7版本指南</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/face-a-un-ecran-blanc-sous-windows-11-decouvrez-ces-6-astuces-rapides-pour-regler-le-souci/"><u>Face À Un Écran Blanc Sous Windows 11 ? Découvrez Ces 6 Astuces Rapides Pour Régler Le Souci!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guida-rapida-al-passaggio-dei-file-da-un-microsd-allaltro-senza-problemi/"><u>Guida Rapida Al Passaggio Dei File Da Un microSD All'altro Senza Problemi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-pratique-pour-reparer-un-dysfonctionnement-de-lecture-des-dvd-solutions-rapides-and-facilement-accessibles/"><u>Guide Pratique Pour Réparer Un Dysfonctionnement De Lecture Des DVD : Solutions Rapides & Facilement Accessibles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-podcast-entrances-eye-catching-scripts/"><u>In 2024, Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
+<li><a href="https://fox-place.techidaily.com/les-plus-performants-programmes-de-clonage-cle-usb-vers-ssd-pour-windows-10-et-7/"><u>Les Plus Performants Programmes De Clonage Clé USB Vers SSD Pour Windows 10 Et 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-pitfalls-critical-considerations-when-using-artificial-intelligence-for-emotional-support/"><u>Navigating Pitfalls: Critical Considerations When Using Artificial Intelligence for Emotional Support</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-restoring-accidentally-deleted-videos-on-your-chromebook/"><u>Step-by-Step Guide: Restoring Accidentally Deleted Videos on Your Chromebook</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/systemwiedereinrichtung-aktivieren-schritt-fur-schritt-anleitung-fur-windows-10/"><u>Systemwiedereinrichtung Aktivieren: Schritt-Für-Schritt Anleitung Für Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-best-of-the-best-reddits-all-time-favorites-for-2024/"><u>The Best of the Best Reddit's All-Time Favorites for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-windows-7-starting-successfully-in-safe-mode-overcoming-failures-with-normal-boot/"><u>Troubleshooting Windows 7: Starting Successfully in Safe Mode, Overcoming Failures with Normal Boot</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-the-art-of-iphone-photography-skill-building-tips/"><u>Unlock the Art of iPhone Photography Skill-Building Tips</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-10-0xc000000e/"><u>Windows 10 錯誤解決法：排除0xC000000E當克隆設備時的問題</u></a></li>
 </ul></div>
 

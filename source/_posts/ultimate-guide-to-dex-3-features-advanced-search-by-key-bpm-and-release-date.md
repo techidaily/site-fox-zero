@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2025-01-22T17:54:53.846Z
-updated: 2025-01-26T22:22:16.164Z
+date: 2025-02-04T19:49:48.640Z
+updated: 2025-02-08T16:14:32.540Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,17 +59,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastery-in-making-memorable-tiktok-beginnings-on-a-mac-for-2024/"><u>[New] Mastery in Making Memorable TikTok Beginnings on a Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elevating-edit-quality-the-ultimate-guide-for-obs-studios/"><u>[Updated] 2024 Approved Elevating Edit Quality The Ultimate Guide for OBS Studios</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-trusted-6-online-communities-driving-business-growth/"><u>[Updated] Trusted 6 Online Communities Driving Business Growth</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-advice-securely-saving-movies-on-windows-11/"><u>2024 Approved Expert Advice Securely Saving Movies on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-authorship-puzzle-determining-legal-owner-for-content-produced-through-ai-technologies/"><u>Deciphering the Authorship Puzzle: Determining Legal Owner for Content Produced Through AI Technologies</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/easy-methods-for-streamlining-videos/"><u>Easy Methods for Streamlining Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A25 5G Phone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-hidden-melodic-markers-ios-and-android-recording-app-overview/"><u>In 2024, Hidden Melodic Markers IOS & Android Recording App Overview</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/managing-project-dependencies-interactive-configuration-guide/"><u>Managing Project Dependencies: Interactive Configuration Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-the-art-of-organizing-and-accessing-references-efficiently/"><u>Mastering the Art of Organizing and Accessing References Efficiently</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/simplified-guide-step-by-step-instructions-for-securely-backing-up-your-ipad-without-using-itunes/"><u>Simplified Guide: Step-by-Step Instructions for Securely Backing Up Your iPad Without Using iTunes</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-upgrading-from-iphone-56-to-iphone-x-7-or-8/"><u>Step-by-Step Guide: Upgrading From iPhone 5/6 to iPhone X, 7 or 8</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-instant-avoidance-guide-for-edgenuity-courses-for-2024/"><u>[New] Instant Avoidance Guide for Edgenuity Courses for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-capabilities-of-springs-advanced-screenscape-for-2024/"><u>[New] Unveiling the Capabilities of Spring's Advanced Screenscape for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/3-easy-steps-to-remove-applications-from-your-macbook-a-step-by-step-guide/"><u>3 Easy Steps to Remove Applications From Your MacBook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/chromebook-shutter-magic-4-simple-steps-for-2024/"><u>Chromebook Shutter Magic - 4 Simple Steps for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-professional-photo-editing-tools-can-you-find-the-right-flipbuilder-alternative/"><u>Exploring Professional Photo Editing Tools - Can You Find the Right FlipBuilder Alternative?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/exploring-the-variety-of-export-options-available-at-flipbuildercom/"><u>Exploring the Variety of Export Options Available at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/harnessing-the-power-of-flippdf-a-detailed-reference-for-flipbuilder-users/"><u>Harnessing the Power of FlipPDF: A Detailed Reference for FlipBuilder Users</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-can-you-swiftly-identify-required-flipbuilder-button-configurations/"><u>How Can You Swiftly Identify Required FlipBuilder Button Configurations?</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-customize-your-book-titles-on-web-pages-using-flipbuilder-incorporating-keywords-and-descriptions/"><u>How to Customize Your Book Titles on Web Pages Using FlipBuilder: Incorporating Keywords and Descriptions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nubia-red-magic-8s-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nubia Red Magic 8S Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/inserting-symbols-as-you-type-in-flipbuilder-a-user-guide/"><u>Inserting Symbols as You Type in FlipBuilder - A User Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/instantly-turn-your-presentations-into-interactive-flipbooks-exclusive-ppt-templates-at-flipbuilder-flipbuildercom/"><u>Instantly Turn Your Presentations Into Interactive Flipbooks: Exclusive PPT Templates at FlipBuilder - [FlipBuilder.com]</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/integrating-audio-elements-across-various-pages-of-your-ebook-a-guide-with-flipbuilder/"><u>Integrating Audio Elements Across Various Pages of Your eBook: A Guide with FlipBuilder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-16-a-new-era-of-enhanced-repairability-according-to-apple-insight/"><u>IPhone 16: A New Era of Enhanced Repairability, According to Apple Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-windows-11-registry-file-layout/"><u>Mastering the Windows 11 Registry File Layout</u></a></li>
 </ul></div>
 
