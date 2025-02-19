@@ -1,7 +1,7 @@
 ---
 title: Sing Your Favorites with the Latest Lyrx V1.2 for MAC – Enhanced Features by PCDJ
-date: 2025-02-04T20:17:15.152Z
-updated: 2025-02-08T16:17:02.055Z
+date: 2025-02-15T23:17:28.300Z
+updated: 2025-02-18T19:19:50.347Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, version 1.3 is a **FREE upgrade** for existing LYRX customers. Simply
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.3
@@ -56,7 +56,7 @@ option) – eg. you can use this to export a karaoke book in CSV format that you
 _Have questions about the latest iteration of our **best karaoke software for MAC**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -78,21 +78,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/08/LYRXDOWNLOAD-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-excellence-professional-editing-techniques-revealed/"><u>[New] 2024 Approved Instagram Excellence Professional Editing Techniques Revealed</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windowscf-1087/"><u>如何自由且免費進行Windows中CF卡克隆 - 10/8/7版本指南</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/face-a-un-ecran-blanc-sous-windows-11-decouvrez-ces-6-astuces-rapides-pour-regler-le-souci/"><u>Face À Un Écran Blanc Sous Windows 11 ? Découvrez Ces 6 Astuces Rapides Pour Régler Le Souci!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guida-rapida-al-passaggio-dei-file-da-un-microsd-allaltro-senza-problemi/"><u>Guida Rapida Al Passaggio Dei File Da Un microSD All'altro Senza Problemi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-pratique-pour-reparer-un-dysfonctionnement-de-lecture-des-dvd-solutions-rapides-and-facilement-accessibles/"><u>Guide Pratique Pour Réparer Un Dysfonctionnement De Lecture Des DVD : Solutions Rapides & Facilement Accessibles</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-podcast-entrances-eye-catching-scripts/"><u>In 2024, Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
-<li><a href="https://fox-place.techidaily.com/les-plus-performants-programmes-de-clonage-cle-usb-vers-ssd-pour-windows-10-et-7/"><u>Les Plus Performants Programmes De Clonage Clé USB Vers SSD Pour Windows 10 Et 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-pitfalls-critical-considerations-when-using-artificial-intelligence-for-emotional-support/"><u>Navigating Pitfalls: Critical Considerations When Using Artificial Intelligence for Emotional Support</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/step-by-step-guide-restoring-accidentally-deleted-videos-on-your-chromebook/"><u>Step-by-Step Guide: Restoring Accidentally Deleted Videos on Your Chromebook</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/systemwiedereinrichtung-aktivieren-schritt-fur-schritt-anleitung-fur-windows-10/"><u>Systemwiedereinrichtung Aktivieren: Schritt-Für-Schritt Anleitung Für Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-best-of-the-best-reddits-all-time-favorites-for-2024/"><u>The Best of the Best Reddit's All-Time Favorites for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-windows-7-starting-successfully-in-safe-mode-overcoming-failures-with-normal-boot/"><u>Troubleshooting Windows 7: Starting Successfully in Safe Mode, Overcoming Failures with Normal Boot</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlock-the-art-of-iphone-photography-skill-building-tips/"><u>Unlock the Art of iPhone Photography Skill-Building Tips</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windows-10-0xc000000e/"><u>Windows 10 錯誤解決法：排除0xC000000E當克隆設備時的問題</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks-for-2024/"><u>[New] Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-learning-snapseed-essentials/"><u>[New] From Novice to Pro Learning Snapseed Essentials</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dive-into-the-art-of-asmr-recording-a-comprehensive-overview-for-2024/"><u>[Updated] Dive Into the Art of ASMR Recording – A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-global-perspective-inclusive-technology-review/"><u>[Updated] In 2024, Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-updating-and-reinstalling-windows-pc-device-drivers-a-step-by-step-guide-insights-by-yl-computing/"><u>1. Updating and Reinstalling Windows PC Device Drivers: A Step-by-Step Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-8-best-popular-instagram-after-effects-templates/"><u>2024 Approved 8 Best Popular Instagram After Effects Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mobile-and-desktop-mkv-software-for-2024/"><u>Best Mobile and Desktop MKV Software for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-hardware-diagnosis-with-apples-digital-examination-tools/"><u>DIY iPhone Hardware Diagnosis with Apple's Digital Examination Tools</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/how-to-enhance-pc-speed-is-overclocking-the-solution-insights-from-yl-software-experts/"><u>How To Enhance PC Speed: Is Overclocking The Solution? Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-parrot-prowess-in-bebop-an-in-depth-critique/"><u>In 2024, Parrot Prowess in Bebop – An In-Depth Critique</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/secure-your-digital-assets-expert-tips-for-operating-a-cold-storage-wallet-by-yl-software/"><u>Secure Your Digital Assets: Expert Tips for Operating a Cold Storage Wallet by YL Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-sound-glitches-in-video-gaming-strategies-from-yl-software-experts/"><u>Troubleshooting Sound Glitches in Video Gaming: Strategies From YL Software Experts</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-ico-success-factors-with-expertise-from-yl-computing-and-yl-software/"><u>Understanding ICO Success Factors with Expertise From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unlocking-your-presentations-a-comprehensive-walkthrough-to-opening-powerpoint-documents-by-yl-software/"><u>Unlocking Your Presentations: A Comprehensive Walkthrough to Opening PowerPoint Documents by YL Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-low-res-videos-into-stunning-hd-with-these-software/"><u>Updated Transform Low-Res Videos Into Stunning HD with These Software</u></a></li>
 </ul></div>
 

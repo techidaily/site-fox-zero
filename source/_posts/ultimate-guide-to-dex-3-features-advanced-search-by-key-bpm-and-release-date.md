@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to DEX 3 Features - Advanced Search by Key, BPM, & Release Date
-date: 2025-02-04T19:49:48.640Z
-updated: 2025-02-08T16:14:32.540Z
+date: 2025-02-16T22:11:11.717Z
+updated: 2025-02-18T22:24:42.043Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ eg. if you want to search all Dance songs with bpm 128 from the 90’s in key 10
 Using this search method works for regular music, music videos, and karaoke. Launch [DEX 3](https://tools.techidaily.com/pcdj/products/) now and try it yourself!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,22 +59,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/07/dex3-protip.jpg?fit=1276%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-instant-avoidance-guide-for-edgenuity-courses-for-2024/"><u>[New] Instant Avoidance Guide for Edgenuity Courses for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-the-capabilities-of-springs-advanced-screenscape-for-2024/"><u>[New] Unveiling the Capabilities of Spring's Advanced Screenscape for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3-easy-steps-to-remove-applications-from-your-macbook-a-step-by-step-guide/"><u>3 Easy Steps to Remove Applications From Your MacBook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/chromebook-shutter-magic-4-simple-steps-for-2024/"><u>Chromebook Shutter Magic - 4 Simple Steps for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-professional-photo-editing-tools-can-you-find-the-right-flipbuilder-alternative/"><u>Exploring Professional Photo Editing Tools - Can You Find the Right FlipBuilder Alternative?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/exploring-the-variety-of-export-options-available-at-flipbuildercom/"><u>Exploring the Variety of Export Options Available at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/harnessing-the-power-of-flippdf-a-detailed-reference-for-flipbuilder-users/"><u>Harnessing the Power of FlipPDF: A Detailed Reference for FlipBuilder Users</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-can-you-swiftly-identify-required-flipbuilder-button-configurations/"><u>How Can You Swiftly Identify Required FlipBuilder Button Configurations?</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/how-to-customize-your-book-titles-on-web-pages-using-flipbuilder-incorporating-keywords-and-descriptions/"><u>How to Customize Your Book Titles on Web Pages Using FlipBuilder: Incorporating Keywords and Descriptions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nubia-red-magic-8s-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nubia Red Magic 8S Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/inserting-symbols-as-you-type-in-flipbuilder-a-user-guide/"><u>Inserting Symbols as You Type in FlipBuilder - A User Guide</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/instantly-turn-your-presentations-into-interactive-flipbooks-exclusive-ppt-templates-at-flipbuilder-flipbuildercom/"><u>Instantly Turn Your Presentations Into Interactive Flipbooks: Exclusive PPT Templates at FlipBuilder - [FlipBuilder.com]</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/integrating-audio-elements-across-various-pages-of-your-ebook-a-guide-with-flipbuilder/"><u>Integrating Audio Elements Across Various Pages of Your eBook: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-16-a-new-era-of-enhanced-repairability-according-to-apple-insight/"><u>IPhone 16: A New Era of Enhanced Repairability, According to Apple Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-windows-11-registry-file-layout/"><u>Mastering the Windows 11 Registry File Layout</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-can-i-share-youtube-videos-on-facebook-for-2024/"><u>[New] How Can I Share YouTube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1728479290090-aomei-backupper/"><u>AOMEI Backupperバックアップオプション設定:初心者から上級者まで対応した完全マニュアル</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-reduce-video-file-size-a-ranking-of-the-best-techniques-for-secure-email-attachments/"><u>How to Effortlessly Reduce Video File Size: A Ranking of the Best Techniques for Secure Email Attachments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-data-dispatch-dynamics-fast-file-transfers-to-pcs/"><u>In 2024, Data Dispatch Dynamics Fast File Transfers to PCs</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-itunes-a-guide-to-effortlessly-syncing-pictures-from-iphone-to-computer/"><u>Mastering iTunes: A Guide to Effortlessly Syncing Pictures From iPhone to Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/maximizing-video-playback-speed-on-facebook/"><u>Maximizing Video Playback Speed on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pioneer-your-own-path-8-tailored-ai-experiences/"><u>Pioneer Your Own Path: 8 Tailored AI Experiences</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/purchase-bitraser-the-ultimate-secure-data-wiping-tool/"><u>Purchase BitRaser: The Ultimate Secure Data Wiping Tool</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resolving-the-issue-of-undetected-dvd-drive-on-windows-10-systems/"><u>Resolving the Issue of Undetected DVD Drive on Windows 10 Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-itel-p55plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel P55+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/simple-guide-automatically-update-folders-between-devices-using-windows-10/"><u>Simple Guide: Automatically Update Folders Between Devices Using Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-downloading-and-setting-up-directx-12-in-windows-10/"><u>Step-by-Step Instructions: Downloading and Setting Up DirectX 12 in Windows 10</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/story-1-the-misconception-of-regional-compensation-limitations/"><u>Story 1: The Misconception of Regional Compensation Limitations</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/top-logiciels-de-migration-dos-guide-comparatif-pour-windows-11-10-8-et-7/"><u>Top Logiciels De Migration D'OS: Guide Comparatif Pour Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/wie-sie-sichere-backups-fur-ihre-bitlocker-wiederherstellungstasten-erstellen-detaillierte-schritt-fur-schritt-anleitungen/"><u>Wie Sie Sichere Backups Für Ihre BitLocker Wiederherstellungstasten Erstellen: Detaillierte Schritt-Für-Schritt-Anleitungen</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/shagi-klonirovaniya-zhestkogo-diska-na-m2-ssd-s-vozmozhnostyami-zagruzki-poshagovoe-rukovodstvo/"><u>Шаги Клонирования Жесткого Диска На M.2 SSD С Возможностями Загрузки: Пошаговое Руководство</u></a></li>
 </ul></div>
 
