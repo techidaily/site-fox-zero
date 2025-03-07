@@ -1,7 +1,7 @@
 ---
 title: "Stream Your DJ Set Using Deckadance v3 & Icecast: A Comprehensive Guide"
-date: 2025-02-12T21:12:07.790Z
-updated: 2025-02-18T19:53:28.428Z
+date: 2025-03-02T21:15:46.277Z
+updated: 2025-03-07T04:46:15.016Z
 tags:
   - product
 categories:
@@ -113,10 +113,6 @@ For now, if you want to test streaming locally with DEX 3.4 here’s our quick s
 | For the network URL, type in the following: http://127.0.0.1:8000/stream1and then select ‘Play.’At this point, you will be connected to your radio station. | [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/06/20.png?fit=300%2C257&ssl=1 "20")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/06/20.png?fit=535%2C459&ssl=1) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-06-16 10:23:172018-12-03 12:01:08Broadcast Your Mix With DEX 3 And Icecast}
@@ -136,18 +132,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-eyecapture-master-series-version-x/"><u>[Updated] In 2024, EyeCapture Master Series - Version X</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-best-in-class-textify-your-vlogs/"><u>2024 Approved Best in Class Textify Your Vlogs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-cross-platform-guide-extracting-facebook-video-content/"><u>2024 Approved Cross-Platform Guide Extracting Facebook Video Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/compilation-of-best-windows-11-art-software/"><u>Compilation of Best Windows 11 Art Software</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/high-definition-aston-martin-dbs-visuals-premium-wallpaper-background-and-image-collections-yl-computing/"><u>High-Definition Aston Martin DBS Visuals: Premium Wallpaper, Background & Image Collections - YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/moving-windows-registry-setup-from-one-computer-to-another-is-it-feasible-discover-the-answer-with-yl-computings-guide/"><u>Moving Windows Registry Setup From One Computer to Another: Is It Feasible? Discover the Answer with YL Computing's Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/resuming-your-operating-life-replicating-windows-1011-os-images-onto-a-fresh-hard-drive-top-2-techniques/"><u>Resuming Your Operating Life: Replicating Windows 10/11 OS Images Onto a Fresh Hard Drive – Top 2 Techniques</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/tecnicas-faciles-de-como-hacer-copia-de-seguridad-incremental-usando-robocopy/"><u>Técnicas Fáciles De Cómo Hacer Copia De Seguridad Incremental Usando Robocopy</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/troubleshooting-your-scanners-error-messages-expert-solutions-from-yl-computing/"><u>Troubleshooting Your Scanner's Error Messages: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-inner-toon-16-fantastic-cartoonizer-apps/"><u>Updated 2024 Approved Unleash Your Inner Toon 16 Fantastic Cartoonizer Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-rev-up-your-videos-10-best-free-speed-changing-apps-for-ios-and-android-for-2024/"><u>Updated Rev Up Your Videos 10 Best Free Speed Changing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/wifi-woes-solved-expert-advice-for-restoring-wireless-connectivity-on-laptops-by-yl-software-experts/"><u>WiFi Woes Solved! Expert Advice for Restoring Wireless Connectivity on Laptops by YL Software Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-maximize-marketing-youtubes-best-seo-aids-for-videos/"><u>[Updated] 2024 Approved Maximize Marketing - YouTube's Best SEO Aids for Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ingenious-stop-motion-cinema-ranking-the-best-15/"><u>2024 Approved Ingenious Stop-Motion Cinema - Ranking the Best 15</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/5-effective-solutions-for-when-your-hard-drive-loses-connection-in-windows/"><u>5 Effective Solutions for When Your Hard Drive Loses Connection in Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/impara-a-spostare-la-tua-licenza-oem-di-windows-11-su-un-nuovo-disco-rigido-rapidamente/"><u>Impara a Spostare La Tua Licenza OEM Di Windows 11 Su Un Nuovo Disco Rigido Rapidamente</u></a></li>
+<li><a href="https://network-issues.techidaily.com/internets-disconnection-dance/"><u>Internet's Disconnection Dance</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/passos-faceis-e-detalhados-para-clonar-seu-disco-rigido-padrao-hdd-para-um-ssd-moderno-m2-reconhecido-pelo-sistema/"><u>Passos Fáceis E Detalhados Para Clonar Seu Disco Rígido Padrão (HDD) Para Um SSD Moderno M.ˈ2 Reconhecido Pelo Sistema</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/quality-visuals-can-be-achieved-with-creative-resource-management-not-just-a-high-budget/"><u>Quality Visuals Can Be Achieved with Creative Resource Management, Not Just a High Budget.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/spiritual-slow-motion-tutorial-for-2024/"><u>Spiritual Slow Motion Tutorial for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-zte-blade-a73-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends ZTE Blade A73 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-free-video-editing-apps-with-effects-for-mobile/"><u>Updated 2024 Approved Top-Rated Free Video Editing Apps with Effects for Mobile</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-11-windows-11/"><u>おわかりかねませんが、Windows 11リファインを経て安全に再インストールするためのキチンとした準備方法 - Windows 11の秘密</u></a></li>
 </ul></div>
 

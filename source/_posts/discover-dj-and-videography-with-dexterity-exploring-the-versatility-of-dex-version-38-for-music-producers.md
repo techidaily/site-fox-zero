@@ -1,7 +1,7 @@
 ---
 title: "Discover DJ & Videography with Dexterity: Exploring the Versatility of DEX Version 3.8 for Music Producers"
-date: 2025-02-11T19:56:06.740Z
-updated: 2025-02-18T16:24:57.469Z
+date: 2025-03-02T21:15:18.057Z
+updated: 2025-03-07T00:37:35.338Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ A couple other skin tweaks include better sizing to the musical “Key” displa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s a look at skins/tabs included with DEX 3.8 and our opinion on their best individual uses:
 
 **4-DECK SKIN | FX TAB**
@@ -39,10 +35,6 @@ A couple other skin tweaks include better sizing to the musical “Key” displa
 DJs get 4 full-featured players with the DEX 3 4-Deck Skin and FX Tab. This interface is great for DJs that love to layer in their mixes. The FX Tab provides the nuts and bolts of purest DJing. Ideal for audio mixing with a handy FX-grid that shows DJs which effects are engaged and on which decks, at a glance.
 
 [4-DECK AUDIO/FX SKIN | VIEW LARGER IMAGE ![4 Deck Mixing software DEX 3](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1920%2C1080&ssl=1 "4 Deck Mixing software DEX 3")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-4-deck-main.png?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4-DECK SKIN | VIDEO TAB**
 
@@ -74,29 +66,17 @@ If you’re a video mixing DJ (aka VDJ) than this tab is designed for you. Equip
 
 [2-DECK VIDEO TAB | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Video Mixing Skin](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Video Mixing Skin")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-video.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2-DECK SKIN | SIMPLE SKIN**
 
 A no-frills 2-Deck Simple Skin also comes with DEX 3.8\. For 2-deck minimalist mixing, this easy-to-navigate skin that includes the bare minimum controls can be accessed under the select user interface menu in options (there isn’t an included option on skin to switch to it). Because the decks are rendered very slim it the 2-Deck Simple Skin provides an extended view of the track browser and playlist areas.
 
 [2-DECK SIMPLE SKIN | VIEW LARGER IMAGE ![DEX 3.8 2-Deck Simple Skin](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1920%2C1080&ssl=1 "DEX 3.8 2-Deck Simple Skin")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/08/dex3-2-deck-simple.png?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **DAYTIME (OUTSIDE/HIGH CONTRAST) SKINS**
 
 Best of all, DEX 3.8 now includes daytime versions of all 2-deck and 4-deck skins and tabs. DJs can select one of these skins from the ‘select user interface’ drop down menu in DEX 3.8’s options (they are labeled “daytime”). Use one of these skin variations when performing outside in the sun this summer or at any function where the light is high-contrast.
 
 [VIEW LARGER IMAGE OF DAYTIME SKIN MONTAGE ![DEX 3.8 DayTime Skin Montage](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1538%2C1292&ssl=1 "DEX 3.8 DayTime Skin Montage")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/daytimeskins-dex38.png?fit=1030%2C865&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Have questions about our DEX 3.8 **DJ and Video Mixing software**, or the included **skins**? Please leave them in the comments section below!_
 
@@ -119,24 +99,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/manyfacesofdex3.jpg?fit=70
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-gopros-hero5-up-against-yis-high-res-adventures-for-2024/"><u>[New] GoPro's Hero5 Up Against Yi's High-Res Adventures for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-timekeeping-tutorial-setting-up-a-timer-in-obs-studio/"><u>[New] In 2024, Timekeeping Tutorial Setting Up a Timer in OBS Studio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-auditory-journey-in-a-film-teaser/"><u>[Updated] Crafting the Auditory Journey in a Film Teaser</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-choice-for-affordable-virtual-meetings-online/"><u>2024 Approved The Ultimate Choice for Affordable Virtual Meetings Online</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/aomei-fonebackup-ios-whatsapp/"><u>AOMEI FoneBackup如何在 iOS设备中轻松传输 WhatsApp信息</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/complete-handbook-enhancing-productivity-using-mobizen-recorder/"><u>Complete Handbook Enhancing Productivity Using Mobizen Recorder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/earn-big-on-ig-ranking-the-most-effective-posts/"><u>Earn Big on IG Ranking the Most Effective Posts</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effizienteste-tools-zum-kopieren-ihrer-datentrager-hddssd-unter-windows-10-kostenlos-and-benutzerfreundlich/"><u>Effizienteste Tools Zum Kopieren Ihrer Datenträger (HDD/SSD) Unter Windows 10 - Kostenlos & Benutzerfreundlich</u></a></li>
-<li><a href="https://win-info.techidaily.com/fixing-a-non-functional-printer-tips-and-solutions-by-yl-software-professionals/"><u>Fixing a Non-Functional Printer: Tips and Solutions by YL Software Professionals</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/guide-to-retrieving-clipped-pictures-from-your-laptop-or-smartphone/"><u>Guide to Retrieving Clipped Pictures From Your Laptop or Smartphone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mantau-buku-catatnya-dalam-onenote-dengan-tidak-terhapus-petualangan-langkah-4-kunci-cerdik/"><u>Mantau Buku Catatnya Dalam OneNote Dengan Tidak Terhapus: Petualangan Langkah-4 Kunci Cerdik</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-data-safety-a-step-by-step-guide-to-implementing-the-3-2-1-backup-strategy/"><u>Mastering Data Safety: A Step-by-Step Guide to Implementing the 3-2-1 Backup Strategy</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/reparieren-und-daten-von-einem-windows-pc-auf-anderer-maschine-ubertragen/"><u>Reparieren Und Daten Von Einem Windows PC Auf Anderer Maschine Übertragen</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/the-output-waveform-contains-components-of-both-input-signals-plus-additional-sideband-frequenciescuo/"><u>The Output Waveform Contains Components of Both Input Signals, Plus Additional Sideband frequencies.cuo</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-free-software-pour-la-sauvegarde-sectorielle-guide-complet/"><u>Top Free Software Pour La Sauvegarde Sectorielle: Guide Complet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-neo-5-se-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme GT Neo 5 SE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1728496047537-2/"><u>インターネット一時ファイル復元:2つの効果的手順</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-top-ranked-video-player-applications/"><u>[New] Facebook’s Top-Ranked Video Player Applications</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-iconic-instagram-aesthetics-compilation/"><u>[Updated] 2024 Approved Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/early-launch-of-pixel-n-pro-unveiled-by-google-arriving-sooner-than-expected/"><u>Early Launch of Pixel N Pro Unveiled by Google, Arriving Sooner Than Expected!</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/erfolgreiche-lokalabbau-taktiken-fur-windows-11-ein-umfassender-leitfaden/"><u>Erfolgreiche Lokalabbau-Taktiken Für Windows 11: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-updated-amd-vega-56-drivers-for-optimal-performance-on-pcs-with-windows-os/"><u>Find & Download Updated AMD Vega 56 Drivers for Optimal Performance on PCs with Windows OS</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/optimize-your-digital-library-perfect-pages-and-sizes-with-flipbuilder/"><u>Optimize Your Digital Library - Perfect Pages & Sizes with FlipBuilder</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/personalize-your-digital-publications-with-creative-titles-via-flippingmoneys-book-creator/"><u>Personalize Your Digital Publications with Creative Titles via flippingMONEY's Book Creator</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/pre-publish-configuration-of-metadata-for-flip-pages-with-flipbuildercom/"><u>Pre-Publish Configuration of Metadata for Flip Pages with FlipBuilder.com</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/preparing-black-and-white-imagery-for-digital-books-using-flippingbooks-tools/"><u>Preparing Black and White Imagery for Digital Books Using FlippingBook's Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-video-playback-code-224003/"><u>Restoring Video Playback, Code 224003</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/step-by-step-tutorial-adding-sound-effects-to-different-chapters-of-your-ebook-on-flipbook/"><u>Step-by-Step Tutorial: Adding Sound Effects to Different Chapters of Your eBook on FlipBook</u></a></li>
 </ul></div>
 
